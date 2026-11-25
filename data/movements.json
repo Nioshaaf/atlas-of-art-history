@@ -1,0 +1,5976 @@
+[
+ {
+  "id": "egypt-old-kingdom-sculpture",
+  "name": "Egyptian Old Kingdom Sculpture",
+  "medium": "sculpture",
+  "region": "North Africa",
+  "lat": 29.98,
+  "lon": 31.13,
+  "s": -2686,
+  "p": -2550,
+  "e": -2181,
+  "i": 5,
+  "d": "Rigid, frontal royal statues and the Great Sphinx projected pharaonic divine order in hard, eternal stone; proportion canons fixed the human figure for millennia.",
+  "w": [
+   "Great Sphinx of Giza, c. 2500 BCE",
+   "Statue of Khafre, c. 2570 BCE",
+   "Seated Scribe, c. 2600-2350 BCE"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Ancient_Egyptian_sculpture"
+ },
+ {
+  "id": "egypt-middle-kingdom-sculpture",
+  "name": "Egyptian Middle Kingdom Sculpture",
+  "medium": "sculpture",
+  "region": "North Africa",
+  "lat": 29.58,
+  "lon": 31.22,
+  "s": -2055,
+  "p": -1850,
+  "e": -1650,
+  "i": 3,
+  "d": "After the First Intermediate collapse, sculptors turned to careworn, psychologically searching royal portraits, most famously the furrowed brow of Senusret III.",
+  "w": [
+   "Statue of Senusret III, c. 1850 BCE",
+   "Block statues, Middle Kingdom",
+   "Fayum portrait precursors"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Middle_Kingdom_of_Egypt"
+ },
+ {
+  "id": "egypt-new-kingdom-painting",
+  "name": "Egyptian New Kingdom Tomb Painting",
+  "medium": "painting",
+  "region": "North Africa",
+  "lat": 25.74,
+  "lon": 32.6,
+  "s": -1550,
+  "p": -1300,
+  "e": -1077,
+  "i": 5,
+  "d": "Vividly colored tomb and papyrus paintings guided the dead through the afterlife with flattened, hieroglyph-like figures moving in registers across gold-ground walls.",
+  "w": [
+   "Tomb of Nefertari murals, c. 1255 BCE",
+   "Book of the Dead of Hunefer, c. 1275 BCE",
+   "Tomb of Nakht paintings, c. 1400 BCE"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Ancient_Egyptian_painting"
+ },
+ {
+  "id": "amarna-art",
+  "name": "Amarna Art",
+  "medium": "sculpture",
+  "region": "North Africa",
+  "lat": 27.65,
+  "lon": 30.9,
+  "s": -1353,
+  "p": -1345,
+  "e": -1336,
+  "i": 3,
+  "d": "Under Akhenaten's religious revolution, artists abandoned rigid canon for elongated, naturalistic, almost caricatured royal bodies bathed in the rays of the sun-disc Aten.",
+  "w": [
+   "Bust of Nefertiti, c. 1345 BCE",
+   "Colossal statues of Akhenaten, Karnak",
+   "Amarna royal family relief, c. 1350 BCE"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Amarna_art"
+ },
+ {
+  "id": "sumerian-sculpture",
+  "name": "Sumerian Sculpture",
+  "medium": "sculpture",
+  "region": "Mesopotamia",
+  "lat": 30.96,
+  "lon": 46.11,
+  "s": -2900,
+  "p": -2500,
+  "e": -2334,
+  "i": 4,
+  "d": "Wide-eyed votive figures with clasped hands stood in temples in perpetual prayer for their donors, while royal tombs at Ur yielded inlaid harps and gold treasures.",
+  "w": [
+   "Votive statues of Eshnunna, c. 2700 BCE",
+   "Standard of Ur, c. 2600 BCE",
+   "Statues of Gudea, c. 2100 BCE"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Sumerian_art"
+ },
+ {
+  "id": "akkadian-sculpture",
+  "name": "Akkadian Sculpture",
+  "medium": "sculpture",
+  "region": "Mesopotamia",
+  "lat": 33.0,
+  "lon": 44.4,
+  "s": -2334,
+  "p": -2250,
+  "e": -2154,
+  "i": 3,
+  "d": "The world's first empire commissioned a new heroic naturalism: the Victory Stele of Naram-Sin shows a god-king trampling enemies beneath a mountain of triumph.",
+  "w": [
+   "Victory Stele of Naram-Sin, c. 2230 BCE",
+   "Bronze Head of an Akkadian Ruler, c. 2250 BCE",
+   "Cylinder seals of Akkad"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Art_of_Mesopotamia"
+ },
+ {
+  "id": "babylonian-objects",
+  "name": "Babylonian Glazed Brickwork",
+  "medium": "objects",
+  "region": "Mesopotamia",
+  "lat": 32.54,
+  "lon": 44.43,
+  "s": -1894,
+  "p": -575,
+  "e": -539,
+  "i": 3,
+  "d": "From Hammurabi's law stele to Nebuchadnezzar's Ishtar Gate, Babylon paired legal and religious authority with glazed cobalt-blue brick reliefs of striding dragons and bulls.",
+  "w": [
+   "Stele of Hammurabi, c. 1754 BCE",
+   "Ishtar Gate, c. 575 BCE",
+   "Processional Way lion reliefs"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Ishtar_Gate"
+ },
+ {
+  "id": "assyrian-relief-sculpture",
+  "name": "Neo-Assyrian Relief Sculpture",
+  "medium": "sculpture",
+  "region": "Mesopotamia",
+  "lat": 36.36,
+  "lon": 43.15,
+  "s": -911,
+  "p": -645,
+  "e": -609,
+  "i": 4,
+  "d": "Palace walls at Nineveh and Nimrud were lined with gypsum reliefs of royal lion hunts and military campaigns, guarded by colossal winged lamassu bulls at every gate.",
+  "w": [
+   "Lion Hunt reliefs of Ashurbanipal, c. 645 BCE",
+   "Lamassu of Dur-Sharrukin, c. 710 BCE",
+   "Black Obelisk of Shalmaneser III, 825 BCE"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Assyrian_sculpture"
+ },
+ {
+  "id": "indus-valley-sculpture",
+  "name": "Indus Valley Sculpture and Seals",
+  "medium": "sculpture",
+  "region": "South Asia",
+  "lat": 27.33,
+  "lon": 68.14,
+  "s": -2600,
+  "p": -2300,
+  "e": -1900,
+  "i": 3,
+  "d": "Mohenjo-daro and Harappa produced enigmatic small-scale masterworks - a bronze dancing girl and a steatite 'priest-king' bust - alongside thousands of carved animal seals never fully deciphered.",
+  "w": [
+   "Dancing Girl of Mohenjo-daro, c. 2300 BCE",
+   "Priest-King bust, c. 2000 BCE",
+   "Pashupati seal, Mohenjo-daro"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Indus_Valley_Civilisation"
+ },
+ {
+  "id": "cycladic-figurines",
+  "name": "Cycladic Figurines",
+  "medium": "sculpture",
+  "region": "Mediterranean",
+  "lat": 37.0,
+  "lon": 25.4,
+  "s": -3200,
+  "p": -2500,
+  "e": -2000,
+  "i": 2,
+  "d": "Pared-down white marble figures with folded arms, likely tied to funerary ritual, look startlingly modern and later inspired Brancusi and Modigliani.",
+  "w": [
+   "Marble female figure, Early Cycladic II",
+   "Harp Player of Keros, c. 2700 BCE",
+   "Folded-arm figurines, Naxos and Amorgos"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Cycladic_art"
+ },
+ {
+  "id": "minoan-fresco-painting",
+  "name": "Minoan Fresco Painting",
+  "medium": "painting",
+  "region": "Mediterranean",
+  "lat": 35.3,
+  "lon": 25.16,
+  "s": -2000,
+  "p": -1600,
+  "e": -1450,
+  "i": 4,
+  "d": "Palace walls at Knossos and the buried town of Akrotiri burst with buoyant, curvilinear frescoes of leaping bulls, blue monkeys, and saffron gatherers, painted with no ground line or horizon.",
+  "w": [
+   "Bull-Leaping Fresco, Knossos, c. 1450 BCE",
+   "Toreador Fresco, Knossos",
+   "Spring Fresco, Akrotiri, c. 1600 BCE"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Minoan_art"
+ },
+ {
+  "id": "mycenaean-gold-objects",
+  "name": "Mycenaean Gold and Shaft Grave Objects",
+  "medium": "objects",
+  "region": "Mediterranean",
+  "lat": 37.73,
+  "lon": 22.76,
+  "s": -1600,
+  "p": -1500,
+  "e": -1100,
+  "i": 3,
+  "d": "Warrior kings were buried with beaten gold death masks, inlaid bronze daggers, and rock-crystal vessels, projecting martial wealth quite unlike the airy Minoan world they absorbed.",
+  "w": [
+   "Mask of Agamemnon, c. 1550-1500 BCE",
+   "Lion Gate relief, Mycenae, c. 1250 BCE",
+   "Vapheio Cups, c. 1500 BCE"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Mycenaean_Greece"
+ },
+ {
+  "id": "greek-geometric-painting",
+  "name": "Greek Geometric Vase Painting",
+  "medium": "painting",
+  "region": "Mediterranean",
+  "lat": 37.98,
+  "lon": 23.73,
+  "s": -900,
+  "p": -750,
+  "e": -700,
+  "i": 3,
+  "d": "Huge Attic grave-markers were banded with meanders, key-patterns, and rows of stick-limbed mourners and funeral processions, the first narrative figure painting in Greek art.",
+  "w": [
+   "Dipylon Amphora, c. 750 BCE",
+   "Hirschfeld Krater, c. 750 BCE"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Geometric_art"
+ },
+ {
+  "id": "greek-archaic-sculpture",
+  "name": "Greek Archaic Sculpture",
+  "medium": "sculpture",
+  "region": "Mediterranean",
+  "lat": 38.48,
+  "lon": 22.5,
+  "s": -700,
+  "p": -550,
+  "e": -480,
+  "i": 4,
+  "d": "Freestanding kouroi and kore, stiff-legged and smiling enigmatically, brought Egyptian-inspired stone carving into a distinctly Greek idiom of idealized youth.",
+  "w": [
+   "Kroisos Kouros, c. 530 BCE",
+   "Peplos Kore, c. 530 BCE",
+   "Moschophoros (Calf-Bearer), c. 570 BCE"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Kouros"
+ },
+ {
+  "id": "greek-black-figure-painting",
+  "name": "Greek Black-Figure Vase Painting",
+  "medium": "painting",
+  "region": "Mediterranean",
+  "lat": 37.98,
+  "lon": 23.73,
+  "s": -700,
+  "p": -540,
+  "e": -480,
+  "i": 4,
+  "d": "Silhouetted figures incised with fine detail and set against orange clay told myths of gods and heroes on Athenian export pottery that flooded Mediterranean markets.",
+  "w": [
+   "Exekias, Achilles and Ajax playing dice, c. 540 BCE",
+   "Francois Vase, c. 570 BCE"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Black-figure_pottery"
+ },
+ {
+  "id": "greek-classical-sculpture",
+  "name": "Greek Classical Sculpture",
+  "medium": "sculpture",
+  "region": "Mediterranean",
+  "lat": 37.98,
+  "lon": 23.73,
+  "s": -480,
+  "p": -440,
+  "e": -323,
+  "i": 5,
+  "d": "Phidias and Polykleitos codified an ideal of balanced contrapposto and mathematical proportion in marble and bronze, embodying the humanist confidence of democratic Athens.",
+  "w": [
+   "Parthenon Marbles, c. 447-432 BCE",
+   "Doryphoros (Polykleitos), c. 440 BCE",
+   "Discobolus (Myron), c. 460 BCE"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Ancient_Greek_sculpture"
+ },
+ {
+  "id": "greek-red-figure-painting",
+  "name": "Greek Red-Figure Vase Painting",
+  "medium": "painting",
+  "region": "Mediterranean",
+  "lat": 37.98,
+  "lon": 23.73,
+  "s": -530,
+  "p": -450,
+  "e": -320,
+  "i": 4,
+  "d": "Reversing the black-figure technique let painters render anatomy and drapery with fluid brushed lines instead of incision, achieving unprecedented depth and movement.",
+  "w": [
+   "Euphronios Krater, c. 515 BCE",
+   "Berlin Painter amphorae, c. 490 BCE"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Red-figure_pottery"
+ },
+ {
+  "id": "hellenistic-sculpture",
+  "name": "Hellenistic Sculpture",
+  "medium": "sculpture",
+  "region": "Mediterranean",
+  "lat": 39.13,
+  "lon": 27.18,
+  "s": -323,
+  "p": -150,
+  "e": -31,
+  "i": 5,
+  "d": "After Alexander's conquests scattered Greek culture across three continents, sculptors chased emotional extremity and swirling movement over classical restraint.",
+  "w": [
+   "Pergamon Altar frieze, c. 165 BCE",
+   "Laocoon and His Sons, c. 200-70 BCE",
+   "Venus de Milo, c. 150-100 BCE"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Hellenistic_art"
+ },
+ {
+  "id": "etruscan-tomb-painting",
+  "name": "Etruscan Tomb Painting",
+  "medium": "painting",
+  "region": "Mediterranean",
+  "lat": 42.25,
+  "lon": 11.76,
+  "s": -700,
+  "p": -500,
+  "e": -300,
+  "i": 3,
+  "d": "Tarquinia's underground chambers were painted with lively banquets, dancers, and musicians in flat bright color, celebrating this life to accompany the dead into the next.",
+  "w": [
+   "Tomb of the Leopards, c. 480 BCE",
+   "Tomb of Hunting and Fishing, c. 520 BCE"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Etruscan_art"
+ },
+ {
+  "id": "etruscan-bronze-sculpture",
+  "name": "Etruscan Bronze and Terracotta Sculpture",
+  "medium": "sculpture",
+  "region": "Mediterranean",
+  "lat": 42.12,
+  "lon": 12.15,
+  "s": -700,
+  "p": -480,
+  "e": -200,
+  "i": 3,
+  "d": "Master bronze-casters produced the shaggy, wide-eyed Capitoline Wolf and reclining terracotta married couples atop sarcophagi, a warmer naturalism than either Greece or early Rome.",
+  "w": [
+   "Capitoline Wolf, c. 500 BCE",
+   "Sarcophagus of the Spouses, c. 520 BCE",
+   "Chimera of Arezzo, c. 400 BCE"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Etruscan_art"
+ },
+ {
+  "id": "roman-republican-portraiture",
+  "name": "Roman Republican Portrait Sculpture",
+  "medium": "sculpture",
+  "region": "Mediterranean",
+  "lat": 41.9,
+  "lon": 12.5,
+  "s": -200,
+  "p": -100,
+  "e": -27,
+  "i": 4,
+  "d": "Following an ancestral wax-mask tradition, Republican patricians demanded brutally veristic portraits - every wrinkle and wart intact - to project moral gravitas and lineage.",
+  "w": [
+   "Head of a Roman Patrician, c. 75 BCE",
+   "Togatus Barberini, 1st century BCE"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Roman_portraiture"
+ },
+ {
+  "id": "roman-imperial-relief-sculpture",
+  "name": "Roman Imperial Relief Sculpture",
+  "medium": "sculpture",
+  "region": "Mediterranean",
+  "lat": 41.9,
+  "lon": 12.5,
+  "s": -27,
+  "p": 150,
+  "e": 284,
+  "i": 5,
+  "d": "State monuments turned relief carving into political propaganda - continuous spiraling narratives of conquest and idealized imperial piety wrapped around columns and altars.",
+  "w": [
+   "Ara Pacis Augustae, 13-9 BCE",
+   "Column of Trajan, 113 CE",
+   "Column of Marcus Aurelius, c. 180 CE"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Roman_sculpture"
+ },
+ {
+  "id": "roman-wall-painting",
+  "name": "Roman Wall Painting (Pompeian Styles)",
+  "medium": "painting",
+  "region": "Mediterranean",
+  "lat": 40.75,
+  "lon": 14.5,
+  "s": -200,
+  "p": 50,
+  "e": 79,
+  "i": 4,
+  "d": "Villa walls near Naples were transformed with illusionistic architecture, mythological panels, and moody still lifes, preserved almost intact by Vesuvius's ash in 79 CE.",
+  "w": [
+   "Villa of the Mysteries frieze, c. 60 BCE",
+   "House of the Vettii paintings, Pompeii",
+   "Garden Room, Villa of Livia, c. 30 BCE"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Pompeian_Styles"
+ },
+ {
+  "id": "roman-mosaics",
+  "name": "Roman Mosaics",
+  "medium": "objects",
+  "region": "Mediterranean",
+  "lat": 36.82,
+  "lon": 10.17,
+  "s": -100,
+  "p": 200,
+  "e": 400,
+  "i": 3,
+  "d": "Floors across the empire, from Tunisian villas to Sicily, were paved with tessellated hunting scenes, personified seasons, and gladiatorial games in millions of tiny stone and glass cubes.",
+  "w": [
+   "Alexander Mosaic, House of the Faun, Pompeii",
+   "Great Hunt mosaic, Piazza Armerina, c. 320 CE"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Roman_mosaic"
+ },
+ {
+  "id": "late-antique-roman-art",
+  "name": "Late Antique Roman Art",
+  "medium": "sculpture",
+  "region": "Mediterranean",
+  "lat": 41.9,
+  "lon": 12.5,
+  "s": 284,
+  "p": 350,
+  "e": 450,
+  "i": 3,
+  "d": "As the empire Christianized and fractured, sculptors abandoned classical naturalism for squat, frontal, hierarchically staring figures that anticipate Byzantine style.",
+  "w": [
+   "Arch of Constantine reliefs, 315 CE",
+   "Colossus of Constantine, c. 312-315 CE",
+   "Portrait of the Tetrarchs, c. 300 CE"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Arch_of_Constantine"
+ },
+ {
+  "id": "scythian-animal-style",
+  "name": "Scythian Animal-Style Objects",
+  "medium": "objects",
+  "region": "Central Asia",
+  "lat": 47.8,
+  "lon": 34.0,
+  "s": -700,
+  "p": -400,
+  "e": -200,
+  "i": 3,
+  "d": "Nomadic steppe warriors buried their dead with gold plaques, belt buckles, and horse trappings twisted into coiled stags, griffins, and predators locked in combat.",
+  "w": [
+   "Pazyryk felt saddle covers, c. 500-300 BCE",
+   "Gold pectoral, Tovsta Mohyla kurgan, c. 350 BCE",
+   "Chertomlyk vase, c. 400 BCE"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Scythian_art"
+ },
+ {
+  "id": "achaemenid-persepolis-reliefs",
+  "name": "Achaemenid Persepolis Reliefs",
+  "medium": "sculpture",
+  "region": "Middle East",
+  "lat": 29.94,
+  "lon": 52.89,
+  "s": -550,
+  "p": -480,
+  "e": -330,
+  "i": 4,
+  "d": "The ceremonial capital's staircases were carved with an orderly procession of tribute-bearing subject nations, projecting an empire of harmonious multicultural rule.",
+  "w": [
+   "Apadana staircase reliefs, Persepolis, c. 500 BCE",
+   "Tomb of Darius I facade, Naqsh-e Rustam"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Persepolis"
+ },
+ {
+  "id": "achaemenid-luxury-objects",
+  "name": "Achaemenid Gold and Luxury Objects",
+  "medium": "objects",
+  "region": "Middle East",
+  "lat": 31.5,
+  "lon": 57.5,
+  "s": -550,
+  "p": -450,
+  "e": -330,
+  "i": 3,
+  "d": "The Oxus Treasure's winged griffin armlets and miniature gold chariots show a court art of portable wealth, drawing on Egyptian, Greek, and Central Asian motifs alike.",
+  "w": [
+   "Oxus Treasure griffin-headed armlets, 5th-4th century BCE",
+   "Rhyton in the form of a winged lion, Achaemenid Persia"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Oxus_treasure"
+ },
+ {
+  "id": "sasanian-rock-reliefs",
+  "name": "Sasanian Rock Reliefs",
+  "medium": "sculpture",
+  "region": "Middle East",
+  "lat": 29.99,
+  "lon": 52.87,
+  "s": 224,
+  "p": 280,
+  "e": 651,
+  "i": 3,
+  "d": "Cliff faces at Naqsh-e Rustam were carved with monumental scenes of kings receiving divine investiture or triumphing over captured Roman emperors, reasserting Persian imperial ideology.",
+  "w": [
+   "Investiture of Ardashir I, c. 224-240 CE",
+   "Triumph of Shapur I over Valerian, c. 260 CE"
+  ],
+  "src": "https://www.metmuseum.org/essays/the-sasanian-empire-224-651-a-d"
+ },
+ {
+  "id": "sasanian-metalwork",
+  "name": "Sasanian Silver and Metalwork",
+  "medium": "objects",
+  "region": "Middle East",
+  "lat": 33.09,
+  "lon": 44.58,
+  "s": 224,
+  "p": 400,
+  "e": 651,
+  "i": 3,
+  "d": "Royal silver plates showing kings hunting lions on horseback circulated as diplomatic gifts along the Silk Road, carrying Sasanian court iconography as far as China and Scandinavia.",
+  "w": [
+   "Plate with a king hunting rams, 4th century CE",
+   "Cup of Khosrow I, 6th century CE"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Sasanian_art"
+ },
+ {
+  "id": "shang-ritual-bronzes",
+  "name": "Shang Dynasty Ritual Bronzes",
+  "medium": "objects",
+  "region": "East Asia",
+  "lat": 36.1,
+  "lon": 114.39,
+  "s": -1600,
+  "p": -1200,
+  "e": -1046,
+  "i": 5,
+  "d": "Cast in piece-molds of extraordinary precision, ding tripods and wine vessels bore taotie animal masks used in ancestor-worship rituals that legitimized royal power.",
+  "w": [
+   "Simuwu Ding, c. 1200 BCE",
+   "Owl-shaped you vessel, Anyang, c. 1200 BCE"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Chinese_ritual_bronzes"
+ },
+ {
+  "id": "zhou-bronzes-jade",
+  "name": "Zhou Dynasty Bronzes and Jade",
+  "medium": "objects",
+  "region": "East Asia",
+  "lat": 34.26,
+  "lon": 108.94,
+  "s": -1046,
+  "p": -700,
+  "e": -256,
+  "i": 4,
+  "d": "Bronze vessels grew longer inscriptions recording land grants and clan history, while jade carvers produced disc-shaped bi and tube-shaped cong linking earth and heaven.",
+  "w": [
+   "Da Ke Ding, Western Zhou",
+   "Jade bi disc, Eastern Zhou",
+   "Zeng Hou Yi bronze bell set, c. 433 BCE"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Chinese_ritual_bronzes"
+ },
+ {
+  "id": "qin-terracotta-army",
+  "name": "Qin Terracotta Army",
+  "medium": "sculpture",
+  "region": "East Asia",
+  "lat": 34.38,
+  "lon": 109.27,
+  "s": -221,
+  "p": -210,
+  "e": -206,
+  "i": 4,
+  "d": "Over 8,000 individualized life-size soldiers, horses, and chariots were buried to guard China's first emperor in death, each face modeled distinctly from a limited set of components.",
+  "w": [
+   "Terracotta Army, Mausoleum of Qin Shi Huang, c. 210 BCE",
+   "Bronze chariots, Qin mausoleum"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Terracotta_Army"
+ },
+ {
+  "id": "han-tomb-art",
+  "name": "Han Dynasty Tomb Art",
+  "medium": "objects",
+  "region": "East Asia",
+  "lat": 34.26,
+  "lon": 108.94,
+  "s": -206,
+  "p": 100,
+  "e": 220,
+  "i": 4,
+  "d": "Elite burials were filled with painted lacquerware, incised stone reliefs of daily and mythic life, and jade suits sewn with gold thread meant to preserve the body forever.",
+  "w": [
+   "Jade burial suit of Liu Sheng, c. 113 BCE",
+   "Mawangdui painted silk banner, c. 168 BCE",
+   "Wu Liang Shrine stone reliefs, c. 151 CE"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Han_dynasty_art"
+ },
+ {
+  "id": "six-dynasties-buddhist-sculpture",
+  "name": "Six Dynasties Buddhist Cave Sculpture",
+  "medium": "sculpture",
+  "region": "East Asia",
+  "lat": 40.08,
+  "lon": 113.2,
+  "s": 386,
+  "p": 494,
+  "e": 589,
+  "i": 4,
+  "d": "As Buddhism spread from Central Asia, colossal Buddhas were carved directly from sandstone cliffs at Yungang and Longmen, their drapery and faces shifting from Gandharan solidity to sinuous Chinese linearity.",
+  "w": [
+   "Yungang Grottoes colossal Buddha, c. 460 CE",
+   "Longmen Grottoes, Central Binyang Cave, c. 500-523 CE"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Yungang_Grottoes"
+ },
+ {
+  "id": "tang-figure-painting",
+  "name": "Tang Dynasty Figure Painting",
+  "medium": "painting",
+  "region": "East Asia",
+  "lat": 34.26,
+  "lon": 108.94,
+  "s": 618,
+  "p": 750,
+  "e": 907,
+  "i": 4,
+  "d": "Court painters depicted plump, elegantly robed palace ladies and horses with confident, even brushwork, reflecting a cosmopolitan empire open to Silk Road trade and fashion.",
+  "w": [
+   "Zhang Xuan, Court Ladies Preparing Newly Woven Silk, early 8th c.",
+   "Han Gan, Night-Shining White, c. 750 CE"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Tang_dynasty_art"
+ },
+ {
+  "id": "tang-sancai-ceramics",
+  "name": "Tang Sancai Ceramics",
+  "medium": "objects",
+  "region": "East Asia",
+  "lat": 34.26,
+  "lon": 108.94,
+  "s": 618,
+  "p": 700,
+  "e": 907,
+  "i": 3,
+  "d": "Lead-glazed 'three-color' earthenware camels, horses, and tomb guardians in amber, green, and cream splashed glazes captured the Silk Road cosmopolitanism of Chang'an.",
+  "w": [
+   "Sancai-glazed camel with musicians, 8th century",
+   "Tang tomb guardian figures (lokapala)"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Sancai"
+ },
+ {
+  "id": "song-landscape-painting",
+  "name": "Song Dynasty Landscape Painting",
+  "medium": "painting",
+  "region": "East Asia",
+  "lat": 34.8,
+  "lon": 114.34,
+  "s": 960,
+  "p": 1100,
+  "e": 1279,
+  "i": 5,
+  "d": "Monumental ink landscapes rendered towering mountains dissolving into mist as metaphors for cosmic order, while Southern Song masters pared compositions down to a single misty branch or fisherman.",
+  "w": [
+   "Fan Kuan, Travelers Among Mountains and Streams, c. 1000 CE",
+   "Guo Xi, Early Spring, 1072 CE",
+   "Ma Yuan, Fishing on a Snowy River, c. 1195 CE"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Song_dynasty_painting"
+ },
+ {
+  "id": "song-ceramics",
+  "name": "Song Dynasty Ceramics",
+  "medium": "objects",
+  "region": "East Asia",
+  "lat": 34.7,
+  "lon": 112.72,
+  "s": 960,
+  "p": 1100,
+  "e": 1279,
+  "i": 5,
+  "d": "Imperial kilns pursued subtle monochrome perfection - the crackled blue-green of Ru ware, the pale celadon of Longquan, the sky-blue splash of Jun ware - prized above painted decoration.",
+  "w": [
+   "Ru ware brush washer, c. 1100 CE",
+   "Jun ware bowl, Northern Song",
+   "Ding ware bowl with incised lotus, 11th century"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Ru_ware"
+ },
+ {
+  "id": "yuan-blue-and-white-porcelain",
+  "name": "Yuan Blue-and-White Porcelain",
+  "medium": "objects",
+  "region": "East Asia",
+  "lat": 29.27,
+  "lon": 117.18,
+  "s": 1271,
+  "p": 1350,
+  "e": 1368,
+  "i": 4,
+  "d": "Jingdezhen kilns combined Chinese porcelain technology with Persian cobalt pigment and Islamic-inspired arabesque design, producing export ware that reshaped ceramic history across Eurasia.",
+  "w": [
+   "David Vases, dated 1351",
+   "Yuan blue-and-white jar with dragon, 14th century"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Yuan_blue_and_white"
+ },
+ {
+  "id": "jomon-pottery",
+  "name": "Jomon Pottery",
+  "medium": "objects",
+  "region": "East Asia",
+  "lat": 40.75,
+  "lon": 140.7,
+  "s": -10000,
+  "p": -3000,
+  "e": -300,
+  "i": 3,
+  "d": "Among the world's oldest pottery, Middle Jomon 'flame-style' vessels were built up with wildly writhing cord-marked clay rims, serving ritual rather than purely practical ends.",
+  "w": [
+   "Flame-style vessel (kaen-doki), c. 3000 BCE",
+   "Dogu clay figurines, Late Jomon"
+  ],
+  "src": "https://en.wikipedia.org/wiki/J%C5%8Dmon_pottery"
+ },
+ {
+  "id": "yayoi-dotaku-bronzes",
+  "name": "Yayoi Bronze Dotaku",
+  "medium": "objects",
+  "region": "East Asia",
+  "lat": 33.16,
+  "lon": 130.4,
+  "s": -300,
+  "p": -50,
+  "e": 300,
+  "i": 2,
+  "d": "Rice-farming Yayoi communities cast bell-shaped bronze dotaku, decorated with hunting and farming scenes, buried in hillsides for agricultural ritual rather than sounded.",
+  "w": [
+   "Dotaku with hunting scenes, Kagawa, 1st century BCE",
+   "Dotaku bell cluster, Sakuragaoka site"
+  ],
+  "src": "https://en.wikipedia.org/wiki/D%C5%8Dtaku"
+ },
+ {
+  "id": "kofun-haniwa",
+  "name": "Kofun Haniwa Sculpture",
+  "medium": "sculpture",
+  "region": "East Asia",
+  "lat": 34.57,
+  "lon": 135.48,
+  "s": 300,
+  "p": 450,
+  "e": 538,
+  "i": 3,
+  "d": "Ringing the huge keyhole-shaped burial mounds of early Japanese chieftains, hollow unglazed clay cylinders evolved into charmingly simplified warriors, horses, and houses.",
+  "w": [
+   "Haniwa warrior in armor, 6th century",
+   "Haniwa horse, Gunma Prefecture"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Haniwa"
+ },
+ {
+  "id": "asuka-buddhist-sculpture",
+  "name": "Asuka Period Buddhist Sculpture",
+  "medium": "sculpture",
+  "region": "East Asia",
+  "lat": 34.47,
+  "lon": 135.82,
+  "s": 538,
+  "p": 623,
+  "e": 710,
+  "i": 3,
+  "d": "Japan's first official Buddhist art, imported via Korea, favored archaic almond-eyed smiles and flame-like symmetrical drapery cast in gilt bronze and carved camphor wood.",
+  "w": [
+   "Shaka Triad, Horyu-ji, 623 CE",
+   "Guze Kannon, Horyu-ji, 7th century"
+  ],
+  "src": "https://en.wikipedia.org/wiki/H%C5%8Dry%C5%AB-ji"
+ },
+ {
+  "id": "nara-buddhist-sculpture",
+  "name": "Nara Period Buddhist Sculpture",
+  "medium": "sculpture",
+  "region": "East Asia",
+  "lat": 34.69,
+  "lon": 135.8,
+  "s": 710,
+  "p": 752,
+  "e": 794,
+  "i": 4,
+  "d": "State-sponsored Buddhism reached monumental scale with the bronze Great Buddha of Todai-ji, cast in eight stages, while dry-lacquer and clay techniques gave temple guardians startling realism.",
+  "w": [
+   "Great Buddha (Daibutsu), Todai-ji, 752 CE",
+   "Shukongoshin clay statue, Todai-ji",
+   "Ashura statue, Kofuku-ji, 734 CE"
+  ],
+  "src": "https://en.wikipedia.org/wiki/T%C5%8Ddai-ji"
+ },
+ {
+  "id": "heian-yamato-e-painting",
+  "name": "Heian Yamato-e Painting",
+  "medium": "painting",
+  "region": "East Asia",
+  "lat": 35.01,
+  "lon": 135.77,
+  "s": 900,
+  "p": 1120,
+  "e": 1185,
+  "i": 4,
+  "d": "Court painters developed a distinctly Japanese narrative style - flattened bird's-eye interiors with roofs removed, thin 'line drawn eyes and hook noses' - to illustrate romantic court novels on hand scrolls.",
+  "w": [
+   "Tale of Genji Handscroll, c. 1130",
+   "Choju-giga (Animal Scrolls), 12th century"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Yamato-e"
+ },
+ {
+  "id": "heian-buddhist-sculpture",
+  "name": "Heian Buddhist Sculpture",
+  "medium": "sculpture",
+  "region": "East Asia",
+  "lat": 35.0,
+  "lon": 135.72,
+  "s": 794,
+  "p": 1053,
+  "e": 1185,
+  "i": 3,
+  "d": "Sculptor Jocho perfected a joined-woodblock technique enabling serene, gently smiling Amida Buddhas to be mass-produced for Pure Land devotion in gilded temple halls.",
+  "w": [
+   "Amida Buddha, Byodo-in Phoenix Hall, 1053 CE",
+   "Kichijoten painted wood statue, Joruri-ji, 12th century"
+  ],
+  "src": "https://en.wikipedia.org/wiki/By%C5%8Dd%C5%8D-in"
+ },
+ {
+  "id": "kamakura-sculpture",
+  "name": "Kamakura Period Sculpture",
+  "medium": "sculpture",
+  "region": "East Asia",
+  "lat": 35.32,
+  "lon": 139.55,
+  "s": 1185,
+  "p": 1203,
+  "e": 1333,
+  "i": 4,
+  "d": "Sculptors Unkei and Kaikei revived muscular, crystal-eyed realism for warrior-patron Buddhism, culminating in the ferocious Kongo Rikishi guardians and the outdoor bronze Great Buddha of Kamakura.",
+  "w": [
+   "Kongo Rikishi, Todai-ji South Gate, 1203 CE",
+   "Great Buddha of Kamakura, 1252 CE"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Unkei"
+ },
+ {
+  "id": "korea-three-kingdoms-gold",
+  "name": "Three Kingdoms Silla Gold Crowns",
+  "medium": "objects",
+  "region": "East Asia",
+  "lat": 35.86,
+  "lon": 129.22,
+  "s": 400,
+  "p": 500,
+  "e": 570,
+  "i": 3,
+  "d": "Silla royal tombs at Gyeongju yielded openwork gold crowns hung with jade curved beads (gogok) and dangling spangles, blending steppe shamanic imagery with dynastic splendor.",
+  "w": [
+   "Gold Crown from Cheonmachong tomb, 5th-6th century",
+   "Gold Crown of Silla, Gyeongju National Museum"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Korean_crown"
+ },
+ {
+  "id": "goguryeo-tomb-murals",
+  "name": "Goguryeo Tomb Murals",
+  "medium": "painting",
+  "region": "East Asia",
+  "lat": 41.13,
+  "lon": 126.19,
+  "s": 350,
+  "p": 500,
+  "e": 668,
+  "i": 3,
+  "d": "Chamber tombs near the Goguryeo capitals were painted with vigorous hunting scenes, dancing figures, and the Four Guardian Spirits of the compass directions in bold mineral pigment.",
+  "w": [
+   "Tomb of the Dancers murals, 5th century",
+   "Four Guardian Spirits, Tomb of the Four Spirits, 6th century"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Goguryeo_tombs"
+ },
+ {
+  "id": "goryeo-celadon",
+  "name": "Goryeo Celadon",
+  "medium": "objects",
+  "region": "East Asia",
+  "lat": 34.64,
+  "lon": 126.77,
+  "s": 918,
+  "p": 1150,
+  "e": 1392,
+  "i": 4,
+  "d": "Korean potters perfected a jade-green glaze the Chinese called 'the finest under heaven,' then invented sanggam inlay to press black-and-white slip patterns of cranes and clouds beneath it.",
+  "w": [
+   "Maebyeong vase with inlaid cranes and clouds, 12th century",
+   "Celadon incense burner with openwork lid, 12th century"
+  ],
+  "src": "https://www.metmuseum.org/essays/goryeo-celadon"
+ },
+ {
+  "id": "mauryan-pillars",
+  "name": "Mauryan Ashokan Pillars",
+  "medium": "sculpture",
+  "region": "South Asia",
+  "lat": 25.38,
+  "lon": 83.02,
+  "s": -322,
+  "p": -250,
+  "e": -185,
+  "i": 3,
+  "d": "Emperor Ashoka planted polished sandstone pillars across his realm, each inscribed with edicts of Buddhist dharma and crowned by capitals of confident, Persian-influenced animal sculpture.",
+  "w": [
+   "Lion Capital of Ashoka, Sarnath, c. 250 BCE",
+   "Ashokan Pillar, Vaishali"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Pillars_of_Ashoka"
+ },
+ {
+  "id": "gandhara-sculpture",
+  "name": "Gandharan Sculpture",
+  "medium": "sculpture",
+  "region": "South Asia",
+  "lat": 33.74,
+  "lon": 72.84,
+  "s": -50,
+  "p": 150,
+  "e": 500,
+  "i": 4,
+  "d": "At the crossroads of Silk Road trade, Kushan-era sculptors fused Hellenistic drapery and facial features with Buddhist iconography to create the first anthropomorphic images of the Buddha.",
+  "w": [
+   "Standing Buddha, Gandhara, 1st-2nd century CE",
+   "Bimaran reliquary, 1st century CE"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Greco-Buddhist_art"
+ },
+ {
+  "id": "mathura-sculpture",
+  "name": "Mathura School Sculpture",
+  "medium": "sculpture",
+  "region": "South Asia",
+  "lat": 27.49,
+  "lon": 77.67,
+  "s": -150,
+  "p": 100,
+  "e": 600,
+  "i": 4,
+  "d": "Working in warm spotted red sandstone, Mathura's indigenous school gave the Buddha a fleshy, radiant physicality and pioneered the earliest surviving images of Hindu deities.",
+  "w": [
+   "Kanishka Buddha image, c. 130 CE",
+   "Seated Buddha, Katra Mound, 2nd century CE"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Art_of_Mathura"
+ },
+ {
+  "id": "gupta-sculpture",
+  "name": "Gupta Sculpture",
+  "medium": "sculpture",
+  "region": "South Asia",
+  "lat": 25.38,
+  "lon": 83.02,
+  "s": 320,
+  "p": 475,
+  "e": 550,
+  "i": 5,
+  "d": "Often called India's classical age, Gupta sculptors merged Mathura and Gandhara traditions into a serene, transparently-robed Buddha whose downcast eyes and gentle smile became the pan-Asian template.",
+  "w": [
+   "Standing Buddha, Sarnath, c. 475 CE",
+   "Vishnu reliefs, Udayagiri Caves, c. 400 CE"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Gupta_art"
+ },
+ {
+  "id": "ajanta-cave-painting",
+  "name": "Ajanta Cave Painting",
+  "medium": "painting",
+  "region": "South Asia",
+  "lat": 20.55,
+  "lon": 75.7,
+  "s": -100,
+  "p": 475,
+  "e": 500,
+  "i": 4,
+  "d": "Carved deep into a horseshoe cliff, Buddhist monastery caves were painted with sinuous, densely populated Jataka tale murals in tempera, among the finest ancient paintings to survive anywhere in Asia.",
+  "w": [
+   "Bodhisattva Padmapani, Cave 1, c. 475 CE",
+   "Jataka tale murals, Cave 17"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Ajanta_Caves"
+ },
+ {
+  "id": "pala-bronze-sculpture",
+  "name": "Pala Bronze and Stone Sculpture",
+  "medium": "sculpture",
+  "region": "South Asia",
+  "lat": 25.14,
+  "lon": 85.44,
+  "s": 750,
+  "p": 1000,
+  "e": 1200,
+  "i": 3,
+  "d": "Bengal's last great Buddhist dynasty cast lithe, ornately jeweled bronze bodhisattvas at Nalanda that Southeast Asian pilgrims carried home, seeding Buddhist bronze traditions abroad.",
+  "w": [
+   "Bronze Avalokiteshvara, Nalanda, 9th century",
+   "Black stone stele of Vishnu, 11th century"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Pala_Empire"
+ },
+ {
+  "id": "pala-manuscript-painting",
+  "name": "Pala Illuminated Manuscript Painting",
+  "medium": "objects",
+  "region": "South Asia",
+  "lat": 25.37,
+  "lon": 87.2,
+  "s": 800,
+  "p": 1100,
+  "e": 1200,
+  "i": 2,
+  "d": "Palm-leaf Buddhist manuscripts from Vikramashila and Nalanda were illustrated with tiny, jewel-bright painted panels of the Buddha's life, the earliest Indian painting tradition to survive on a portable medium.",
+  "w": [
+   "Ashtasahasrika Prajnaparamita manuscript, c. 1100 CE",
+   "Illustrated Pancharaksha manuscript, 12th century"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Pala_Empire"
+ },
+ {
+  "id": "chola-bronzes",
+  "name": "Chola Bronze Sculpture",
+  "medium": "sculpture",
+  "region": "South Asia",
+  "lat": 10.79,
+  "lon": 79.14,
+  "s": 850,
+  "p": 1000,
+  "e": 1279,
+  "i": 5,
+  "d": "Using the lost-wax method, Chola founders cast Shiva as Nataraja, cosmic dancer within a ring of fire, a synthesis of dynamic movement and stillness unmatched in world bronze sculpture.",
+  "w": [
+   "Nataraja (Shiva as Lord of the Dance), c. 11th century",
+   "Bronze Sambandar, 12th century"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Chola_art_and_architecture"
+ },
+ {
+  "id": "khmer-angkor-sculpture",
+  "name": "Khmer Angkor Sculpture and Relief",
+  "medium": "sculpture",
+  "region": "Southeast Asia",
+  "lat": 13.41,
+  "lon": 103.87,
+  "s": 802,
+  "p": 1150,
+  "e": 1431,
+  "i": 5,
+  "d": "Angkor's temple-mountains were carved with kilometers of narrative bas-relief - churning oceans of milk and battle processions - and populated by serenely smiling four-faced towers under Jayavarman VII.",
+  "w": [
+   "Angkor Wat bas-reliefs, c. 1150 CE",
+   "Bayon face towers, c. 1200 CE",
+   "Churning of the Sea of Milk relief, Angkor Wat"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Khmer_art"
+ },
+ {
+  "id": "borobudur-relief-sculpture",
+  "name": "Javanese Borobudur Relief Sculpture",
+  "medium": "sculpture",
+  "region": "Southeast Asia",
+  "lat": -7.61,
+  "lon": 110.2,
+  "s": 750,
+  "p": 800,
+  "e": 825,
+  "i": 4,
+  "d": "The Sailendra dynasty built the world's largest Buddhist monument as a stepped mandala, wrapping its terraces in nearly 3,000 relief panels guiding pilgrims from earthly desire to enlightenment.",
+  "w": [
+   "Borobudur narrative reliefs, c. 800 CE",
+   "Borobudur Buddha statues in stupas"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Borobudur"
+ },
+ {
+  "id": "srivijaya-bronze-sculpture",
+  "name": "Srivijaya Buddhist Bronze Sculpture",
+  "medium": "sculpture",
+  "region": "Southeast Asia",
+  "lat": -2.98,
+  "lon": 104.78,
+  "s": 650,
+  "p": 800,
+  "e": 1200,
+  "i": 3,
+  "d": "This maritime empire controlling the Malacca Strait cast softly modeled bronze bodhisattvas that fused Indian Pala grace with local Malay features, spread by monks and traders across the archipelago.",
+  "w": [
+   "Bronze Avalokiteshvara, Chaiya, 8th century",
+   "Bronze Buddha, Palembang, 8th-9th century"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Srivijaya"
+ },
+ {
+  "id": "champa-sculpture",
+  "name": "Champa Sculpture",
+  "medium": "sculpture",
+  "region": "Southeast Asia",
+  "lat": 15.76,
+  "lon": 108.13,
+  "s": 400,
+  "p": 900,
+  "e": 1300,
+  "i": 3,
+  "d": "Cham sandstone towers at My Son sheltered voluptuous, dynamically posed Hindu-Buddhist sculpture, most distinctively the smiling, broad-featured Dong Duong Buddhist style of the 9th century.",
+  "w": [
+   "Dong Duong Buddha, late 9th century",
+   "Tra Kieu pedestal reliefs, 10th century"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Art_of_Champa"
+ },
+ {
+  "id": "olmec-colossal-heads",
+  "name": "Olmec Colossal Heads",
+  "medium": "sculpture",
+  "region": "Mesoamerica",
+  "lat": 18.12,
+  "lon": -94.03,
+  "s": -1400,
+  "p": -1000,
+  "e": -400,
+  "i": 4,
+  "d": "Mesoamerica's 'mother culture' carved multi-ton basalt boulders, hauled from distant quarries, into individualized portrait heads of rulers wearing padded ballgame helmets.",
+  "w": [
+   "Colossal Head 1, San Lorenzo, c. 1200 BCE",
+   "La Venta Altar 4"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Olmec_colossal_heads"
+ },
+ {
+  "id": "teotihuacan-mural-painting",
+  "name": "Teotihuacan Mural Painting",
+  "medium": "painting",
+  "region": "Mesoamerica",
+  "lat": 19.69,
+  "lon": -98.84,
+  "s": 1,
+  "p": 400,
+  "e": 550,
+  "i": 4,
+  "d": "The Americas' largest ancient city covered its apartment compounds with brilliant mineral-pigment murals of feathered serpents, jaguars, and a still-unidentified goggle-eyed storm deity.",
+  "w": [
+   "Mural of the Feathered Serpent, Tetitla compound",
+   "Great Goddess mural, Tepantitla"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Teotihuacan"
+ },
+ {
+  "id": "maya-stelae-sculpture",
+  "name": "Maya Stone Stelae and Relief Sculpture",
+  "medium": "sculpture",
+  "region": "Mesoamerica",
+  "lat": 14.84,
+  "lon": -89.14,
+  "s": -100,
+  "p": 700,
+  "e": 900,
+  "i": 5,
+  "d": "City-states erected towering carved stelae recording rulers' genealogies, conquests, and calendar rituals in dense hieroglyphic script wrapped around dynamic, richly costumed royal portraits.",
+  "w": [
+   "Stela H, Copan, 782 CE",
+   "Yaxchilan Lintel 24, 723 CE",
+   "Palenque Palace tablets"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Maya_stelae"
+ },
+ {
+  "id": "maya-vase-painting",
+  "name": "Maya Polychrome Vase Painting",
+  "medium": "painting",
+  "region": "Mesoamerica",
+  "lat": 17.22,
+  "lon": -89.62,
+  "s": 600,
+  "p": 750,
+  "e": 900,
+  "i": 4,
+  "d": "Courtly cylinder vessels were painted with fine-line mythological scenes of the Hero Twins and the underworld, signed by named scribe-painters who held elite courtly status.",
+  "w": [
+   "Princeton Vase, c. 670-750 CE",
+   "Vase of the Seven Gods, 8th century"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Maya_ceramics"
+ },
+ {
+  "id": "zapotec-funerary-urns",
+  "name": "Zapotec Funerary Urns",
+  "medium": "objects",
+  "region": "Mesoamerica",
+  "lat": 17.04,
+  "lon": -96.77,
+  "s": -500,
+  "p": 300,
+  "e": 800,
+  "i": 2,
+  "d": "Monte Alban's tombs held elaborate effigy urns of seated deities in elaborate headdresses, molded in gray clay to accompany nobles into the afterlife.",
+  "w": [
+   "Bat God effigy urn, Monte Alban",
+   "Cociyo (rain god) urns"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Zapotec_civilization"
+ },
+ {
+  "id": "toltec-sculpture",
+  "name": "Toltec Sculpture",
+  "medium": "sculpture",
+  "region": "Mesoamerica",
+  "lat": 20.07,
+  "lon": -99.34,
+  "s": 900,
+  "p": 1000,
+  "e": 1150,
+  "i": 3,
+  "d": "Tula's pyramid was crowned by four-story basalt Atlantean warrior columns in feathered headdresses, holding spear-throwers, a militaristic aesthetic later absorbed by the Aztecs as ancestral prestige.",
+  "w": [
+   "Atlantean warrior columns, Pyramid B, Tula, c. 1000 CE",
+   "Chac Mool reclining figure, Tula"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Tula_(Mesoamerican_site)"
+ },
+ {
+  "id": "chavin-stone-sculpture",
+  "name": "Chavin Stone Sculpture",
+  "medium": "sculpture",
+  "region": "Andes",
+  "lat": -9.59,
+  "lon": -77.18,
+  "s": -900,
+  "p": -500,
+  "e": -200,
+  "i": 3,
+  "d": "A pilgrimage temple complex hid a labyrinth of galleries centered on the Lanzon, a knife-shaped granite idol fusing jaguar, eagle, and human features that spread a shared religious iconography across the Andes.",
+  "w": [
+   "Lanzon monolith, Chavin de Huantar",
+   "Tello Obelisk",
+   "Raimondi Stela"
+  ],
+  "src": "https://smarthistory.org/chavin-de-huantar/"
+ },
+ {
+  "id": "paracas-textiles",
+  "name": "Paracas Textiles",
+  "medium": "objects",
+  "region": "Andes",
+  "lat": -13.83,
+  "lon": -76.25,
+  "s": -800,
+  "p": -300,
+  "e": -100,
+  "i": 4,
+  "d": "Mummy bundles on Peru's desert coast were wrapped in the ancient world's most technically dazzling embroidered textiles, densely packed with rows of flying supernatural figures in vivid dyed camelid wool.",
+  "w": [
+   "Paracas Necropolis embroidered mantle, c. 200 BCE",
+   "Paracas Textile, Brooklyn Museum, c. 100 BCE"
+  ],
+  "src": "https://smarthistory.org/the-paracas-textile/"
+ },
+ {
+  "id": "nazca-ceramics-geoglyphs",
+  "name": "Nazca Ceramics and Geoglyphs",
+  "medium": "objects",
+  "region": "Andes",
+  "lat": -14.83,
+  "lon": -74.93,
+  "s": -100,
+  "p": 300,
+  "e": 800,
+  "i": 3,
+  "d": "Polychrome slip-painted pottery depicted the same hummingbirds, monkeys, and killer whales that Nazca artists also traced at monumental scale as desert-floor geoglyphs visible only from above.",
+  "w": [
+   "Nazca polychrome effigy vessel, 1st-4th century CE",
+   "Nazca Lines: Hummingbird and Monkey geoglyphs"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Nazca_culture"
+ },
+ {
+  "id": "moche-portrait-vessels",
+  "name": "Moche Portrait Vessels",
+  "medium": "objects",
+  "region": "Andes",
+  "lat": -8.11,
+  "lon": -79.03,
+  "s": 100,
+  "p": 500,
+  "e": 800,
+  "i": 4,
+  "d": "Stirrup-spout ceramic vessels were modeled into astonishingly individualized human portrait heads and narrative scenes of warfare, sacrifice, and sexuality, a naturalism unmatched elsewhere in the ancient Americas.",
+  "w": [
+   "Moche portrait head vessel, 100-800 CE",
+   "Sacrifice Ceremony fineline vessel"
+  ],
+  "src": "https://www.metmuseum.org/essays/moche-portrait-head-vessels"
+ },
+ {
+  "id": "tiwanaku-monumental-sculpture",
+  "name": "Tiwanaku Monumental Sculpture",
+  "medium": "sculpture",
+  "region": "Andes",
+  "lat": -16.55,
+  "lon": -68.67,
+  "s": 200,
+  "p": 800,
+  "e": 1100,
+  "i": 3,
+  "d": "On the high Bolivian altiplano, Tiwanaku carved massive andesite monoliths and the Gateway of the Sun, its lintel centered on a staff-bearing sky god that became a pan-Andean religious icon.",
+  "w": [
+   "Gateway of the Sun, c. 500-600 CE",
+   "Ponce Monolith, Tiwanaku"
+  ],
+  "src": "https://smarthistory.org/tiwanaku-an-introduction/"
+ },
+ {
+  "id": "wari-textiles",
+  "name": "Wari Textiles",
+  "medium": "objects",
+  "region": "Andes",
+  "lat": -13.1,
+  "lon": -74.22,
+  "s": 600,
+  "p": 800,
+  "e": 1000,
+  "i": 3,
+  "d": "The Wari empire's tapestry-woven tunics compressed Tiwanaku's staff-god iconography into abstracted, almost pixelated geometric grids, produced at an industrial scale to clothe an expanding bureaucracy.",
+  "w": [
+   "Wari tapestry tunic, 7th-9th century",
+   "Wari four-cornered hat, 8th century"
+  ],
+  "src": "https://www.metmuseum.org/essays/wari-imperial-art"
+ },
+ {
+  "id": "chimu-metalwork",
+  "name": "Chimu Metalwork",
+  "medium": "objects",
+  "region": "Andes",
+  "lat": -8.11,
+  "lon": -79.07,
+  "s": 900,
+  "p": 1300,
+  "e": 1470,
+  "i": 3,
+  "d": "Chan Chan's mudbrick capital, its walls carved with wave and fish relief friezes, also housed the Andes' finest goldsmiths, who hammered ceremonial tumi knives and beakers of silver and gold alloy.",
+  "w": [
+   "Tumi ceremonial knife, 14th-15th century",
+   "Chan Chan adobe relief friezes"
+  ],
+  "src": "https://smarthistory.org/chimu/"
+ },
+ {
+  "id": "nok-terracotta-sculpture",
+  "name": "Nok Terracotta Sculpture",
+  "medium": "sculpture",
+  "region": "West Africa",
+  "lat": 9.93,
+  "lon": 8.33,
+  "s": -900,
+  "p": -300,
+  "e": 200,
+  "i": 3,
+  "d": "West Africa's earliest known sculptural tradition modeled hollow, life-sized terracotta heads and figures with pierced pupils and stylized coiffures, their purpose still debated by archaeologists.",
+  "w": [
+   "Nok terracotta head, Jos Plateau, c. 500 BCE",
+   "Nok seated figure fragment"
+  ],
+  "src": "https://www.metmuseum.org/essays/nok-terracottas-500-b-c-200-a-d"
+ },
+ {
+  "id": "igbo-ukwu-bronzes",
+  "name": "Igbo-Ukwu Bronze Objects",
+  "medium": "objects",
+  "region": "West Africa",
+  "lat": 6.02,
+  "lon": 7.02,
+  "s": 800,
+  "p": 900,
+  "e": 1000,
+  "i": 2,
+  "d": "Centuries before Ife or Benin, a leaded-bronze casting tradition in southeastern Nigeria produced extraordinarily intricate ceremonial vessels, staff ornaments, and regalia covered in filigree-like rope and insect motifs.",
+  "w": [
+   "Igbo-Ukwu bronze roped pot, c. 9th century",
+   "Igbo-Ukwu ceremonial staff head"
+  ],
+  "src": "https://smarthistory.org/igbo-ukwu/"
+ },
+ {
+  "id": "ife-bronze-terracotta-sculpture",
+  "name": "Ife Bronze and Terracotta Heads",
+  "medium": "sculpture",
+  "region": "West Africa",
+  "lat": 7.47,
+  "lon": 4.57,
+  "s": 1000,
+  "p": 1300,
+  "e": 1400,
+  "i": 4,
+  "d": "The sacred Yoruba city of Ife cast and modeled naturalistic royal heads of astonishing anatomical accuracy in copper alloy and terracotta, a portrait realism unequaled elsewhere in sub-Saharan Africa before modern times.",
+  "w": [
+   "Ife Head (Obalufon Mask), 12th-14th century",
+   "Bronze head with crown, Wunmonije Compound"
+  ],
+  "src": "https://www.metmuseum.org/essays/ife-terracottas-1000-1400-a-d"
+ },
+ {
+  "id": "aksumite-art",
+  "name": "Aksumite Stelae and Coinage",
+  "medium": "sculpture",
+  "region": "East Africa",
+  "lat": 14.12,
+  "lon": 38.72,
+  "s": 100,
+  "p": 350,
+  "e": 700,
+  "i": 3,
+  "d": "The Horn of Africa's trading empire raised towering carved granite stelae mimicking multistory palace facades over royal tombs, and struck some of the first coinage in sub-Saharan Africa, later stamped with the Christian cross.",
+  "w": [
+   "Great Stele of Aksum, c. 300-350 CE",
+   "Aksumite gold coin of King Ezana, c. 330 CE"
+  ],
+  "src": "https://www.metmuseum.org/essays/foundations-of-aksumite-civilization-and-its-christian-legacy-1st-7th-century"
+ },
+ {
+  "id": "coptic-textiles",
+  "name": "Coptic Textiles",
+  "medium": "objects",
+  "region": "North Africa",
+  "lat": 26.57,
+  "lon": 31.75,
+  "s": 300,
+  "p": 500,
+  "e": 800,
+  "i": 2,
+  "d": "Egypt's Christian weavers preserved dry desert climate tapestry-woven tunic roundels and clavi bands, blending late-antique classical motifs with new Christian and folk imagery in wool-on-linen.",
+  "w": [
+   "Coptic tapestry roundel with dancing figures, 5th century",
+   "Coptic tunic with orbiculi, 6th century"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Coptic_art"
+ },
+ {
+  "id": "early-byzantine-mosaics",
+  "name": "Early Byzantine Mosaics",
+  "medium": "objects",
+  "region": "Mediterranean",
+  "lat": 44.42,
+  "lon": 12.2,
+  "s": 330,
+  "p": 540,
+  "e": 726,
+  "i": 5,
+  "d": "Glittering gold-ground glass tesserae transformed church interiors at Ravenna and Constantinople into visions of a transcendent, weightless heaven, with Justinian and Theodora depicted as sacred rulers.",
+  "w": [
+   "San Vitale mosaics, Ravenna, 547 CE",
+   "Hagia Sophia mosaics, begun 537 CE"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Basilica_of_San_Vitale"
+ },
+ {
+  "id": "byzantine-iconoclasm",
+  "name": "Byzantine Iconoclasm",
+  "medium": "objects",
+  "region": "Mediterranean",
+  "lat": 41.01,
+  "lon": 28.98,
+  "s": 726,
+  "p": 780,
+  "e": 843,
+  "i": 1,
+  "d": "Imperial decree banned figural religious images for over a century, replacing icons with plain crosses and ornamental motifs on coins, textiles, and church walls until icon veneration was restored in 843.",
+  "w": [
+   "Aniconic cross mosaic, Hagia Irene, 8th century",
+   "Iconoclast coinage of Leo III, 8th century"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Byzantine_Iconoclasm"
+ },
+ {
+  "id": "macedonian-renaissance",
+  "name": "Macedonian Renaissance Icon Painting",
+  "medium": "painting",
+  "region": "Mediterranean",
+  "lat": 41.01,
+  "lon": 28.98,
+  "s": 867,
+  "p": 1000,
+  "e": 1056,
+  "i": 4,
+  "d": "After Iconoclasm's defeat, Constantinopolitan painters revived a softer, more classical humanism in icons and illuminated psalters, folding antique naturalism back into Christian devotional imagery.",
+  "w": [
+   "Paris Psalter, c. 950 CE",
+   "Joshua Roll, 10th century"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Macedonian_Renaissance"
+ },
+ {
+  "id": "palaiologan-renaissance-painting",
+  "name": "Palaiologan Renaissance Painting",
+  "medium": "painting",
+  "region": "Mediterranean",
+  "lat": 41.01,
+  "lon": 28.98,
+  "s": 1261,
+  "p": 1315,
+  "e": 1400,
+  "i": 4,
+  "d": "In the empire's final flowering, fresco and mosaic painters at Constantinople's Chora Church achieved a new spatial depth and emotional intensity that would influence early Italian panel painting.",
+  "w": [
+   "Anastasis fresco, Chora Church, c. 1315-1321",
+   "Chora Church mosaics of the life of the Virgin"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Palaeologan_Renaissance"
+ },
+ {
+  "id": "umayyad-art",
+  "name": "Umayyad Art and Architecture",
+  "medium": "objects",
+  "region": "Middle East",
+  "lat": 33.51,
+  "lon": 36.28,
+  "s": 661,
+  "p": 700,
+  "e": 750,
+  "i": 3,
+  "d": "The first Islamic dynasty covered the Dome of the Rock and the Great Mosque of Damascus with shimmering gold-ground glass mosaics of jeweled vegetation and empty cities, deliberately avoiding figural imagery in sacred space.",
+  "w": [
+   "Dome of the Rock mosaics, 691 CE",
+   "Great Mosque of Damascus mosaics, 715 CE",
+   "Mshatta facade, c. 740 CE"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Umayyad_art_and_architecture"
+ },
+ {
+  "id": "abbasid-art",
+  "name": "Abbasid Art",
+  "medium": "objects",
+  "region": "Middle East",
+  "lat": 34.2,
+  "lon": 43.87,
+  "s": 750,
+  "p": 850,
+  "e": 1258,
+  "i": 4,
+  "d": "The new capital at Samarra pioneered carved stucco walls in repeating bevel-cut arabesques and lustreware ceramics that made pottery glint like precious metal, innovations that spread across the Islamic world.",
+  "w": [
+   "Samarra beveled stucco panels, 9th century",
+   "Abbasid lustreware bowl, 9th century"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Abbasid_architecture"
+ },
+ {
+  "id": "fatimid-art",
+  "name": "Fatimid Art",
+  "medium": "objects",
+  "region": "Middle East",
+  "lat": 30.04,
+  "lon": 31.24,
+  "s": 909,
+  "p": 1050,
+  "e": 1171,
+  "i": 3,
+  "d": "Cairo's Fatimid workshops broke Islamic art's aniconic reserve with luster ceramics, carved rock crystal, and ivory boxes depicting courtly hunting and dancing scenes in a lively, curving line.",
+  "w": [
+   "Fatimid lustre bowl with figure, 11th century",
+   "Rock crystal ewer, 10th-11th century"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Fatimid_art"
+ },
+ {
+  "id": "seljuk-art",
+  "name": "Seljuk Art",
+  "medium": "objects",
+  "region": "Middle East",
+  "lat": 32.65,
+  "lon": 51.67,
+  "s": 1037,
+  "p": 1150,
+  "e": 1300,
+  "i": 3,
+  "d": "Great Seljuk and Anatolian Seljuk patrons commissioned brilliantly colored mina'i enameled ceramics and inlaid brass vessels with intricate figural and calligraphic bands, alongside monumental brick-and-tile architecture.",
+  "w": [
+   "Mina'i ware bowl with enthronement scene, 12th-13th century",
+   "Bobrinski Bucket, inlaid brass, 1163 CE"
+  ],
+  "src": "https://www.britannica.com/topic/Islamic-arts/Seljuq-art"
+ },
+ {
+  "id": "nasrid-art-granada",
+  "name": "Nasrid Art of Granada",
+  "medium": "objects",
+  "region": "Mediterranean",
+  "lat": 37.18,
+  "lon": -3.6,
+  "s": 1230,
+  "p": 1370,
+  "e": 1492,
+  "i": 3,
+  "d": "The Alhambra's palace halls, the last flowering of Islamic Spain, dissolved stone into lace-like carved stucco muqarnas and glazed tile mosaics wrapping courtyards in poetic Arabic inscription.",
+  "w": [
+   "Court of the Lions, Alhambra, c. 1370s",
+   "Alhambra tile mosaics and stucco muqarnas"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Alhambra"
+ },
+ {
+  "id": "mamluk-art",
+  "name": "Mamluk Art",
+  "medium": "objects",
+  "region": "Middle East",
+  "lat": 30.04,
+  "lon": 31.24,
+  "s": 1250,
+  "p": 1350,
+  "e": 1517,
+  "i": 4,
+  "d": "Cairo's sultans and emirs commissioned monumental gilded and enameled mosque lamps of blown glass and inlaid brass basins engraved with elaborate blazons, among the technical high points of medieval Islamic craft.",
+  "w": [
+   "Enameled glass mosque lamp, 14th century",
+   "Baptistere de Saint Louis, inlaid brass, c. 1300"
+  ],
+  "src": "https://www.metmuseum.org/essays/the-art-of-the-mamluk-period-1250-1517"
+ },
+ {
+  "id": "timurid-manuscript-painting",
+  "name": "Timurid Manuscript Painting",
+  "medium": "painting",
+  "region": "Central Asia",
+  "lat": 34.35,
+  "lon": 62.2,
+  "s": 1370,
+  "p": 1405,
+  "e": 1450,
+  "i": 3,
+  "d": "Under Timurid royal patronage at Herat and Samarkand, book ateliers began fusing Persian and Chinese pictorial conventions into refined manuscript painting that would blossom into the classical Persian miniature.",
+  "w": [
+   "Miraj-nama manuscript illustrations, early 15th century",
+   "Anthology for Iskandar Sultan, 1410-11"
+  ],
+  "src": "https://www.metmuseum.org/essays/the-art-of-the-timurid-period-ca-1370-1507"
+ },
+ {
+  "id": "insular-hiberno-saxon-art",
+  "name": "Insular (Hiberno-Saxon) Manuscript Art",
+  "medium": "objects",
+  "region": "Northern Europe",
+  "lat": 53.73,
+  "lon": -6.88,
+  "s": 600,
+  "p": 800,
+  "e": 900,
+  "i": 4,
+  "d": "Irish and Northumbrian monks filled gospel books with impossibly dense full-page 'carpet' pages of interlaced knotwork, spirals, and zoomorphic ornament, treating the sacred text itself as a devotional icon.",
+  "w": [
+   "Book of Kells, c. 800 CE",
+   "Lindisfarne Gospels, c. 700 CE"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Insular_art"
+ },
+ {
+  "id": "merovingian-art",
+  "name": "Merovingian Art",
+  "medium": "objects",
+  "region": "Northern Europe",
+  "lat": 48.86,
+  "lon": 2.35,
+  "s": 450,
+  "p": 600,
+  "e": 751,
+  "i": 2,
+  "d": "Frankish goldsmiths set garnets into cloisonné gold fibulae and sword fittings in dazzling geometric cells, a portable barbarian luxury art bridging Rome's fall and Charlemagne's revival.",
+  "w": [
+   "Childeric I's grave goods, c. 481 CE",
+   "Merovingian cloisonné disc fibulae"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Merovingian_art"
+ },
+ {
+  "id": "carolingian-manuscript-art",
+  "name": "Carolingian Manuscript Illumination",
+  "medium": "objects",
+  "region": "Northern Europe",
+  "lat": 50.78,
+  "lon": 6.08,
+  "s": 780,
+  "p": 820,
+  "e": 900,
+  "i": 4,
+  "d": "Charlemagne's court scriptoria deliberately revived classical Roman illusionism and script clarity, producing luxurious gospel books with jeweled ivory and gold covers as instruments of imperial and religious renewal.",
+  "w": [
+   "Utrecht Psalter, c. 820-835 CE",
+   "Lorsch Gospels ivory covers, c. 810 CE"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Carolingian_art"
+ },
+ {
+  "id": "ottonian-art",
+  "name": "Ottonian Art",
+  "medium": "sculpture",
+  "region": "Northern Europe",
+  "lat": 52.15,
+  "lon": 9.95,
+  "s": 950,
+  "p": 1015,
+  "e": 1024,
+  "i": 3,
+  "d": "Bishop Bernward's monumental bronze doors at Hildesheim, cast in a single piece with narrative reliefs from Genesis to the Passion, revived large-scale figural bronze casting unseen in Europe since antiquity.",
+  "w": [
+   "Bernward Doors, Hildesheim, 1015 CE",
+   "Gero Cross, Cologne, c. 970 CE"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Ottonian_art"
+ },
+ {
+  "id": "viking-art",
+  "name": "Viking Art",
+  "medium": "objects",
+  "region": "Northern Europe",
+  "lat": 59.27,
+  "lon": 10.42,
+  "s": 780,
+  "p": 900,
+  "e": 1100,
+  "i": 3,
+  "d": "Norse craftsmen carved ships, sledges, and animal-head posts with writhing, ribbon-like interlaced beasts, styles evolving from the Oseberg ship's gripping-beast motifs to the elegant Urnes style's sinuous vines.",
+  "w": [
+   "Oseberg ship carvings, c. 800-834 CE",
+   "Urnes stave church carvings, c. 1050-1100"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Viking_art"
+ },
+ {
+  "id": "romanesque-sculpture",
+  "name": "Romanesque Portal Sculpture",
+  "medium": "sculpture",
+  "region": "Western Europe",
+  "lat": 46.95,
+  "lon": 4.3,
+  "s": 1000,
+  "p": 1130,
+  "e": 1150,
+  "i": 4,
+  "d": "Pilgrimage church tympana were carved with dramatically stylized, elongated figures of the Last Judgment, warping proportion and space for maximum spiritual and rhetorical intensity above the doorway.",
+  "w": [
+   "Gislebertus, Last Judgment tympanum, Autun Cathedral, c. 1130",
+   "Moissac Abbey south portal, c. 1115-1130"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Romanesque_art"
+ },
+ {
+  "id": "romanesque-wall-painting",
+  "name": "Romanesque Wall Painting",
+  "medium": "painting",
+  "region": "Western Europe",
+  "lat": 42.5,
+  "lon": 0.85,
+  "s": 1000,
+  "p": 1120,
+  "e": 1200,
+  "i": 3,
+  "d": "Catalan and French church apses were painted with a stern, frontal Christ in Majesty within a mandorla, rendered with heavy black outlines and flat color for maximum legibility from a distance.",
+  "w": [
+   "Christ in Majesty, Sant Climent de Taull, 1123 CE",
+   "Saint-Savin-sur-Gartempe ceiling frescoes, 12th century"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Romanesque_art"
+ },
+ {
+  "id": "gothic-sculpture",
+  "name": "Gothic Sculpture",
+  "medium": "sculpture",
+  "region": "Western Europe",
+  "lat": 48.45,
+  "lon": 1.49,
+  "s": 1140,
+  "p": 1230,
+  "e": 1400,
+  "i": 5,
+  "d": "Cathedral jamb figures gradually loosened from architectural columns into freestanding, gently swaying bodies with naturalistic drapery and individualized faces, epitomized by the Reims 'smiling angel.'",
+  "w": [
+   "Royal Portal jamb statues, Chartres Cathedral, c. 1145-1155",
+   "Visitation group, Reims Cathedral, c. 1230",
+   "Smiling Angel, Reims Cathedral, c. 1236"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Gothic_art"
+ },
+ {
+  "id": "gothic-stained-glass",
+  "name": "Gothic Stained Glass",
+  "medium": "objects",
+  "region": "Western Europe",
+  "lat": 48.86,
+  "lon": 2.35,
+  "s": 1140,
+  "p": 1250,
+  "e": 1400,
+  "i": 4,
+  "d": "Ribbed vaulting and flying buttresses freed walls for towering jewel-toned windows, dissolving stone into colored light that told scripture stories in glowing reds and cobalt blues.",
+  "w": [
+   "Chartres Cathedral windows, c. 1150-1240",
+   "Sainte-Chapelle stained glass, 1248 CE"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Stained_glass"
+ },
+ {
+  "id": "international-gothic-painting",
+  "name": "International Gothic Painting",
+  "medium": "painting",
+  "region": "Western Europe",
+  "lat": 48.86,
+  "lon": 2.35,
+  "s": 1375,
+  "p": 1400,
+  "e": 1425,
+  "i": 4,
+  "d": "A shared courtly style swept aristocratic Europe from Prague to Paris to Milan, prizing exquisite linear elegance, jewel-like detail, and lavish courtly pageantry over dramatic weight.",
+  "w": [
+   "Limbourg Brothers, Tres Riches Heures du Duc de Berry, begun 1412",
+   "Gentile da Fabriano, Adoration of the Magi, 1423"
+  ],
+  "src": "https://en.wikipedia.org/wiki/International_Gothic"
+ },
+ {
+  "id": "italian-proto-renaissance-painting",
+  "name": "Italian Proto-Renaissance Painting",
+  "medium": "painting",
+  "region": "Western Europe",
+  "lat": 43.77,
+  "lon": 11.26,
+  "s": 1290,
+  "p": 1305,
+  "e": 1337,
+  "i": 5,
+  "d": "Giotto broke from Byzantine flatness to give painted figures weight, emotion, and believable spatial depth on the walls of the Scrovegni Chapel, a foundational rupture that set painting toward the Renaissance.",
+  "w": [
+   "Giotto, Scrovegni Chapel frescoes, 1305 CE",
+   "Cimabue, Santa Trinita Madonna, c. 1290-1300"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Giotto"
+ },
+ {
+  "id": "sienese-school-painting",
+  "name": "Sienese School Painting",
+  "medium": "painting",
+  "region": "Western Europe",
+  "lat": 43.32,
+  "lon": 11.33,
+  "s": 1278,
+  "p": 1315,
+  "e": 1348,
+  "i": 4,
+  "d": "Siena's painters prized lyrical line, pattern, and gold-ground elegance over Florentine solidity, from Duccio's shimmering Maestà to Ambrogio Lorenzetti's pioneering city-and-country panorama of good government, before the Black Death abruptly ended the school's golden age.",
+  "w": [
+   "Duccio, Maesta, 1308-1311",
+   "Ambrogio Lorenzetti, Allegory of Good and Bad Government, 1338-1339",
+   "Simone Martini, Annunciation, 1333"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Sienese_School"
+ },
+ {
+  "id": "ancestral-puebloan-pottery",
+  "name": "Ancestral Puebloan Pottery and Architecture",
+  "medium": "objects",
+  "region": "North America",
+  "lat": 36.06,
+  "lon": -107.96,
+  "s": 750,
+  "p": 1100,
+  "e": 1300,
+  "i": 3,
+  "d": "Chaco Canyon's great houses and Mesa Verde's cliff dwellings were matched by black-on-white pottery painted with hypnotic geometric hatching, most virtuosically in the figural Mimbres bowls placed over the faces of the dead.",
+  "w": [
+   "Mimbres black-on-white bowl, 11th-12th century",
+   "Chaco Canyon great house pottery cache"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Ancestral_Puebloans"
+ },
+ {
+  "id": "lapita-pottery",
+  "name": "Lapita Pottery",
+  "medium": "objects",
+  "region": "Pacific",
+  "lat": -5.55,
+  "lon": 150.15,
+  "s": -1600,
+  "p": -1000,
+  "e": -500,
+  "i": 2,
+  "d": "The first Pacific voyagers to reach Fiji and Tonga stamped their pottery with intricate dentate-toothed geometric and face-like motifs, a shared decorative code marking one of history's greatest maritime migrations.",
+  "w": [
+   "Lapita dentate-stamped pottery, Bismarck Archipelago",
+   "Lapita face-motif sherds, New Caledonia"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Lapita_culture"
+ },
+ {
+  "id": "australian-aboriginal-rock-art",
+  "name": "Australian Aboriginal Rock Art",
+  "medium": "painting",
+  "region": "Oceania",
+  "lat": -12.85,
+  "lon": 132.95,
+  "s": -30000,
+  "p": -8000,
+  "e": 1400,
+  "i": 3,
+  "d": "On the world's longest continuously practiced artistic tradition, Arnhem Land rock shelters were painted in ochre with dynamic hunting figures, later X-ray style animals showing internal organs and bones, layered generation upon generation.",
+  "w": [
+   "Dynamic Figures rock paintings, Arnhem Land",
+   "X-ray style animal paintings, Kakadu"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Aboriginal_rock_art"
+ },
+ {
+  "id": "early-renaissance-florence",
+  "name": "Early Italian Renaissance (Florence)",
+  "medium": "painting",
+  "region": "Italy",
+  "lat": 43.77,
+  "lon": 11.25,
+  "s": 1401,
+  "p": 1450,
+  "e": 1490,
+  "i": 5,
+  "d": "Linear perspective, humanist anatomy, and classical revival transformed Florentine painting from Gothic gold-ground icons into rational, three-dimensional scenes of civic and religious life.",
+  "w": [
+   "Masaccio, The Tribute Money, 1425",
+   "Fra Angelico, Annunciation, 1440",
+   "Botticelli, Primavera, 1482"
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/renf/hd_renf.htm"
+ },
+ {
+  "id": "high-renaissance-florence",
+  "name": "High Renaissance (Florence)",
+  "medium": "painting",
+  "region": "Italy",
+  "lat": 43.77,
+  "lon": 11.25,
+  "s": 1490,
+  "p": 1500,
+  "e": 1520,
+  "i": 5,
+  "d": "Leonardo's sfumato and Michelangelo's sculptural figures pushed Florentine painting toward idealized harmony and psychological depth just before the center of gravity shifted to Rome.",
+  "w": [
+   "Leonardo, Mona Lisa, 1503-06",
+   "Michelangelo, Doni Tondo, 1507"
+  ],
+  "src": "https://www.nga.gov/collection/highlights/leonardo-da-vinci-ginevra-de-benci.html"
+ },
+ {
+  "id": "high-renaissance-rome",
+  "name": "High Renaissance (Rome)",
+  "medium": "painting",
+  "region": "Italy",
+  "lat": 41.9,
+  "lon": 12.49,
+  "s": 1503,
+  "p": 1512,
+  "e": 1520,
+  "i": 5,
+  "d": "Papal patronage under Julius II and Leo X drew Raphael and Michelangelo to the Vatican, producing the Stanze and the Sistine Ceiling as the era's monumental statements of classical grandeur.",
+  "w": [
+   "Michelangelo, Sistine Chapel Ceiling, 1508-12",
+   "Raphael, School of Athens, 1509-11"
+  ],
+  "src": "https://www.britannica.com/art/High-Renaissance"
+ },
+ {
+  "id": "late-renaissance-venice",
+  "name": "Late Renaissance / Venetian School",
+  "medium": "painting",
+  "region": "Italy",
+  "lat": 45.44,
+  "lon": 12.33,
+  "s": 1500,
+  "p": 1540,
+  "e": 1600,
+  "i": 4,
+  "d": "Venetian painters prized color and atmosphere over Florentine drawing, using oil glazes to build luminous, sensuous surfaces in altarpieces and mythological scenes.",
+  "w": [
+   "Giorgione, The Tempest, 1508",
+   "Titian, Assumption of the Virgin, 1518",
+   "Veronese, Wedding at Cana, 1563"
+  ],
+  "src": "https://www.nga.gov/collection/highlights/titian-venus-with-a-mirror.html"
+ },
+ {
+  "id": "early-netherlandish",
+  "name": "Early Netherlandish Painting",
+  "medium": "painting",
+  "region": "Northern Europe",
+  "lat": 51.21,
+  "lon": 3.22,
+  "s": 1420,
+  "p": 1450,
+  "e": 1500,
+  "i": 4,
+  "d": "Flemish masters perfected oil glazing to render minutely observed textures, jewels, and light, embedding dense religious symbolism in everyday domestic settings.",
+  "w": [
+   "Jan van Eyck, Arnolfini Portrait, 1434",
+   "Rogier van der Weyden, Deposition, 1435",
+   "Hans Memling, Last Judgment, 1471"
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/vane/hd_vane.htm"
+ },
+ {
+  "id": "german-renaissance",
+  "name": "Northern Renaissance (German)",
+  "medium": "painting",
+  "region": "Germany",
+  "lat": 49.45,
+  "lon": 11.08,
+  "s": 1490,
+  "p": 1515,
+  "e": 1545,
+  "i": 3,
+  "d": "Dürer fused Italian perspective and proportion theory with Gothic precision and printmaking, while Cranach and Holbein sharpened portraiture into incisive psychological record.",
+  "w": [
+   "Albrecht Dürer, Self-Portrait at 28, 1500",
+   "Hans Holbein the Younger, The Ambassadors, 1533"
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/durr/hd_durr.htm"
+ },
+ {
+  "id": "italian-mannerism",
+  "name": "Italian Mannerism",
+  "medium": "painting",
+  "region": "Italy",
+  "lat": 43.77,
+  "lon": 11.25,
+  "s": 1520,
+  "p": 1550,
+  "e": 1590,
+  "i": 3,
+  "d": "After Raphael's death, artists exaggerated elongated figures, unstable compositions, and acidic color into a self-consciously artificial, elegant style that prized invention over naturalism.",
+  "w": [
+   "Pontormo, Deposition from the Cross, 1528",
+   "Parmigianino, Madonna with the Long Neck, 1540",
+   "Bronzino, Allegory with Venus and Cupid, 1545"
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/mann/hd_mann.htm"
+ },
+ {
+  "id": "fontainebleau-mannerism",
+  "name": "School of Fontainebleau",
+  "medium": "painting",
+  "region": "France",
+  "lat": 48.4,
+  "lon": 2.7,
+  "s": 1530,
+  "p": 1550,
+  "e": 1610,
+  "i": 2,
+  "d": "Italian artists imported to decorate François I's chateau blended stucco, allegory, and elongated nudes into a courtly French Mannerism that shaped decorative taste for a century.",
+  "w": [
+   "Rosso Fiorentino, Gallery of Francis I, 1535-37",
+   "School of Fontainebleau, Gabrielle d'Estrées and one of her Sisters, 1594"
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/fька/hd_scfo.htm"
+ },
+ {
+  "id": "italian-baroque",
+  "name": "Italian Baroque Painting",
+  "medium": "painting",
+  "region": "Italy",
+  "lat": 41.9,
+  "lon": 12.49,
+  "s": 1600,
+  "p": 1630,
+  "e": 1725,
+  "i": 5,
+  "d": "Caravaggio's dramatic tenebrism and the Carracci's classicizing naturalism launched a century of theatrical, emotionally charged religious and mythological painting radiating from Rome.",
+  "w": [
+   "Caravaggio, The Calling of Saint Matthew, 1600",
+   "Artemisia Gentileschi, Judith Slaying Holofernes, 1614-20"
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/bnrm/hd_bnrm.htm"
+ },
+ {
+  "id": "spanish-golden-age",
+  "name": "Spanish Golden Age Painting",
+  "medium": "painting",
+  "region": "Spain",
+  "lat": 40.42,
+  "lon": -3.7,
+  "s": 1590,
+  "p": 1650,
+  "e": 1682,
+  "i": 4,
+  "d": "Under Habsburg patronage, Spanish painters combined Caravaggesque naturalism with austere spirituality and unmatched brushwork, culminating in Velázquez's court portraiture.",
+  "w": [
+   "El Greco, View of Toledo, 1600",
+   "Diego Velázquez, Las Meninas, 1656",
+   "Francisco de Zurbarán, Saint Serapion, 1628"
+  ],
+  "src": "https://www.nga.gov/collection/highlights/velazquez-las-meninas.html"
+ },
+ {
+  "id": "flemish-baroque",
+  "name": "Flemish Baroque",
+  "medium": "painting",
+  "region": "Flanders",
+  "lat": 51.22,
+  "lon": 4.4,
+  "s": 1600,
+  "p": 1630,
+  "e": 1680,
+  "i": 4,
+  "d": "Rubens's workshop produced monumental, muscular, color-saturated altarpieces and mythologies for Counter-Reformation courts across Europe, with Van Dyck refining courtly portraiture.",
+  "w": [
+   "Peter Paul Rubens, Descent from the Cross, 1614",
+   "Anthony van Dyck, Charles I at the Hunt, 1635"
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/rube/hd_rube.htm"
+ },
+ {
+  "id": "dutch-portraiture",
+  "name": "Dutch Golden Age Portraiture",
+  "medium": "painting",
+  "region": "Netherlands",
+  "lat": 52.37,
+  "lon": 4.89,
+  "s": 1600,
+  "p": 1650,
+  "e": 1680,
+  "i": 4,
+  "d": "A prosperous merchant republic commissioned civic guard group portraits and searching individual likenesses, rendered with psychological candor rather than aristocratic flattery.",
+  "w": [
+   "Rembrandt, The Night Watch, 1642",
+   "Frans Hals, The Laughing Cavalier, 1624"
+  ],
+  "src": "https://www.rijksmuseum.nl/en/rijksstudio"
+ },
+ {
+  "id": "dutch-still-life",
+  "name": "Dutch Golden Age Still Life",
+  "medium": "painting",
+  "region": "Netherlands",
+  "lat": 52.38,
+  "lon": 4.64,
+  "s": 1600,
+  "p": 1650,
+  "e": 1680,
+  "i": 3,
+  "d": "Painters catalogued flowers, laid tables, and vanitas skulls with obsessive optical precision, moralizing on abundance and mortality for newly wealthy Dutch households.",
+  "w": [
+   "Willem Kalf, Still Life with a Nautilus Cup, 1662",
+   "Rachel Ruysch, Flowers in a Vase, 1690s"
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/dutstl/hd_dutstl.htm"
+ },
+ {
+  "id": "dutch-landscape",
+  "name": "Dutch Golden Age Landscape",
+  "medium": "painting",
+  "region": "Netherlands",
+  "lat": 52.38,
+  "lon": 4.64,
+  "s": 1600,
+  "p": 1650,
+  "e": 1680,
+  "i": 3,
+  "d": "Flat polders, windmills, and vast cloud-filled skies were rendered with a new tonal naturalism, celebrating the reclaimed Dutch terrain as national and commercial pride.",
+  "w": [
+   "Jacob van Ruisdael, View of Haarlem, 1670s",
+   "Aelbert Cuyp, Distant View of Dordrecht, 1650"
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/dutch/hd_dutch.htm"
+ },
+ {
+  "id": "dutch-genre",
+  "name": "Dutch Golden Age Genre Painting",
+  "medium": "painting",
+  "region": "Netherlands",
+  "lat": 52.01,
+  "lon": 4.36,
+  "s": 1600,
+  "p": 1660,
+  "e": 1680,
+  "i": 4,
+  "d": "Quiet domestic interiors — a woman reading a letter, pouring milk, or lit by a window — elevated everyday middle-class life into subjects worthy of jewel-like technical mastery.",
+  "w": [
+   "Johannes Vermeer, Girl with a Pearl Earring, 1665",
+   "Vermeer, The Milkmaid, 1658-61",
+   "Pieter de Hooch, Courtyard of a House in Delft, 1658"
+  ],
+  "src": "https://www.essentialvermeer.com/"
+ },
+ {
+  "id": "rococo",
+  "name": "Rococo",
+  "medium": "painting",
+  "region": "France",
+  "lat": 48.85,
+  "lon": 2.35,
+  "s": 1700,
+  "p": 1730,
+  "e": 1780,
+  "i": 4,
+  "d": "Pastel colors, curling ornament, and playful pastoral flirtation replaced Baroque gravity, mirroring the pleasure-seeking aristocratic culture of Regency and Louis XV France.",
+  "w": [
+   "Antoine Watteau, Pilgrimage to Cythera, 1717",
+   "François Boucher, The Toilette of Venus, 1751",
+   "Jean-Honoré Fragonard, The Swing, 1767"
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/roco/hd_roco.htm"
+ },
+ {
+  "id": "neoclassicism",
+  "name": "Neoclassicism",
+  "medium": "painting",
+  "region": "France",
+  "lat": 48.85,
+  "lon": 2.35,
+  "s": 1750,
+  "p": 1785,
+  "e": 1850,
+  "i": 5,
+  "d": "Reacting against Rococo frivolity and inspired by Pompeii's excavation, painters revived austere classical composition, clear line, and moralizing civic virtue on the eve of revolution.",
+  "w": [
+   "Jacques-Louis David, Oath of the Horatii, 1784",
+   "David, The Death of Marat, 1793",
+   "Ingres, La Grande Odalisque, 1814"
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/neoc/hd_neoc.htm"
+ },
+ {
+  "id": "romanticism",
+  "name": "Romanticism",
+  "medium": "painting",
+  "region": "Europe",
+  "lat": 48.85,
+  "lon": 2.35,
+  "s": 1780,
+  "p": 1820,
+  "e": 1850,
+  "i": 5,
+  "d": "Painters turned from reason to emotion, the sublime, and the exotic, unleashing turbulent brushwork, dramatic light, and nationalist or nightmarish subject matter.",
+  "w": [
+   "Francisco Goya, The Third of May 1808, 1814",
+   "Théodore Géricault, Raft of the Medusa, 1819",
+   "Eugène Delacroix, Liberty Leading the People, 1830"
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/roma/hd_roma.htm"
+ },
+ {
+  "id": "realism",
+  "name": "Realism",
+  "medium": "painting",
+  "region": "France",
+  "lat": 48.85,
+  "lon": 2.35,
+  "s": 1840,
+  "p": 1855,
+  "e": 1880,
+  "i": 4,
+  "d": "Courbet and Millet rejected idealized history painting to depict peasants, laborers, and rural life at life-size scale, scandalizing critics who expected only heroic subjects treated so monumentally.",
+  "w": [
+   "Gustave Courbet, The Stone Breakers, 1849",
+   "Jean-François Millet, The Gleaners, 1857"
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/rlsm/hd_rlsm.htm"
+ },
+ {
+  "id": "barbizon",
+  "name": "Barbizon School",
+  "medium": "painting",
+  "region": "France",
+  "lat": 48.45,
+  "lon": 2.6,
+  "s": 1830,
+  "p": 1850,
+  "e": 1875,
+  "i": 3,
+  "d": "Painters settled in the forest village of Barbizon to work directly from nature, prioritizing atmospheric truth over academic idealization and paving the way for Impressionist plein-air practice.",
+  "w": [
+   "Théodore Rousseau, The Forest in Winter at Sunset, 1846-67",
+   "Charles-François Daubigny, The Ponds at Gylieu, 1853"
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/barb/hd_barb.htm"
+ },
+ {
+  "id": "pre-raphaelites",
+  "name": "Pre-Raphaelite Brotherhood",
+  "medium": "painting",
+  "region": "Britain",
+  "lat": 51.5,
+  "lon": -0.12,
+  "s": 1848,
+  "p": 1855,
+  "e": 1900,
+  "i": 3,
+  "d": "Rejecting the darkened academic manner descending from Raphael, this English brotherhood painted jewel-bright medieval and literary scenes with photographic botanical detail.",
+  "w": [
+   "John Everett Millais, Ophelia, 1852",
+   "Dante Gabriel Rossetti, Proserpine, 1874"
+  ],
+  "src": "https://www.tate.org.uk/art/art-terms/p/pre-raphaelite-brotherhood"
+ },
+ {
+  "id": "hudson-river-school",
+  "name": "Hudson River School",
+  "medium": "painting",
+  "region": "United States",
+  "lat": 42.2,
+  "lon": -74.1,
+  "s": 1825,
+  "p": 1860,
+  "e": 1880,
+  "i": 3,
+  "d": "America's first native landscape movement painted the Catskills, White Mountains, and western wilderness at panoramic scale, casting untouched nature as evidence of national destiny.",
+  "w": [
+   "Thomas Cole, The Oxbow, 1836",
+   "Frederic Edwin Church, The Heart of the Andes, 1859",
+   "Albert Bierstadt, Among the Sierra Nevada Mountains, 1868"
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/hurs/hd_hurs.htm"
+ },
+ {
+  "id": "orientalism",
+  "name": "Orientalism",
+  "medium": "painting",
+  "region": "France",
+  "lat": 48.85,
+  "lon": 2.35,
+  "s": 1798,
+  "p": 1860,
+  "e": 1900,
+  "i": 3,
+  "d": "European painters depicted North Africa and the Ottoman Middle East in richly detailed harems, markets, and deserts, mixing genuine ethnographic curiosity with colonial fantasy.",
+  "w": [
+   "Eugène Delacroix, Women of Algiers, 1834",
+   "Jean-Léon Gérôme, The Snake Charmer, 1879"
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/euor/hd_euor.htm"
+ },
+ {
+  "id": "academic-art",
+  "name": "Academic Art / Salon Painting",
+  "medium": "painting",
+  "region": "France",
+  "lat": 48.85,
+  "lon": 2.35,
+  "s": 1830,
+  "p": 1870,
+  "e": 1900,
+  "i": 3,
+  "d": "The official Paris Salon rewarded polished, highly finished mythological nudes and history paintings following academic hierarchy of genres — the establishment the avant-garde defined itself against.",
+  "w": [
+   "William-Adolphe Bouguereau, The Birth of Venus, 1879",
+   "Alexandre Cabanel, The Birth of Venus, 1863"
+  ],
+  "src": "https://www.britannica.com/art/academic-art"
+ },
+ {
+  "id": "impressionism",
+  "name": "Impressionism",
+  "medium": "painting",
+  "region": "France",
+  "lat": 48.85,
+  "lon": 2.35,
+  "s": 1860,
+  "p": 1875,
+  "e": 1890,
+  "i": 5,
+  "d": "Painting outdoors with broken color and visible brushstrokes, this independent group captured fleeting light and modern leisure, rejecting Salon finish in favor of sensation itself.",
+  "w": [
+   "Claude Monet, Impression, Sunrise, 1872",
+   "Pierre-Auguste Renoir, Luncheon of the Boating Party, 1881",
+   "Edgar Degas, The Dance Class, 1874"
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/imml/hd_imml.htm"
+ },
+ {
+  "id": "post-impressionism",
+  "name": "Post-Impressionism",
+  "medium": "painting",
+  "region": "France",
+  "lat": 48.85,
+  "lon": 2.35,
+  "s": 1886,
+  "p": 1890,
+  "e": 1905,
+  "i": 5,
+  "d": "Diverging individually from Impressionism, artists pursued structure, symbolic color, and emotional intensity — Cézanne's geometry, Van Gogh's expressive impasto, Gauguin's flattened exoticism.",
+  "w": [
+   "Paul Cézanne, Mont Sainte-Victoire, 1887-90",
+   "Vincent van Gogh, The Starry Night, 1889",
+   "Paul Gauguin, Where Do We Come From?, 1897"
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/poim/hd_poim.htm"
+ },
+ {
+  "id": "neo-impressionism",
+  "name": "Neo-Impressionism / Pointillism",
+  "medium": "painting",
+  "region": "France",
+  "lat": 48.85,
+  "lon": 2.35,
+  "s": 1884,
+  "p": 1886,
+  "e": 1900,
+  "i": 3,
+  "d": "Seurat applied color theory scientifically, juxtaposing tiny dots of pure pigment so the eye would optically blend them into a shimmering, monumentally composed surface.",
+  "w": [
+   "Georges Seurat, A Sunday on La Grande Jatte, 1886",
+   "Paul Signac, Portrait of Félix Fénéon, 1890"
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/poin/hd_poin.htm"
+ },
+ {
+  "id": "symbolism",
+  "name": "Symbolism",
+  "medium": "painting",
+  "region": "France",
+  "lat": 48.85,
+  "lon": 2.35,
+  "s": 1880,
+  "p": 1895,
+  "e": 1910,
+  "i": 3,
+  "d": "Rejecting both naturalism and Impressionist observation, Symbolists painted dreams, myths, and inner psychological states through suggestive, often morbid or mystical imagery.",
+  "w": [
+   "Gustave Moreau, The Apparition, 1876",
+   "Odilon Redon, The Cyclops, 1898"
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/symb/hd_symb.htm"
+ },
+ {
+  "id": "art-nouveau",
+  "name": "Art Nouveau",
+  "medium": "objects",
+  "region": "Europe",
+  "lat": 50.85,
+  "lon": 4.35,
+  "s": 1890,
+  "p": 1900,
+  "e": 1910,
+  "i": 4,
+  "d": "Whiplash organic curves derived from plant tendrils and female forms swept across posters, ironwork, glass, and architecture, aiming to unify fine and applied art in total design.",
+  "w": [
+   "Victor Horta, Hôtel Tassel staircase, 1893",
+   "Alphonse Mucha, Job cigarette poster, 1898",
+   "Émile Gallé, glass vases, 1900"
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/artn/hd_artn.htm"
+ },
+ {
+  "id": "arts-and-crafts",
+  "name": "Arts and Crafts Movement",
+  "medium": "objects",
+  "region": "Britain",
+  "lat": 51.5,
+  "lon": -0.12,
+  "s": 1860,
+  "p": 1880,
+  "e": 1910,
+  "i": 3,
+  "d": "Reacting against industrial mass production, Morris and his circle championed handmade furniture, textiles, and books with medieval-inspired pattern and honest materials.",
+  "w": [
+   "William Morris, Strawberry Thief textile, 1883",
+   "Morris & Co, Red House interiors, 1860"
+  ],
+  "src": "https://www.vam.ac.uk/articles/the-arts-and-crafts-movement"
+ },
+ {
+  "id": "aestheticism",
+  "name": "Aestheticism",
+  "medium": "painting",
+  "region": "Britain",
+  "lat": 51.5,
+  "lon": -0.12,
+  "s": 1860,
+  "p": 1877,
+  "e": 1900,
+  "i": 2,
+  "d": "Championing 'art for art's sake,' Whistler and his circle emphasized tonal harmony, decorative arrangement, and beauty over moral or narrative content.",
+  "w": [
+   "James McNeill Whistler, Nocturne in Black and Gold, 1875",
+   "Whistler, Arrangement in Grey and Black No.1, 1871"
+  ],
+  "src": "https://www.tate.org.uk/art/art-terms/a/aestheticism"
+ },
+ {
+  "id": "nabis",
+  "name": "Les Nabis",
+  "medium": "painting",
+  "region": "France",
+  "lat": 48.85,
+  "lon": 2.35,
+  "s": 1888,
+  "p": 1892,
+  "e": 1900,
+  "i": 2,
+  "d": "Calling themselves 'prophets,' this Paris group flattened color into decorative patterns influenced by Gauguin and Japanese prints, blurring painting into interior design.",
+  "w": [
+   "Pierre Bonnard, The Croquet Game, 1892",
+   "Édouard Vuillard, The Suitor, 1893"
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/nabi/hd_nabi.htm"
+ },
+ {
+  "id": "les-vingt",
+  "name": "Les Vingt (Les XX)",
+  "medium": "painting",
+  "region": "Belgium",
+  "lat": 50.85,
+  "lon": 4.35,
+  "s": 1883,
+  "p": 1888,
+  "e": 1893,
+  "i": 2,
+  "d": "A Brussels exhibiting society of twenty avant-garde artists gave Symbolism, Neo-Impressionism, and Art Nouveau design their first major platform outside Paris.",
+  "w": [
+   "James Ensor, exhibited works, 1880s",
+   "Fernand Khnopff, I Lock My Door Upon Myself, 1891"
+  ],
+  "src": "https://www.theartstory.org/movement/les-vingt/"
+ },
+ {
+  "id": "peredvizhniki",
+  "name": "Peredvizhniki (The Wanderers)",
+  "medium": "painting",
+  "region": "Russia",
+  "lat": 59.93,
+  "lon": 30.34,
+  "s": 1863,
+  "p": 1880,
+  "e": 1900,
+  "i": 3,
+  "d": "Breaking from the Imperial Academy, these Russian realists organized traveling exhibitions of social-critical scenes and psychologically penetrating portraits for provincial audiences.",
+  "w": [
+   "Ilya Repin, Barge Haulers on the Volga, 1873",
+   "Ivan Shishkin, Morning in a Pine Forest, 1889"
+  ],
+  "src": "https://www.theartstory.org/movement/peredvizhniki/"
+ },
+ {
+  "id": "danish-golden-age",
+  "name": "Danish Golden Age",
+  "medium": "painting",
+  "region": "Denmark",
+  "lat": 55.68,
+  "lon": 12.57,
+  "s": 1800,
+  "p": 1830,
+  "e": 1850,
+  "i": 2,
+  "d": "Copenhagen's Royal Academy under Eckersberg trained a generation to paint clear-eyed, intimate scenes of domestic life, light-filled interiors, and the national landscape.",
+  "w": [
+   "Christoffer Wilhelm Eckersberg, View through Three Arches, 1815",
+   "Christen Købke, View of a Street in Østerbro, 1836"
+  ],
+  "src": "https://www.smk.dk/en/article/the-danish-golden-age/"
+ },
+ {
+  "id": "skagen-painters",
+  "name": "Skagen Painters",
+  "medium": "painting",
+  "region": "Denmark",
+  "lat": 57.72,
+  "lon": 10.58,
+  "s": 1870,
+  "p": 1890,
+  "e": 1900,
+  "i": 2,
+  "d": "An artists' colony at Denmark's northern tip painted fishermen and luminous blue summer nights en plein air, blending Nordic naturalism with Impressionist light.",
+  "w": [
+   "P.S. Krøyer, Summer Evening on Skagen's Beach, 1893",
+   "Anna Ancher, Sunlight in the Blue Room, 1891"
+  ],
+  "src": "https://www.skagenskunstmuseer.dk/en/"
+ },
+ {
+  "id": "macchiaioli",
+  "name": "Macchiaioli",
+  "medium": "painting",
+  "region": "Italy",
+  "lat": 43.77,
+  "lon": 11.25,
+  "s": 1855,
+  "p": 1860,
+  "e": 1867,
+  "i": 2,
+  "d": "Tuscan painters used bold patches ('macchie') of light and shadow to sketch contemporary rural and military life, prefiguring Impressionism outside academic Florence.",
+  "w": [
+   "Giovanni Fattori, The Rotunda of Palmieri, 1866",
+   "Silvestro Lega, The Visit, 1868"
+  ],
+  "src": "https://www.theartstory.org/movement/macchiaioli/"
+ },
+ {
+  "id": "biedermeier",
+  "name": "Biedermeier",
+  "medium": "painting",
+  "region": "Central Europe",
+  "lat": 48.21,
+  "lon": 16.37,
+  "s": 1815,
+  "p": 1830,
+  "e": 1848,
+  "i": 2,
+  "d": "In the politically quiet post-Napoleonic era, Central European middle-class taste favored modest, detailed domestic portraits, interiors, and furniture over grand Romantic gesture.",
+  "w": [
+   "Ferdinand Georg Waldmüller, family portraits, 1830s",
+   "Georg Friedrich Kersting, interior scenes, 1820s"
+  ],
+  "src": "https://www.britannica.com/art/Biedermeier-style"
+ },
+ {
+  "id": "nazarenes",
+  "name": "Nazarenes",
+  "medium": "painting",
+  "region": "Germany/Italy",
+  "lat": 41.9,
+  "lon": 12.49,
+  "s": 1809,
+  "p": 1820,
+  "e": 1850,
+  "i": 2,
+  "d": "German Romantic painters formed a monastic-style brotherhood in Rome, reviving early Renaissance clarity and devout subject matter against academic convention.",
+  "w": [
+   "Friedrich Overbeck, Italia and Germania, 1828",
+   "Peter von Cornelius, frescoes, 1820s"
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/naza/hd_naza.htm"
+ },
+ {
+  "id": "early-renaissance-sculpture",
+  "name": "Early Renaissance Sculpture",
+  "medium": "sculpture",
+  "region": "Italy",
+  "lat": 43.77,
+  "lon": 11.25,
+  "s": 1401,
+  "p": 1430,
+  "e": 1466,
+  "i": 4,
+  "d": "Donatello revived classical contrapposto and psychological realism in free-standing bronze and marble, ending medieval sculpture's dependence on architectural niches.",
+  "w": [
+   "Lorenzo Ghiberti, Gates of Paradise, 1425-52",
+   "Donatello, David, 1440s"
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/dona/hd_dona.htm"
+ },
+ {
+  "id": "high-renaissance-sculpture",
+  "name": "High Renaissance Sculpture",
+  "medium": "sculpture",
+  "region": "Italy",
+  "lat": 43.77,
+  "lon": 11.25,
+  "s": 1490,
+  "p": 1504,
+  "e": 1534,
+  "i": 5,
+  "d": "Michelangelo carved marble with unprecedented anatomical power and emotional depth, treating the block as if liberating a figure already latent within the stone.",
+  "w": [
+   "Michelangelo, Pietà, 1499",
+   "Michelangelo, David, 1501-04"
+  ],
+  "src": "https://www.britannica.com/biography/Michelangelo"
+ },
+ {
+  "id": "baroque-sculpture",
+  "name": "Baroque Sculpture",
+  "medium": "sculpture",
+  "region": "Italy",
+  "lat": 41.9,
+  "lon": 12.49,
+  "s": 1620,
+  "p": 1650,
+  "e": 1680,
+  "i": 4,
+  "d": "Bernini fused sculpture, architecture, and light into theatrical ensembles capturing figures at their most dynamic, emotionally charged instant, in marble that seemed to breathe.",
+  "w": [
+   "Gian Lorenzo Bernini, Apollo and Daphne, 1625",
+   "Bernini, Ecstasy of Saint Teresa, 1652"
+  ],
+  "src": "https://www.nga.gov/collection/highlights/bernini.html"
+ },
+ {
+  "id": "neoclassical-sculpture",
+  "name": "Neoclassical Sculpture",
+  "medium": "sculpture",
+  "region": "Italy",
+  "lat": 41.9,
+  "lon": 12.49,
+  "s": 1780,
+  "p": 1805,
+  "e": 1830,
+  "i": 4,
+  "d": "Canova polished marble into smooth, idealized classical forms for European courts, reviving ancient Greek serenity as sculpture's answer to Enlightenment reason.",
+  "w": [
+   "Antonio Canova, Psyche Revived by Cupid's Kiss, 1793",
+   "Bertel Thorvaldsen, Jason with the Golden Fleece, 1803"
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/neoc/hd_neoc.htm"
+ },
+ {
+  "id": "rodin-modern-sculpture",
+  "name": "Rodin and the Birth of Modern Sculpture",
+  "medium": "sculpture",
+  "region": "France",
+  "lat": 48.85,
+  "lon": 2.35,
+  "s": 1877,
+  "p": 1890,
+  "e": 1917,
+  "i": 4,
+  "d": "Rodin left surfaces roughly modeled and figures fragmentary, prioritizing raw expressive energy over academic finish, breaking sculpture open for twentieth-century experimentation.",
+  "w": [
+   "Auguste Rodin, The Age of Bronze, 1877",
+   "Rodin, The Thinker, 1880-1904",
+   "Rodin, The Burghers of Calais, 1889"
+  ],
+  "src": "https://www.musee-rodin.fr/en"
+ },
+ {
+  "id": "daguerreotype",
+  "name": "Daguerreotype",
+  "medium": "photography",
+  "region": "France",
+  "lat": 48.85,
+  "lon": 2.35,
+  "s": 1839,
+  "p": 1850,
+  "e": 1860,
+  "i": 4,
+  "d": "The first commercially viable photographic process fixed a unique, mirror-sharp image on a silvered copper plate, sparking a worldwide portrait-studio craze within a decade.",
+  "w": [
+   "Louis Daguerre, Boulevard du Temple, 1838",
+   "Robert Cornelius, self-portrait, 1839"
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/dagu/hd_dagu.htm"
+ },
+ {
+  "id": "calotype",
+  "name": "Calotype",
+  "medium": "photography",
+  "region": "Britain",
+  "lat": 51.5,
+  "lon": -0.12,
+  "s": 1841,
+  "p": 1845,
+  "e": 1855,
+  "i": 3,
+  "d": "Talbot's paper negative process allowed multiple positive prints, sacrificing daguerreotype crispness for a softer, more painterly texture and reproducibility.",
+  "w": [
+   "William Henry Fox Talbot, The Pencil of Nature, 1844",
+   "David Octavius Hill and Robert Adamson, Newhaven fishwives, 1845"
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/tlbt/hd_tlbt.htm"
+ },
+ {
+  "id": "wet-plate-collodion",
+  "name": "Wet Plate Collodion Photography",
+  "medium": "photography",
+  "region": "Britain",
+  "lat": 51.5,
+  "lon": -0.12,
+  "s": 1851,
+  "p": 1865,
+  "e": 1880,
+  "i": 4,
+  "d": "Archer's collodion process combined sharp detail with reproducible glass negatives, becoming the dominant technology for portrait, expedition, and war photography.",
+  "w": [
+   "Frederick Scott Archer, process introduced, 1851",
+   "Julia Margaret Cameron, portraits, 1860s"
+  ],
+  "src": "https://www.nms.ac.uk/discover-catalogue/inventors-of-photography-exploring-victorian-photographic-techniques"
+ },
+ {
+  "id": "civil-war-photography",
+  "name": "American Civil War Photography",
+  "medium": "photography",
+  "region": "United States",
+  "lat": 38.9,
+  "lon": -77.04,
+  "s": 1861,
+  "p": 1863,
+  "e": 1865,
+  "i": 3,
+  "d": "Traveling wet-plate studios documented battlefield dead and army camps with unflinching directness, giving the public its first sustained photographic confrontation with modern war.",
+  "w": [
+   "Mathew Brady studio, war views, 1861-65",
+   "Alexander Gardner, Home of a Rebel Sharpshooter, 1863",
+   "Timothy O'Sullivan, Gettysburg views, 1863"
+  ],
+  "src": "https://www.loc.gov/collections/civil-war-glass-negatives/"
+ },
+ {
+  "id": "pictorialism-2",
+  "name": "Pictorialism",
+  "medium": "photography",
+  "region": "United States/Europe",
+  "lat": 40.71,
+  "lon": -74.01,
+  "s": 1885,
+  "p": 1900,
+  "e": 1917,
+  "i": 3,
+  "d": "Photographers manipulated soft focus, gum bichromate printing, and painterly composition to argue photography was a fine art equal to painting, not mere mechanical documentation.",
+  "w": [
+   "The Terminal — Stieglitz, 1893 (precursor)",
+   "The Flatiron — Stieglitz, 1903",
+   "The Onion Field — Edward Steichen, 1904"
+  ],
+  "src": "https://www.theartstory.org/movement/pictorialism/"
+ },
+ {
+  "id": "documentary-photography-riis",
+  "name": "Early Documentary Photography",
+  "medium": "photography",
+  "region": "United States",
+  "lat": 40.71,
+  "lon": -74.01,
+  "s": 1888,
+  "p": 1890,
+  "e": 1900,
+  "i": 3,
+  "d": "Jacob Riis used magnesium flash photography to expose New York tenement squalor, pioneering photojournalism deployed explicitly for social reform.",
+  "w": [
+   "Jacob Riis, How the Other Half Lives, 1890",
+   "Riis, Bandit's Roost, 1888"
+  ],
+  "src": "https://www.loc.gov/collections/jacob-riis/"
+ },
+ {
+  "id": "muybridge-motion-studies",
+  "name": "Muybridge Motion Studies",
+  "medium": "photography",
+  "region": "United States",
+  "lat": 37.44,
+  "lon": -122.14,
+  "s": 1872,
+  "p": 1878,
+  "e": 1887,
+  "i": 3,
+  "d": "Using rows of trip-wire cameras, Muybridge froze galloping horses and human motion into sequential frames, resolving century-old debates about animal locomotion and seeding cinema.",
+  "w": [
+   "Eadweard Muybridge, Sallie Gardner at a Gallop, 1878",
+   "Muybridge, Animal Locomotion, 1887"
+  ],
+  "src": "https://www.britannica.com/biography/Eadweard-Muybridge"
+ },
+ {
+  "id": "kodak-snapshot-era",
+  "name": "Kodak Snapshot Era",
+  "medium": "photography",
+  "region": "United States",
+  "lat": 43.16,
+  "lon": -77.61,
+  "s": 1888,
+  "p": 1895,
+  "e": 1900,
+  "i": 4,
+  "d": "Eastman's roll-film Kodak camera, marketed 'you press the button, we do the rest,' moved photography out of studios and into the hands of amateurs everywhere.",
+  "w": [
+   "George Eastman, Kodak No. 1 camera, 1888",
+   "early consumer snapshots, 1890s"
+  ],
+  "src": "https://www.britannica.com/technology/Kodak-camera"
+ },
+ {
+  "id": "ming-porcelain",
+  "name": "Ming Blue-and-White Porcelain",
+  "medium": "objects",
+  "region": "China",
+  "lat": 29.27,
+  "lon": 117.2,
+  "s": 1400,
+  "p": 1430,
+  "e": 1644,
+  "i": 5,
+  "d": "Imperial kilns at Jingdezhen painted cobalt-blue dragons, florals, and landscapes beneath clear glaze, creating export porcelain so coveted it reshaped ceramic traditions across Asia and Europe.",
+  "w": [
+   "Xuande-mark blue-and-white jar, 1426-35",
+   "Chenghua 'chicken cup,' 1465-87"
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/mingp/hd_mingp.htm"
+ },
+ {
+  "id": "qing-porcelain",
+  "name": "Qing Imperial Porcelain",
+  "medium": "objects",
+  "region": "China",
+  "lat": 29.27,
+  "lon": 117.2,
+  "s": 1644,
+  "p": 1700,
+  "e": 1900,
+  "i": 4,
+  "d": "Kangxi-era famille verte and Yongzheng/Qianlong famille rose palettes brought unprecedented technical refinement and color range to Jingdezhen's export and imperial wares.",
+  "w": [
+   "Kangxi famille verte vase, 1700",
+   "Qianlong famille rose vase, 1740s"
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/qing/hd_qing.htm"
+ },
+ {
+  "id": "delftware",
+  "name": "Delftware",
+  "medium": "objects",
+  "region": "Netherlands",
+  "lat": 52.01,
+  "lon": 4.36,
+  "s": 1640,
+  "p": 1680,
+  "e": 1740,
+  "i": 3,
+  "d": "Dutch potters imitated Ming and Wanli porcelain in tin-glazed earthenware, painting blue chinoiserie and Dutch scenes onto plates, tiles, and vases for a booming middle-class market.",
+  "w": [
+   "Delft charger with chinoiserie decoration, 1670s",
+   "Delft tile panels, 1700"
+  ],
+  "src": "https://www.rijksmuseum.nl/en/stories/delftware"
+ },
+ {
+  "id": "meissen-porcelain",
+  "name": "Meissen Porcelain",
+  "medium": "objects",
+  "region": "Germany",
+  "lat": 51.16,
+  "lon": 13.47,
+  "s": 1710,
+  "p": 1740,
+  "e": 1815,
+  "i": 3,
+  "d": "Europe's first true hard-paste porcelain factory, founded after Böttger cracked the Chinese formula, produced elaborate rococo figurines and services for royal courts.",
+  "w": [
+   "J.J. Kändler, Monkey Band figurines, 1747",
+   "Meissen Swan Service, 1737-41"
+  ],
+  "src": "https://www.britannica.com/art/Meissen-porcelain"
+ },
+ {
+  "id": "sevres-porcelain",
+  "name": "Sèvres Porcelain",
+  "medium": "objects",
+  "region": "France",
+  "lat": 48.82,
+  "lon": 2.2,
+  "s": 1740,
+  "p": 1770,
+  "e": 1800,
+  "i": 3,
+  "d": "Under royal and later state patronage, Sèvres perfected soft-paste and hard-paste porcelain with signature ground colors and gilding, becoming the era's diplomatic gift of choice.",
+  "w": [
+   "Sèvres 'bleu céleste' vase, 1760s",
+   "Sèvres biscuit figures after Falconet, 1758"
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/sevr/hd_sevr.htm"
+ },
+ {
+  "id": "wedgwood",
+  "name": "Wedgwood Jasperware",
+  "medium": "objects",
+  "region": "Britain",
+  "lat": 53.02,
+  "lon": -2.18,
+  "s": 1759,
+  "p": 1780,
+  "e": 1800,
+  "i": 3,
+  "d": "Josiah Wedgwood industrialized fine ceramics, pairing Enlightenment classical taste with unglazed matte jasperware relief in white on colored grounds, marketed via early mass advertising.",
+  "w": [
+   "Wedgwood Portland Vase copy, 1790",
+   "Jasperware cameos and medallions, 1770s"
+  ],
+  "src": "https://www.britannica.com/topic/Wedgwood-pottery"
+ },
+ {
+  "id": "chippendale-furniture",
+  "name": "Chippendale Furniture",
+  "medium": "objects",
+  "region": "Britain",
+  "lat": 51.5,
+  "lon": -0.12,
+  "s": 1749,
+  "p": 1760,
+  "e": 1780,
+  "i": 2,
+  "d": "Thomas Chippendale's pattern book synthesized rococo, Gothic, and Chinese motifs into elegant mahogany chairs and cabinets that defined English cabinetmaking taste.",
+  "w": [
+   "The Gentleman and Cabinet-Maker's Director, 1754",
+   "Chippendale ribbon-back chair, 1755"
+  ],
+  "src": "https://www.vam.ac.uk/articles/thomas-chippendale"
+ },
+ {
+  "id": "faberge",
+  "name": "Fabergé",
+  "medium": "objects",
+  "region": "Russia",
+  "lat": 59.93,
+  "lon": 30.34,
+  "s": 1885,
+  "p": 1895,
+  "e": 1917,
+  "i": 3,
+  "d": "Peter Carl Fabergé's workshop crafted bejeweled Imperial Easter eggs and precious objets for the Romanov court, combining goldsmith virtuosity with playful hidden mechanisms.",
+  "w": [
+   "Hen Egg, 1885",
+   "Coronation Egg, 1897"
+  ],
+  "src": "https://www.artsy.net/article/artsy-editorial-history-faberge-egg"
+ },
+ {
+  "id": "tiffany-glass",
+  "name": "Tiffany Favrile Glass",
+  "medium": "objects",
+  "region": "United States",
+  "lat": 40.71,
+  "lon": -74.01,
+  "s": 1893,
+  "p": 1900,
+  "e": 1920,
+  "i": 3,
+  "d": "Louis Comfort Tiffany's iridescent Favrile glass and leaded lamps translated Art Nouveau organic form into American decorative art, celebrated at world's fairs.",
+  "w": [
+   "Favrile glass patented, 1894",
+   "Wisteria table lamp, c.1900-06"
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/tiff/hd_tiff.htm"
+ },
+ {
+  "id": "morris-and-co",
+  "name": "Morris & Co. Textiles",
+  "medium": "objects",
+  "region": "Britain",
+  "lat": 51.5,
+  "lon": -0.12,
+  "s": 1861,
+  "p": 1880,
+  "e": 1900,
+  "i": 3,
+  "d": "William Morris designed dense, nature-derived repeating patterns for wallpaper and woven textiles, insisting on hand-craft and natural dyes against industrial cheapness.",
+  "w": [
+   "Strawberry Thief, 1883",
+   "Willow Bough wallpaper, 1887"
+  ],
+  "src": "https://www.vam.ac.uk/articles/william-morris"
+ },
+ {
+  "id": "shaker-furniture",
+  "name": "Shaker Furniture",
+  "medium": "objects",
+  "region": "United States",
+  "lat": 42.47,
+  "lon": -73.34,
+  "s": 1790,
+  "p": 1850,
+  "e": 1900,
+  "i": 2,
+  "d": "Shaker communities built spare, functional chairs and cabinets stripped of ornament, believing that honest, well-made work was itself an act of worship.",
+  "w": [
+   "Shaker ladder-back chair, c.1830-40",
+   "Shaker oval boxes, 19th century"
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/shak/hd_shak.htm"
+ },
+ {
+  "id": "venetian-glass",
+  "name": "Venetian (Murano) Glass",
+  "medium": "objects",
+  "region": "Italy",
+  "lat": 45.46,
+  "lon": 12.35,
+  "s": 1400,
+  "p": 1500,
+  "e": 1900,
+  "i": 3,
+  "d": "Murano's guild-protected glassmakers invented clear cristallo, filigree, and millefiori techniques, dominating European luxury glass before a 19th-century revival under Salviati.",
+  "w": [
+   "Angelo Barovier, cristallo goblet, c.1460",
+   "Salviati revival mosaic glass, 1860s"
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/mgls/hd_mgls.htm"
+ },
+ {
+  "id": "safavid-carpets",
+  "name": "Safavid Carpets",
+  "medium": "objects",
+  "region": "Iran",
+  "lat": 32.65,
+  "lon": 51.68,
+  "s": 1500,
+  "p": 1600,
+  "e": 1722,
+  "i": 3,
+  "d": "Royal Safavid workshops wove silk-and-wool carpets of extraordinary density and intricate arabesque, medallion, and hunting designs for court and mosque.",
+  "w": [
+   "Ardabil Carpet, 1539-40",
+   "Coronation Carpet, early 17th c."
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/scar/hd_scar.htm"
+ },
+ {
+  "id": "iznik-ceramics",
+  "name": "Iznik Ceramics",
+  "medium": "objects",
+  "region": "Ottoman Turkey",
+  "lat": 40.43,
+  "lon": 29.72,
+  "s": 1480,
+  "p": 1570,
+  "e": 1700,
+  "i": 3,
+  "d": "Ottoman potters at Iznik developed a fritware body painted with a signature palette including 'Iznik red,' covering mosque tiles and courtly vessels in dense floral arabesques.",
+  "w": [
+   "Iznik tile panels, Rüstem Pasha Mosque, 1560s",
+   "Iznik dish with tulip design, 1570s"
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/izni/hd_izni.htm"
+ },
+ {
+  "id": "japanese-lacquer",
+  "name": "Japanese Maki-e Lacquer",
+  "medium": "objects",
+  "region": "Japan",
+  "lat": 35.01,
+  "lon": 135.77,
+  "s": 1400,
+  "p": 1700,
+  "e": 1900,
+  "i": 3,
+  "d": "Artisans built up sprinkled-gold maki-e designs on lacquered wood boxes and furniture, prized domestically and, from the 1600s, as a coveted Nanban export good to Europe.",
+  "w": [
+   "Namban lacquer chest, c.1600",
+   "Ogata Kōrin-design writing box, c.1700"
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/laqu/hd_laqu.htm"
+ },
+ {
+  "id": "japanese-netsuke",
+  "name": "Japanese Netsuke",
+  "medium": "objects",
+  "region": "Japan",
+  "lat": 35.68,
+  "lon": 139.69,
+  "s": 1615,
+  "p": 1850,
+  "e": 1900,
+  "i": 2,
+  "d": "Small ivory or wood toggles used to suspend pouches from a kimono sash evolved into miniature virtuoso carvings of animals, folklore figures, and everyday scenes.",
+  "w": [
+   "Netsuke of a rat, Edo period",
+   "Netsuke of Daikoku, 19th century"
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/nets/hd_nets.htm"
+ },
+ {
+  "id": "islamic-metalwork",
+  "name": "Islamic Metalwork (Mamluk/Safavid)",
+  "medium": "objects",
+  "region": "Middle East",
+  "lat": 30.04,
+  "lon": 31.24,
+  "s": 1400,
+  "p": 1500,
+  "e": 1700,
+  "i": 3,
+  "d": "Mamluk and later Safavid metalworkers inlaid brass and bronze basins, candlesticks, and trays with intricate silver and gold calligraphy and arabesque.",
+  "w": [
+   "Mamluk inlaid brass basin, 15th century",
+   "Safavid steel mirror case, 16th century"
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/mmlk/hd_mmlk.htm"
+ },
+ {
+  "id": "ming-zhe-school",
+  "name": "Ming Zhe School Painting",
+  "medium": "painting",
+  "region": "China",
+  "lat": 30.27,
+  "lon": 120.15,
+  "s": 1425,
+  "p": 1450,
+  "e": 1550,
+  "i": 2,
+  "d": "Court-affiliated professional painters revived vigorous Southern Song academic brushwork in dramatic ink landscapes and figures, contrasting with literati amateur ideals.",
+  "w": [
+   "Dai Jin, landscape hanging scrolls, 1430s-40s",
+   "Wu Wei, Immortal in a Splashed-Ink Landscape, c.1500"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Zhe_school_(painting)"
+ },
+ {
+  "id": "ming-wu-school",
+  "name": "Ming Wu School Painting",
+  "medium": "painting",
+  "region": "China",
+  "lat": 31.3,
+  "lon": 120.62,
+  "s": 1450,
+  "p": 1500,
+  "e": 1580,
+  "i": 3,
+  "d": "Scholar-officials in Suzhou painted restrained, calligraphic literati landscapes for private contemplation, elevating amateur brushwork above professional court painting.",
+  "w": [
+   "Shen Zhou, Lofty Mount Lu, 1467",
+   "Wen Zhengming, garden landscapes, 1530s"
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/wuxi/hd_wuxi.htm"
+ },
+ {
+  "id": "qing-individualists",
+  "name": "Qing Individualist Painters",
+  "medium": "painting",
+  "region": "China",
+  "lat": 32.06,
+  "lon": 118.8,
+  "s": 1650,
+  "p": 1680,
+  "e": 1707,
+  "i": 3,
+  "d": "Ming-loyalist monk-painters expressed personal anguish and eccentric vision through radically distorted, expressive brushwork, rejecting Qing-era orthodox conventions.",
+  "w": [
+   "Bada Shanren, Lotus and Ducks, c.1690",
+   "Shitao, Ten Thousand Ugly Inkblots, 1685"
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/indi/hd_indi.htm"
+ },
+ {
+  "id": "qing-orthodox-school",
+  "name": "Qing Orthodox School (Four Wangs)",
+  "medium": "painting",
+  "region": "China",
+  "lat": 31.45,
+  "lon": 121.11,
+  "s": 1650,
+  "p": 1680,
+  "e": 1720,
+  "i": 3,
+  "d": "Imperially favored painters systematized past masters' brush techniques into a codified, meticulously layered landscape style that became the Qing academic standard.",
+  "w": [
+   "Wang Hui, The Kangxi Emperor's Southern Inspection Tour, 1698",
+   "Wang Yuanqi, landscape album, 1700s"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Four_Wangs"
+ },
+ {
+  "id": "muromachi-ink-painting",
+  "name": "Muromachi Ink Painting (Suibokuga)",
+  "medium": "painting",
+  "region": "Japan",
+  "lat": 35.01,
+  "lon": 135.77,
+  "s": 1420,
+  "p": 1480,
+  "e": 1573,
+  "i": 3,
+  "d": "Zen monk-painters trained in Chinese Song and Yuan models rendered misty landscapes and figures in monochrome ink with spare, meditative brushwork.",
+  "w": [
+   "Josetsu, Catching a Catfish with a Gourd, c.1413",
+   "Sesshū Tōyō, Long Landscape Scroll, 1486"
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/mink/hd_mink.htm"
+ },
+ {
+  "id": "rinpa-school",
+  "name": "Rinpa School",
+  "medium": "painting",
+  "region": "Japan",
+  "lat": 35.01,
+  "lon": 135.77,
+  "s": 1600,
+  "p": 1700,
+  "e": 1900,
+  "i": 3,
+  "d": "Decorative painters used gold-leaf grounds, bold nature motifs, and rhythmic design rather than direct teacher-student lineage, revived across generations from Kōetsu to Hōitsu.",
+  "w": [
+   "Tawaraya Sōtatsu, Wind God and Thunder God, c.1621-25",
+   "Ogata Kōrin, Red and White Plum Blossoms, c.1710"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Rinpa_school"
+ },
+ {
+  "id": "kano-school",
+  "name": "Kano School",
+  "medium": "painting",
+  "region": "Japan",
+  "lat": 35.68,
+  "lon": 139.69,
+  "s": 1434,
+  "p": 1600,
+  "e": 1868,
+  "i": 4,
+  "d": "This hereditary painting workshop dynasty served shoguns and daimyo for four centuries, producing bold gold-ground screens and formal ink paintings as Japan's official school.",
+  "w": [
+   "Kano Eitoku, Cypress Trees screen, 1590",
+   "Kano Tan'yū, castle screen paintings, 1630s"
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/kano/hd_kano.htm"
+ },
+ {
+  "id": "ukiyo-e",
+  "name": "Ukiyo-e Woodblock Prints",
+  "medium": "painting",
+  "region": "Japan",
+  "lat": 35.68,
+  "lon": 139.69,
+  "s": 1603,
+  "p": 1830,
+  "e": 1900,
+  "i": 5,
+  "d": "Mass-produced woodblock prints depicted kabuki actors, courtesans, and famous landscapes for a booming urban merchant class, later reshaping Western art through Japonisme.",
+  "w": [
+   "Katsushika Hokusai, The Great Wave off Kanagawa, 1831",
+   "Utagawa Hiroshige, One Hundred Famous Views of Edo, 1856-58"
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/ukiy/hd_ukiy.htm"
+ },
+ {
+  "id": "nihonga-precursors",
+  "name": "Nihonga Precursors",
+  "medium": "painting",
+  "region": "Japan",
+  "lat": 35.68,
+  "lon": 139.69,
+  "s": 1880,
+  "p": 1890,
+  "e": 1900,
+  "i": 2,
+  "d": "Responding to Western influence, Fenollosa and Okakura promoted a self-consciously 'Japanese-style painting' synthesizing traditional materials with new compositional ideas.",
+  "w": [
+   "Kanō Hōgai, Merciful Kannon, 1888",
+   "Hashimoto Gahō, landscape works, 1890s"
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/edop/hd_edop.htm"
+ },
+ {
+  "id": "korean-joseon-painting",
+  "name": "Korean Joseon Painting",
+  "medium": "painting",
+  "region": "Korea",
+  "lat": 37.57,
+  "lon": 126.98,
+  "s": 1400,
+  "p": 1750,
+  "e": 1900,
+  "i": 3,
+  "d": "Court and literati painters developed monochrome ink landscapes and, in the 18th century, a distinctive 'true-view' style depicting actual Korean scenery alongside vivid genre painting.",
+  "w": [
+   "Jeong Seon, Geumgangjeondo, 1734",
+   "Kim Hong-do, genre album, late 18th c."
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/kpat/hd_kpat.htm"
+ },
+ {
+  "id": "mughal-miniature",
+  "name": "Mughal Miniature Painting",
+  "medium": "painting",
+  "region": "India",
+  "lat": 27.18,
+  "lon": 78.02,
+  "s": 1556,
+  "p": 1600,
+  "e": 1707,
+  "i": 5,
+  "d": "Imperial ateliers under Akbar and Jahangir fused Persian miniature technique with Indian color and European naturalism to produce lavish illustrated manuscripts and portraits.",
+  "w": [
+   "Akbarnama illustrations, 1590s",
+   "Jahangir Preferring a Sufi Shaikh to Kings, 1615-18"
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/mugh/hd_mugh.htm"
+ },
+ {
+  "id": "rajput-painting",
+  "name": "Rajput Painting",
+  "medium": "painting",
+  "region": "India",
+  "lat": 24.58,
+  "lon": 73.68,
+  "s": 1600,
+  "p": 1700,
+  "e": 1850,
+  "i": 3,
+  "d": "Independent Hindu courts of Rajasthan commissioned vividly colored, flatter miniatures depicting Krishna legends, court life, and ragamala musical-mode imagery.",
+  "w": [
+   "Ragamala paintings, Mewar, 17th century",
+   "Bhagavata Purana series, Kishangarh, 18th c."
+  ],
+  "src": "https://www.britannica.com/art/South-Asian-arts/Indian-painting"
+ },
+ {
+  "id": "pahari-painting",
+  "name": "Pahari (Kangra) Painting",
+  "medium": "painting",
+  "region": "India",
+  "lat": 32.1,
+  "lon": 76.27,
+  "s": 1740,
+  "p": 1790,
+  "e": 1830,
+  "i": 3,
+  "d": "Himalayan hill-court painters produced exquisitely lyrical miniatures of Krishna's love for Radha, defined by soft naturalism and delicate line under Nainsukh's influence.",
+  "w": [
+   "Nainsukh, portraits of Balwant Singh, 1750s",
+   "Gita Govinda series, Kangra, 1780s"
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/kang/hd_kang.htm"
+ },
+ {
+  "id": "deccani-painting",
+  "name": "Deccani Painting",
+  "medium": "painting",
+  "region": "India",
+  "lat": 16.83,
+  "lon": 75.71,
+  "s": 1490,
+  "p": 1600,
+  "e": 1687,
+  "i": 2,
+  "d": "The Deccan sultanates' painters mixed Persian, Turkish, and indigenous Indian idioms into sensuous, richly colored courtly portraits distinct from Mughal restraint.",
+  "w": [
+   "Portrait of Ibrahim Adil Shah II, c.1590",
+   "Bijapur ragamala paintings, 17th c."
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/dcca/hd_dcca.htm"
+ },
+ {
+  "id": "company-painting",
+  "name": "Company Painting",
+  "medium": "painting",
+  "region": "India",
+  "lat": 22.57,
+  "lon": 88.36,
+  "s": 1770,
+  "p": 1820,
+  "e": 1880,
+  "i": 2,
+  "d": "Indian artists working for British East India Company patrons adapted miniature technique to European taste, cataloguing flora, fauna, castes, and occupations in watercolor.",
+  "w": [
+   "Impey Album natural history studies, 1780s",
+   "Trades and castes series, Patna, 19th c."
+  ],
+  "src": "https://www.britishmuseum.org/collection/term/x27346"
+ },
+ {
+  "id": "safavid-tabriz-school",
+  "name": "Safavid Miniature (Tabriz School)",
+  "medium": "painting",
+  "region": "Iran",
+  "lat": 38.08,
+  "lon": 46.29,
+  "s": 1501,
+  "p": 1530,
+  "e": 1576,
+  "i": 4,
+  "d": "Under Shah Tahmasp's patronage, court painters produced the monumental illustrated Shahnameh, blending Persian and Central Asian traditions in jewel-like detail.",
+  "w": [
+   "Shahnameh of Shah Tahmasp, 1520s-30s",
+   "Sultan Muhammad, Court of Gayumars, c.1525"
+  ],
+  "src": "https://www.britannica.com/art/Tabriz-school"
+ },
+ {
+  "id": "safavid-isfahan-school",
+  "name": "Safavid Miniature (Isfahan School)",
+  "medium": "painting",
+  "region": "Iran",
+  "lat": 32.65,
+  "lon": 51.68,
+  "s": 1598,
+  "p": 1630,
+  "e": 1666,
+  "i": 3,
+  "d": "After the capital moved to Isfahan, Reza Abbasi pioneered looser, more sensuous single-page drawings of youths and lovers, moving away from manuscript illustration.",
+  "w": [
+   "Reza Abbasi, Youth Reading, 1625",
+   "Isfahan school album pages, 1630s"
+  ],
+  "src": "https://www.britannica.com/art/Esfahan-school"
+ },
+ {
+  "id": "ottoman-miniature",
+  "name": "Ottoman Miniature Painting",
+  "medium": "painting",
+  "region": "Turkey",
+  "lat": 41.01,
+  "lon": 28.98,
+  "s": 1451,
+  "p": 1580,
+  "e": 1720,
+  "i": 3,
+  "d": "Topkapı court painters recorded sultans' campaigns and festivals in vivid narrative manuscripts, developing a flatter, more documentary style than Persian miniature.",
+  "w": [
+   "Surname-i Hümayun festival book, 1582-83",
+   "Nakkaş Osman, Hünername, 1584-88"
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/otmi/hd_otmi.htm"
+ },
+ {
+  "id": "ottoman-calligraphy",
+  "name": "Ottoman Calligraphy",
+  "medium": "objects",
+  "region": "Turkey",
+  "lat": 41.01,
+  "lon": 28.98,
+  "s": 1400,
+  "p": 1500,
+  "e": 1900,
+  "i": 3,
+  "d": "Master calligraphers elevated Arabic script into a supreme devotional art form, developing the elegant sülüs and nesih hands used across mosque inscriptions and Qurans.",
+  "w": [
+   "Sheikh Hamdullah, Qur'an manuscripts, c.1500",
+   "Hafiz Osman, calligraphic panels, 1680s"
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/otca/hd_otca.htm"
+ },
+ {
+  "id": "benin-bronzes",
+  "name": "Benin Bronzes",
+  "medium": "sculpture",
+  "region": "West Africa",
+  "lat": 6.34,
+  "lon": 5.62,
+  "s": 1400,
+  "p": 1550,
+  "e": 1897,
+  "i": 4,
+  "d": "Guild casters using lost-wax bronze technique produced commemorative heads, plaques, and altar pieces for the Oba's palace, until British forces looted thousands in 1897.",
+  "w": [
+   "Queen Mother Idia commemorative head, 16th c.",
+   "Benin palace plaques, 16th-17th c."
+  ],
+  "src": "https://smarthistory.org/benin-bronzes-theft-artistry/"
+ },
+ {
+  "id": "kuba-art",
+  "name": "Kuba Kingdom Art",
+  "medium": "objects",
+  "region": "Central Africa",
+  "lat": 4.9,
+  "lon": 21.3,
+  "s": 1625,
+  "p": 1800,
+  "e": 1900,
+  "i": 2,
+  "d": "The Kuba Kingdom produced royal Ndop portrait statues, richly embroidered raffia cut-pile textiles, and elaborately carved ceremonial cups signaling status and lineage.",
+  "w": [
+   "Ndop figure of King Mishe miShyaang maMbul, 18th c.",
+   "Kuba raffia cloth panels, 19th c."
+  ],
+  "src": "https://www.metmuseum.org/essays/kingdoms-of-the-savanna-the-kuba-kingdom"
+ },
+ {
+  "id": "kongo-art",
+  "name": "Kongo Art (Nkisi Figures)",
+  "medium": "sculpture",
+  "region": "Central Africa",
+  "lat": -6.27,
+  "lon": 14.24,
+  "s": 1483,
+  "p": 1650,
+  "e": 1900,
+  "i": 2,
+  "d": "Kongo carvers made power figures (nkisi nkondi) studded with nails and blades to activate spiritual force, alongside crucifixes blending Catholic and indigenous iconography after Portuguese contact.",
+  "w": [
+   "Nkisi nkondi power figure, 19th c.",
+   "Kongo crucifix, 17th c."
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/kong/hd_kong.htm"
+ },
+ {
+  "id": "asante-goldweights",
+  "name": "Asante Goldweights",
+  "medium": "objects",
+  "region": "West Africa",
+  "lat": 6.69,
+  "lon": -1.62,
+  "s": 1400,
+  "p": 1700,
+  "e": 1900,
+  "i": 2,
+  "d": "Akan peoples cast small brass weights in figurative and geometric forms to measure gold dust for trade, each shape often encoding a proverb or moral lesson.",
+  "w": [
+   "Figurative goldweight, animal form, 18th c.",
+   "Geometric goldweight series, 15th-19th c."
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/akan/hd_akan.htm"
+ },
+ {
+  "id": "ethiopian-icon-painting",
+  "name": "Ethiopian Icon Painting (Gondar Style)",
+  "medium": "painting",
+  "region": "East Africa",
+  "lat": 12.6,
+  "lon": 37.47,
+  "s": 1636,
+  "p": 1700,
+  "e": 1900,
+  "i": 2,
+  "d": "Painters at the new capital of Gondar produced vividly colored icons of saints and biblical narrative for church walls and portable diptychs, defining an enduring Ethiopian Orthodox style.",
+  "w": [
+   "Gondar-style Marian icon, 17th c.",
+   "Church mural cycles, Debre Berhan Selassie, 1690s"
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/ghon/hd_ghon.htm"
+ },
+ {
+  "id": "cusco-school",
+  "name": "Cusco School",
+  "medium": "painting",
+  "region": "Peru",
+  "lat": -13.53,
+  "lon": -71.97,
+  "s": 1650,
+  "p": 1700,
+  "e": 1820,
+  "i": 3,
+  "d": "Indigenous and mestizo painters in the former Inca capital adapted Spanish Baroque religious imagery with flattened perspective, gold brocade patterning, and local iconographic touches.",
+  "w": [
+   "Marcos Zapata, Last Supper (with cuy), 1753",
+   "Cusco school angels with arquebuses, 17th c."
+  ],
+  "src": "https://apollo-magazine.com/latin-american-colonial-art-enconchado-cuzco-school-market/"
+ },
+ {
+  "id": "casta-painting",
+  "name": "Casta Painting",
+  "medium": "painting",
+  "region": "Mexico",
+  "lat": 19.43,
+  "lon": -99.13,
+  "s": 1711,
+  "p": 1750,
+  "e": 1800,
+  "i": 2,
+  "d": "Series of sequential canvases in New Spain catalogued mixed-race family groupings and their occupations, ostensibly taxonomic but revealing colonial anxieties about racial hierarchy.",
+  "w": [
+   "Miguel Cabrera, casta painting series, 1763"
+  ],
+  "src": "https://ackland.org/new-to-the-ackland-a-spanish-colonial-casta-painting/"
+ },
+ {
+  "id": "aztec-late-imperial-art",
+  "name": "Aztec Late Imperial Art",
+  "medium": "sculpture",
+  "region": "Mexico",
+  "lat": 19.43,
+  "lon": -99.13,
+  "s": 1428,
+  "p": 1500,
+  "e": 1521,
+  "i": 3,
+  "d": "Tenochtitlan's sculptors carved monumental stone calendar stones and deity figures in dense, geometric imperial style, integrating cosmology with tribute-empire propaganda before the Spanish conquest.",
+  "w": [
+   "Sun Stone (Calendar Stone), c.1500",
+   "Coatlicue statue, late 15th c."
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/azte/hd_azte.htm"
+ },
+ {
+  "id": "inca-late-imperial-art",
+  "name": "Inca Late Imperial Art",
+  "medium": "objects",
+  "region": "Peru",
+  "lat": -13.53,
+  "lon": -71.97,
+  "s": 1438,
+  "p": 1480,
+  "e": 1533,
+  "i": 3,
+  "d": "Inca artisans produced precisely fitted stone architecture, gold and silver ritual objects, and finely woven checkerboard tunics signaling imperial rank across the Andes.",
+  "w": [
+   "Qullqa (tunic) with tocapu design, 15th-16th c.",
+   "Gold and silver figurines, Machu Picchu era"
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/inca/hd_inca.htm"
+ },
+ {
+  "id": "maori-art",
+  "name": "Maori Art (Whakairo)",
+  "medium": "sculpture",
+  "region": "New Zealand",
+  "lat": -38.14,
+  "lon": 176.25,
+  "s": 1400,
+  "p": 1750,
+  "e": 1900,
+  "i": 2,
+  "d": "Maori carvers used stone and later steel tools to create intricately interlaced wood carvings for meeting houses and canoes, alongside facial moko tattooing marking genealogy and status.",
+  "w": [
+   "Waka taua (war canoe) prow carvings, 18th c.",
+   "Wharenui (meeting house) carved panels, 19th c."
+  ],
+  "src": "https://www.britannica.com/art/Oceanic-art/Polynesia"
+ },
+ {
+  "id": "hawaiian-featherwork",
+  "name": "Hawaiian Featherwork",
+  "medium": "objects",
+  "region": "Hawaii",
+  "lat": 21.31,
+  "lon": -157.86,
+  "s": 1400,
+  "p": 1780,
+  "e": 1893,
+  "i": 2,
+  "d": "Thousands of tiny bird feathers were knotted onto woven netting to create sacred cloaks, capes, and helmets reserved for ali'i chiefs, signaling divine rank and protection in battle.",
+  "w": [
+   "Kamehameha I feather cloak, late 18th c.",
+   "Feather helmet (mahiole), 18th c."
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/hafe/hd_hafe.htm"
+ },
+ {
+  "id": "easter-island-moai",
+  "name": "Rapa Nui Moai",
+  "medium": "sculpture",
+  "region": "Easter Island",
+  "lat": -27.11,
+  "lon": -109.35,
+  "s": 1400,
+  "p": 1450,
+  "e": 1650,
+  "i": 3,
+  "d": "Rapa Nui carvers quarried volcanic tuff to erect monumental ancestor figures on stone platforms, a monumental tradition that ceased amid ecological collapse and social upheaval.",
+  "w": [
+   "Moai of Rano Raraku quarry, 15th c.",
+   "Ahu Tongariki platform figures"
+  ],
+  "src": "https://www.metmuseum.org/essays/easter-island"
+ },
+ {
+  "id": "northwest-coast-art",
+  "name": "Northwest Coast Indigenous Art",
+  "medium": "sculpture",
+  "region": "Pacific Northwest",
+  "lat": 54.0,
+  "lon": -132.5,
+  "s": 1400,
+  "p": 1850,
+  "e": 1900,
+  "i": 3,
+  "d": "Haida, Tlingit, and Kwakwaka'wakw carvers developed a distinctive formline style of ovoids and curving lines for totem poles, masks, and Chilkat blankets expressing clan crest lineage.",
+  "w": [
+   "Haida totem pole, 19th c.",
+   "Chilkat blanket, 19th c.",
+   "Transformation mask, Kwakwaka'wakw, 19th c."
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/nwca/hd_nwca.htm"
+ },
+ {
+  "id": "plains-ledger-art",
+  "name": "Plains Ledger Art",
+  "medium": "painting",
+  "region": "Great Plains, United States",
+  "lat": 45.0,
+  "lon": -100.0,
+  "s": 1860,
+  "p": 1878,
+  "e": 1900,
+  "i": 2,
+  "d": "Displaced onto reservations and imprisoned, Plains warriors adapted traditional hide-painting narrative to ink and colored pencil on discarded accounting ledger books.",
+  "w": [
+   "Fort Marion ledger drawings, 1875-78",
+   "Howling Wolf, ledger book pages, 1870s"
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/ledg/hd_ledg.htm"
+ },
+ {
+  "id": "navajo-weaving",
+  "name": "Navajo Weaving",
+  "medium": "objects",
+  "region": "American Southwest",
+  "lat": 36.0,
+  "lon": -109.0,
+  "s": 1650,
+  "p": 1870,
+  "e": 1900,
+  "i": 3,
+  "d": "After Spanish-introduced churro sheep spread wool weaving, Navajo weavers developed banded chief blankets and later elaborate rug patterns using natural and aniline-dyed wool.",
+  "w": [
+   "Classic-period chief blanket, c.1840-60",
+   "Eyedazzler rug, 1880s"
+  ],
+  "src": "https://www.metmuseum.org/toah/hd/nava/hd_nava.htm"
+ },
+ {
+  "id": "fauvism",
+  "name": "Fauvism",
+  "medium": "painting",
+  "region": "France",
+  "lat": 48.86,
+  "lon": 2.35,
+  "s": 1904,
+  "p": 1905,
+  "e": 1908,
+  "i": 4,
+  "d": "Wild, non-naturalistic color applied in raw slashes and blocks, freed from description of the world; sparked by the 1905 Salon d'Automne room critics dubbed 'the cage of wild beasts.'",
+  "w": [
+   "The Woman with a Hat — Matisse, 1905",
+   "The Joy of Life — Matisse, 1905-06",
+   "The Port of Collioure — Derain, 1905"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Fauvism"
+ },
+ {
+  "id": "die-brucke",
+  "name": "Die Brücke (Expressionism)",
+  "medium": "painting",
+  "region": "Germany",
+  "lat": 51.05,
+  "lon": 13.74,
+  "s": 1905,
+  "p": 1908,
+  "e": 1913,
+  "i": 3,
+  "d": "Dresden students channeling raw emotion into jagged woodcuts and acid color, rejecting bourgeois academicism for primitivist, urban-anxious imagery.",
+  "w": [
+   "Street, Berlin — Kirchner, 1913",
+   "Girl under Japanese Umbrella — Kirchner, 1909",
+   "Self-Portrait as a Soldier — Kirchner, 1915"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Die_Br%C3%BCcke"
+ },
+ {
+  "id": "der-blaue-reiter",
+  "name": "Der Blaue Reiter",
+  "medium": "painting",
+  "region": "Germany",
+  "lat": 48.14,
+  "lon": 11.58,
+  "s": 1911,
+  "p": 1912,
+  "e": 1914,
+  "i": 3,
+  "d": "Munich-based almanac group pursuing spiritual abstraction through color, seeing painting as a path to inner necessity; ended by WWI's mobilization of its members.",
+  "w": [
+   "Composition VII — Kandinsky, 1913",
+   "The Fate of the Animals — Marc, 1913",
+   "Yellow Cow — Marc, 1911"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Der_Blaue_Reiter"
+ },
+ {
+  "id": "analytic-cubism",
+  "name": "Analytic Cubism",
+  "medium": "painting",
+  "region": "France",
+  "lat": 48.86,
+  "lon": 2.35,
+  "s": 1907,
+  "p": 1910,
+  "e": 1912,
+  "i": 5,
+  "d": "Picasso and Braque fractured form into faceted, near-monochrome planes viewed from multiple angles at once, dismantling single-point perspective for good.",
+  "w": [
+   "Les Demoiselles d'Avignon — Picasso, 1907",
+   "Portrait of Ambroise Vollard — Picasso, 1910",
+   "Violin and Candlestick — Braque, 1910"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Cubism"
+ },
+ {
+  "id": "synthetic-cubism",
+  "name": "Synthetic Cubism",
+  "medium": "painting",
+  "region": "France",
+  "lat": 48.86,
+  "lon": 2.35,
+  "s": 1912,
+  "p": 1913,
+  "e": 1919,
+  "i": 4,
+  "d": "Cubism's second phase reintroduced color, flatter shapes, and collaged newspaper and wallpaper — papier collé — building images up rather than breaking them down.",
+  "w": [
+   "Still Life with Chair Caning — Picasso, 1912",
+   "Fruit Dish and Glass — Braque, 1912",
+   "Three Musicians — Picasso, 1921"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Cubism"
+ },
+ {
+  "id": "futurism",
+  "name": "Futurism",
+  "medium": "painting",
+  "region": "Italy",
+  "lat": 45.46,
+  "lon": 9.19,
+  "s": 1909,
+  "p": 1912,
+  "e": 1944,
+  "i": 4,
+  "d": "A manifesto-driven cult of speed, machines, and violence that painted motion itself — dynamism of cars, crowds, and cities — glorifying the industrial future.",
+  "w": [
+   "Dynamism of a Dog on a Leash — Balla, 1912",
+   "The City Rises — Boccioni, 1910",
+   "States of Mind — Boccioni, 1911"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Futurism_(art_movement)"
+ },
+ {
+  "id": "vorticism",
+  "name": "Vorticism",
+  "medium": "painting",
+  "region": "United Kingdom",
+  "lat": 51.51,
+  "lon": -0.13,
+  "s": 1914,
+  "p": 1914,
+  "e": 1918,
+  "i": 2,
+  "d": "Britain's brief answer to Futurism and Cubism, all hard angles and mechanized aggression, broadcast through Wyndham Lewis's typographically explosive magazine Blast.",
+  "w": [
+   "Workshop — Lewis, 1914-15",
+   "The Mud Bath — Bomberg, 1914",
+   "Blast (magazine) — Lewis (ed.), 1914"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Vorticism"
+ },
+ {
+  "id": "orphism",
+  "name": "Orphism",
+  "medium": "painting",
+  "region": "France",
+  "lat": 48.86,
+  "lon": 2.35,
+  "s": 1912,
+  "p": 1913,
+  "e": 1914,
+  "i": 2,
+  "d": "A lyrical, color-saturated offshoot of Cubism built from overlapping circular prisms of pure hue, named by Apollinaire for its musical, almost mystical abstraction.",
+  "w": [
+   "Simultaneous Windows on the City — Robert Delaunay, 1912",
+   "Le Bal Bullier — Sonia Delaunay, 1913",
+   "Homage to Blériot — Robert Delaunay, 1914"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Orphism_(art)"
+ },
+ {
+  "id": "suprematism",
+  "name": "Suprematism",
+  "medium": "painting",
+  "region": "Russia",
+  "lat": 55.76,
+  "lon": 37.62,
+  "s": 1915,
+  "p": 1918,
+  "e": 1927,
+  "i": 4,
+  "d": "Malevich reduced painting to pure geometric feeling — a black square, a white square on white — declaring the 'zero of form' as a spiritual and revolutionary act.",
+  "w": [
+   "Black Square — Malevich, 1915",
+   "White on White — Malevich, 1918",
+   "Suprematist Composition — Malevich, 1916"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Suprematism"
+ },
+ {
+  "id": "constructivism-painting",
+  "name": "Constructivism (Painting/Graphics)",
+  "medium": "painting",
+  "region": "Russia",
+  "lat": 55.76,
+  "lon": 37.62,
+  "s": 1915,
+  "p": 1921,
+  "e": 1934,
+  "i": 4,
+  "d": "Revolutionary Russian artists fused geometric abstraction with industrial materials and utilitarian purpose, turning art into propaganda posters, typography, and social engineering — before Stalin suppressed it.",
+  "w": [
+   "Beat the Whites with the Red Wedge — Lissitzky, 1919",
+   "Spatial Construction — Rodchenko, 1920",
+   "Books! poster — Rodchenko, 1924"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Constructivism_(art)"
+ },
+ {
+  "id": "de-stijl",
+  "name": "De Stijl",
+  "medium": "painting",
+  "region": "Netherlands",
+  "lat": 52.37,
+  "lon": 4.9,
+  "s": 1917,
+  "p": 1921,
+  "e": 1931,
+  "i": 4,
+  "d": "Dutch utopians reduced painting to horizontal-vertical grids and primary colors plus black and white, seeking a universal harmony to rebuild culture after WWI.",
+  "w": [
+   "Composition with Red, Yellow, and Blue — Mondrian, 1930",
+   "Composition VIII (The Cow) — van Doesburg, 1918",
+   "Broadway Boogie Woogie — Mondrian, 1943"
+  ],
+  "src": "https://en.wikipedia.org/wiki/De_Stijl"
+ },
+ {
+  "id": "dada-zurich-berlin",
+  "name": "Dada (Zurich/Berlin)",
+  "medium": "painting",
+  "region": "Switzerland/Germany",
+  "lat": 47.38,
+  "lon": 8.54,
+  "s": 1916,
+  "p": 1918,
+  "e": 1923,
+  "i": 4,
+  "d": "Born in wartime disgust at Cabaret Voltaire, Dada attacked reason and taste with nonsense sound poems, photomontage, and readymades; Berlin's branch turned it into savage political satire.",
+  "w": [
+   "Cut with the Kitchen Knife — Höch, 1919",
+   "The Fatagaga collages — Ernst/Baargeld/Arp, 1920",
+   "Merzbau — Schwitters, begun 1923"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Dada"
+ },
+ {
+  "id": "dada-new-york",
+  "name": "Dada (New York)",
+  "medium": "painting",
+  "region": "United States",
+  "lat": 40.71,
+  "lon": -74.01,
+  "s": 1915,
+  "p": 1917,
+  "e": 1923,
+  "i": 3,
+  "d": "Duchamp, Picabia, and Man Ray turned wartime New York into a laboratory of irony, mocking art's seriousness with urinals-as-sculpture and mechanomorphic jokes.",
+  "w": [
+   "Fountain — Duchamp, 1917",
+   "The Bride Stripped Bare by Her Bachelors, Even — Duchamp, 1915-23",
+   "Rrose Sélavy photographs — Man Ray/Duchamp, 1921"
+  ],
+  "src": "https://en.wikipedia.org/wiki/New_York_Dada"
+ },
+ {
+  "id": "surrealism",
+  "name": "Surrealism",
+  "medium": "painting",
+  "region": "France",
+  "lat": 48.86,
+  "lon": 2.35,
+  "s": 1924,
+  "p": 1930,
+  "e": 1966,
+  "i": 5,
+  "d": "Breton's manifesto unleashed the unconscious through automatism, dream imagery, and uncanny juxtapositions, becoming the century's most globally exported avant-garde.",
+  "w": [
+   "The Persistence of Memory — Dalí, 1931",
+   "The Treachery of Images — Magritte, 1929",
+   "The Elephant Celebes — Ernst, 1921"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Surrealism"
+ },
+ {
+  "id": "neue-sachlichkeit",
+  "name": "Neue Sachlichkeit (New Objectivity)",
+  "medium": "painting",
+  "region": "Germany",
+  "lat": 52.52,
+  "lon": 13.4,
+  "s": 1919,
+  "p": 1925,
+  "e": 1933,
+  "i": 3,
+  "d": "A cold, unsparing realism that dissected Weimar Germany's profiteers, cripples, and cabarets with surgical precision — crushed when the Nazis branded it degenerate.",
+  "w": [
+   "The Skat Players — Dix, 1920",
+   "Portrait of the Journalist Sylvia von Harden — Dix, 1926",
+   "Metropolis triptych — Dix, 1928"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Neue_Sachlichkeit"
+ },
+ {
+  "id": "precisionism",
+  "name": "Precisionism",
+  "medium": "painting",
+  "region": "United States",
+  "lat": 40.71,
+  "lon": -74.01,
+  "s": 1915,
+  "p": 1927,
+  "e": 1945,
+  "i": 2,
+  "d": "America's homegrown modernism celebrated factories, grain elevators, and skyscrapers in crisp, near-abstract geometric clarity, treating industry as sublime.",
+  "w": [
+   "American Landscape — Sheeler, 1930",
+   "My Egypt — Demuth, 1927",
+   "Radiator Building—Night, New York — O'Keeffe, 1927"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Precisionism"
+ },
+ {
+  "id": "harlem-renaissance",
+  "name": "Harlem Renaissance",
+  "medium": "painting",
+  "region": "United States",
+  "lat": 40.81,
+  "lon": -73.95,
+  "s": 1918,
+  "p": 1925,
+  "e": 1937,
+  "i": 4,
+  "d": "A flowering of Black visual art, literature, and music centered in Harlem that asserted a modern, self-defined African American identity against caricature and erasure.",
+  "w": [
+   "The Migration Series — Jacob Lawrence, 1940-41 (culmination)",
+   "Aspects of Negro Life — Aaron Douglas, 1934",
+   "Ethiopia Awakening — Meta Warrick Fuller, 1921"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Harlem_Renaissance"
+ },
+ {
+  "id": "mexican-muralism",
+  "name": "Mexican Muralism",
+  "medium": "painting",
+  "region": "Mexico",
+  "lat": 19.43,
+  "lon": -99.13,
+  "s": 1920,
+  "p": 1933,
+  "e": 1970,
+  "i": 5,
+  "d": "State-commissioned monumental frescoes by Los Tres Grandes told Mexico's revolutionary history to a mostly illiterate public, fusing folk imagery with Renaissance scale and socialist politics.",
+  "w": [
+   "Man at the Crossroads — Rivera, 1933-34",
+   "The March of Humanity — Siqueiros, 1965-71",
+   "Catharsis — Orozco, 1934"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Mexican_muralism"
+ },
+ {
+  "id": "social-realism-us",
+  "name": "Social Realism (US)",
+  "medium": "painting",
+  "region": "United States",
+  "lat": 40.71,
+  "lon": -74.01,
+  "s": 1929,
+  "p": 1935,
+  "e": 1945,
+  "i": 3,
+  "d": "Depression-era painters depicted breadlines, strikes, and factory labor with gritty sympathy, often funded by New Deal art programs.",
+  "w": [
+   "The Eviction — Ben Shahn, 1932-33",
+   "American Progress — William Gropper, c. 1930s",
+   "Home Relief Station — Isaac Soyer, 1937"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Social_realism"
+ },
+ {
+  "id": "socialist-realism-ussr",
+  "name": "Socialist Realism (USSR)",
+  "medium": "painting",
+  "region": "Soviet Union",
+  "lat": 55.76,
+  "lon": 37.62,
+  "s": 1932,
+  "p": 1937,
+  "e": 1988,
+  "i": 4,
+  "d": "The Soviet state's mandated style — heroic workers, beaming leaders, idealized industry rendered in academic realism — enforced as the only permissible art for six decades.",
+  "w": [
+   "Worker and Kolkhoz Woman — Vera Mukhina, 1937 (sculpture, emblematic)",
+   "Higher and Higher — Samokhvalov, 1934",
+   "Stalin and Voroshilov in the Kremlin — Gerasimov, 1938"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Socialist_realism"
+ },
+ {
+  "id": "american-regionalism",
+  "name": "American Regionalism",
+  "medium": "painting",
+  "region": "United States",
+  "lat": 41.59,
+  "lon": -93.62,
+  "s": 1925,
+  "p": 1935,
+  "e": 1943,
+  "i": 3,
+  "d": "Rural Midwestern life rendered in sturdy, illustrative realism as a nationalist rejoinder to European modernism during the Depression years.",
+  "w": [
+   "American Gothic — Grant Wood, 1930",
+   "A Social History of Missouri — Thomas Hart Benton, 1936",
+   "Baptism in Kansas — John Steuart Curry, 1928"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Regionalism_(art)"
+ },
+ {
+  "id": "abstract-expressionism",
+  "name": "Abstract Expressionism",
+  "medium": "painting",
+  "region": "United States",
+  "lat": 40.71,
+  "lon": -74.01,
+  "s": 1943,
+  "p": 1950,
+  "e": 1965,
+  "i": 5,
+  "d": "New York became the center of the art world as Pollock's dripped skeins and de Kooning's slashing figures made gesture itself the subject, prizing scale, spontaneity, and the sublime.",
+  "w": [
+   "Autumn Rhythm (Number 30) — Pollock, 1950",
+   "Woman I — de Kooning, 1950-52",
+   "No. 61 (Rust and Blue) — Rothko, 1953"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Abstract_expressionism"
+ },
+ {
+  "id": "color-field-painting",
+  "name": "Color Field Painting",
+  "medium": "painting",
+  "region": "United States",
+  "lat": 38.91,
+  "lon": -77.04,
+  "s": 1949,
+  "p": 1960,
+  "e": 1970,
+  "i": 4,
+  "d": "Vast, soaked or floated fields of unmodulated color aimed to absorb the viewer bodily, trading Abstract Expressionism's angst for meditative, near-sublime scale.",
+  "w": [
+   "Orange, Red, Yellow — Rothko, 1961",
+   "Vir Heroicus Sublimis — Barnett Newman, 1950-51",
+   "Beta Kappa — Morris Louis, 1961"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Color_Field"
+ },
+ {
+  "id": "art-informel-tachisme",
+  "name": "Art Informel / Tachisme",
+  "medium": "painting",
+  "region": "France",
+  "lat": 48.86,
+  "lon": 2.35,
+  "s": 1945,
+  "p": 1955,
+  "e": 1960,
+  "i": 3,
+  "d": "Europe's postwar gestural abstraction — thick impasto, blots, and scrawled marks — channeled trauma into anti-geometric, anti-rational painting.",
+  "w": [
+   "Hostage paintings — Fautrier, 1943-45",
+   "Corps de dame — Dubuffet, 1950-51",
+   "Untitled — Wols, c. 1946-47"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Art_informel"
+ },
+ {
+  "id": "cobra",
+  "name": "CoBrA",
+  "medium": "painting",
+  "region": "Northern Europe",
+  "lat": 50.85,
+  "lon": 4.35,
+  "s": 1948,
+  "p": 1949,
+  "e": 1951,
+  "i": 2,
+  "d": "Artists from Copenhagen, Brussels, and Amsterdam painted childlike, monstrous figures in raw color, prizing spontaneous experimentation over Parisian sophistication.",
+  "w": [
+   "Le Cheval Triste — Asger Jorn, 1953",
+   "Questioning Children — Karel Appel, 1949",
+   "Untitled — Corneille, c. 1950"
+  ],
+  "src": "https://en.wikipedia.org/wiki/CoBrA"
+ },
+ {
+  "id": "gutai",
+  "name": "Gutai",
+  "medium": "painting",
+  "region": "Japan",
+  "lat": 34.69,
+  "lon": 135.5,
+  "s": 1954,
+  "p": 1956,
+  "e": 1972,
+  "i": 3,
+  "d": "Osaka's radical collective made 'concrete' encounters with matter — rolling in mud, throwing paint-filled bottles, running through paper screens — anticipating performance and installation art worldwide.",
+  "w": [
+   "Challenging Mud — Shiraga, 1955",
+   "Please Draw Freely — Yoshihara, 1956",
+   "Work (Water) — Shimamoto, 1956"
+  ],
+  "src": "https://www.tate.org.uk/art/art-terms/g/gutai"
+ },
+ {
+  "id": "neo-dada",
+  "name": "Neo-Dada",
+  "medium": "painting",
+  "region": "United States",
+  "lat": 40.71,
+  "lon": -74.01,
+  "s": 1954,
+  "p": 1958,
+  "e": 1962,
+  "i": 3,
+  "d": "Rauschenberg's combines and Johns's flags and targets reintroduced everyday objects and ironic detachment into painting, bridging Abstract Expressionism and Pop.",
+  "w": [
+   "Flag — Jasper Johns, 1954-55",
+   "Monogram — Rauschenberg, 1955-59",
+   "Bed — Rauschenberg, 1955"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Neo-Dada"
+ },
+ {
+  "id": "pop-art-us",
+  "name": "Pop Art (US)",
+  "medium": "painting",
+  "region": "United States",
+  "lat": 40.71,
+  "lon": -74.01,
+  "s": 1955,
+  "p": 1962,
+  "e": 1970,
+  "i": 5,
+  "d": "Warhol's silkscreened soup cans and Lichtenstein's blown-up comic panels turned consumerism and mass media into flat, deadpan, endlessly reproducible art.",
+  "w": [
+   "Campbell's Soup Cans — Warhol, 1962",
+   "Whaam! — Lichtenstein, 1963",
+   "Marilyn Diptych — Warhol, 1962"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Pop_art"
+ },
+ {
+  "id": "pop-art-british",
+  "name": "Pop Art (British)",
+  "medium": "painting",
+  "region": "United Kingdom",
+  "lat": 51.51,
+  "lon": -0.13,
+  "s": 1956,
+  "p": 1961,
+  "e": 1970,
+  "i": 3,
+  "d": "London's Independent Group first theorized Pop through collages celebrating American ads and appliances viewed with fascinated distance rather than American brashness.",
+  "w": [
+   "Just What Is It that Makes Today's Homes So Different, So Appealing? — Hamilton, 1956",
+   "Bathers — Hockney, 1960s",
+   "Self Portrait with Badges — Peter Blake, 1961"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Pop_art"
+ },
+ {
+  "id": "op-art",
+  "name": "Op Art",
+  "medium": "painting",
+  "region": "International",
+  "lat": 48.86,
+  "lon": 2.35,
+  "s": 1960,
+  "p": 1965,
+  "e": 1970,
+  "i": 3,
+  "d": "Optical tricks of vibrating lines, moiré grids, and stark contrast made the retina itself the artwork's site, popularized by MoMA's 1965 'The Responsive Eye.'",
+  "w": [
+   "Vega-Nor — Vasarely, 1969",
+   "Fall — Bridget Riley, 1963",
+   "Current — Bridget Riley, 1964"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Op_art"
+ },
+ {
+  "id": "minimalism-painting",
+  "name": "Minimalism (Painting)",
+  "medium": "painting",
+  "region": "United States",
+  "lat": 40.71,
+  "lon": -74.01,
+  "s": 1960,
+  "p": 1968,
+  "e": 1975,
+  "i": 4,
+  "d": "Stripes, grids, and repeated modules stripped painting of gesture, illusion, and metaphor, insisting the canvas is only what it literally is.",
+  "w": [
+   "Die Fahne Hoch! — Frank Stella, 1959",
+   "Untitled #9 — Agnes Martin, 1990s (grid series begun 1960s)",
+   "Ten Characters — Sol LeWitt wall drawings, from 1968"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Minimalism"
+ },
+ {
+  "id": "conceptual-art",
+  "name": "Conceptual Art",
+  "medium": "painting",
+  "region": "International",
+  "lat": 40.71,
+  "lon": -74.01,
+  "s": 1966,
+  "p": 1970,
+  "e": 1980,
+  "i": 4,
+  "d": "The idea replaced the object as the artwork, delivered through language, instructions, and documentation — art that could exist as a sentence or a photograph of an event.",
+  "w": [
+   "One and Three Chairs — Kosuth, 1965",
+   "Paragraphs on Conceptual Art — Sol LeWitt, 1967",
+   "Sentences on Conceptual Art — LeWitt, 1969"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Conceptual_art"
+ },
+ {
+  "id": "arte-povera",
+  "name": "Arte Povera",
+  "medium": "painting",
+  "region": "Italy",
+  "lat": 45.07,
+  "lon": 7.69,
+  "s": 1967,
+  "p": 1969,
+  "e": 1972,
+  "i": 3,
+  "d": "Italian artists used 'poor' materials — coal, rags, twigs, live plants — to challenge industrial consumer culture with raw, process-based, anti-monumental works.",
+  "w": [
+   "Venus of the Rags — Pistoletto, 1967",
+   "Igloo di Giap — Merz, 1968",
+   "12 Horses — Kounellis, 1969"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Arte_povera"
+ },
+ {
+  "id": "fluxus",
+  "name": "Fluxus",
+  "medium": "painting",
+  "region": "International",
+  "lat": 50.08,
+  "lon": 8.24,
+  "s": 1962,
+  "p": 1965,
+  "e": 1978,
+  "i": 3,
+  "d": "An anti-art network of scores, event-objects, and absurdist performances launched at the 1962 Wiesbaden festival, dissolving boundaries between art and everyday action.",
+  "w": [
+   "Fluxkits — George Maciunas, 1960s",
+   "Cut Piece — Yoko Ono, 1964",
+   "One Year Performance (Time Clock Piece) precursors — Fluxus scores, 1960s"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Fluxus"
+ },
+ {
+  "id": "performance-body-art",
+  "name": "Performance / Body Art",
+  "medium": "painting",
+  "region": "International",
+  "lat": 40.71,
+  "lon": -74.01,
+  "s": 1960,
+  "p": 1975,
+  "e": 2026,
+  "i": 4,
+  "d": "Artists made their own bodies the material and site of the work — enduring pain, exhaustion, or vulnerability live before an audience — a practice still central to contemporary art.",
+  "w": [
+   "Rhythm 0 — Marina Abramović, 1974",
+   "Shoot — Chris Burden, 1971",
+   "Seedbed — Vito Acconci, 1972"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Performance_art"
+ },
+ {
+  "id": "photorealism",
+  "name": "Photorealism",
+  "medium": "painting",
+  "region": "United States",
+  "lat": 40.71,
+  "lon": -74.01,
+  "s": 1968,
+  "p": 1972,
+  "e": 1980,
+  "i": 3,
+  "d": "Painters used photographs and projectors to render storefronts, cars, and portraits with hyper-detailed, emotionally cool precision that out-did the camera at its own game.",
+  "w": [
+   "Ho — Chuck Close, 1970",
+   "Double Self-Portrait — Estes, 1976",
+   "Untitled (Marilyn) — Audrey Flack, 1977"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Photorealism"
+ },
+ {
+  "id": "neo-expressionism",
+  "name": "Neo-Expressionism",
+  "medium": "painting",
+  "region": "Germany/United States",
+  "lat": 52.52,
+  "lon": 13.4,
+  "s": 1978,
+  "p": 1982,
+  "e": 1989,
+  "i": 4,
+  "d": "A furious return to big, brushy, figurative painting and mythic subject matter after a decade of Conceptualism's austerity, led by German and American painters alike.",
+  "w": [
+   "Nude Self-Portrait — Georg Baselitz, 1971 (precursor)",
+   "Shulamith — Anselm Kiefer, 1983",
+   "Untitled (Skull) — Basquiat, 1981"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Neo-expressionism"
+ },
+ {
+  "id": "transavanguardia",
+  "name": "Transavanguardia",
+  "medium": "painting",
+  "region": "Italy",
+  "lat": 41.9,
+  "lon": 12.5,
+  "s": 1979,
+  "p": 1982,
+  "e": 1988,
+  "i": 3,
+  "d": "Italy's answer to Neo-Expressionism, named by critic Achille Bonito Oliva, mixed historical styles and myth into eclectic, unabashedly painterly canvases.",
+  "w": [
+   "Water Bearer — Sandro Chia, 1981",
+   "Untitled — Francesco Clemente, 1980s",
+   "San Domenico — Enzo Cucchi, 1982"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Transavantgarde"
+ },
+ {
+  "id": "neue-wilde",
+  "name": "Neue Wilde (Junge Wilde)",
+  "medium": "painting",
+  "region": "Germany",
+  "lat": 50.94,
+  "lon": 6.96,
+  "s": 1980,
+  "p": 1983,
+  "e": 1989,
+  "i": 2,
+  "d": "Cologne and Berlin's 'young wild ones' painted fast, garish, deliberately crude urban scenes, rebelling against both Conceptual restraint and their Neo-Expressionist elders.",
+  "w": [
+   "Der Held des Rückzugs — Salomé, 1980s",
+   "Nachtcafé — Rainer Fetting, 1980s",
+   "City paintings — Helmut Middendorf, 1980-82"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Neue_Wilde"
+ },
+ {
+  "id": "graffiti-street-art",
+  "name": "Graffiti / Street Art",
+  "medium": "painting",
+  "region": "United States (global spread)",
+  "lat": 40.71,
+  "lon": -74.01,
+  "s": 1970,
+  "p": 1983,
+  "e": 2026,
+  "i": 4,
+  "d": "Subway tags and spray-can throw-ups from the Bronx and Brooklyn grew into a global visual language, crossing from vandalism into galleries and, later, sanctioned murals worldwide.",
+  "w": [
+   "SAMO© tags — Basquiat, 1977-79",
+   "Subway Art photographs — Cooper/Chalfant, 1984",
+   "Girl with Balloon — Banksy, 2002"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Graffiti"
+ },
+ {
+  "id": "yba",
+  "name": "Young British Artists (YBA)",
+  "medium": "painting",
+  "region": "United Kingdom",
+  "lat": 51.51,
+  "lon": -0.13,
+  "s": 1988,
+  "p": 1997,
+  "e": 1999,
+  "i": 4,
+  "d": "Goldsmiths graduates backed by collector Charles Saatchi shocked with pickled sharks, unmade beds, and dot paintings, dominating the 1997 'Sensation' exhibition and tabloid headlines alike.",
+  "w": [
+   "The Physical Impossibility of Death in the Mind of Someone Living — Damien Hirst, 1991",
+   "My Bed — Tracey Emin, 1998",
+   "Away from the Flock — Damien Hirst, 1994"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Young_British_Artists"
+ },
+ {
+  "id": "neo-geo",
+  "name": "Neo-Geo",
+  "medium": "painting",
+  "region": "United States",
+  "lat": 40.71,
+  "lon": -74.01,
+  "s": 1985,
+  "p": 1987,
+  "e": 1990,
+  "i": 2,
+  "d": "A cool, ironic revival of geometric abstraction and commodity imagery that treated Wall Street-era consumer culture with detached, glossy critique.",
+  "w": [
+   "New Hoover Convertibles — Jeff Koons, 1981-87",
+   "Freedom — Peter Halley, 1988",
+   "Perpetual Motion Machine — Ashley Bickerton, 1988"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Neo-geo"
+ },
+ {
+  "id": "relational-aesthetics",
+  "name": "Relational Aesthetics",
+  "medium": "painting",
+  "region": "International",
+  "lat": 48.86,
+  "lon": 2.35,
+  "s": 1990,
+  "p": 1998,
+  "e": 2005,
+  "i": 3,
+  "d": "Defined by curator Nicolas Bourriaud, this practice made human interaction itself the artwork — free curry dinners, ping-pong tables, conversation — art as social encounter.",
+  "w": [
+   "Untitled (Free) — Rirkrit Tiravanija, 1992",
+   "Relational Aesthetics (book) — Bourriaud, 1998",
+   "Passenger Pigeons — Carsten Höller, installations, 1990s"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Relational_aesthetics"
+ },
+ {
+  "id": "stuckism",
+  "name": "Stuckism",
+  "medium": "painting",
+  "region": "United Kingdom",
+  "lat": 51.51,
+  "lon": -0.13,
+  "s": 1999,
+  "p": 2004,
+  "e": 2026,
+  "i": 1,
+  "d": "A deliberately anti-conceptual, pro-painting protest movement founded by Billy Childish and Charles Thomson, mocking the YBA establishment with figurative painting manifestos.",
+  "w": [
+   "Remodelled Museum — Charles Thomson, 2000s",
+   "The Stuckists Punk Victorian — group show, 2004",
+   "Paintings against conceptualism — Billy Childish, ongoing"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Stuckism"
+ },
+ {
+  "id": "zaria-rebels",
+  "name": "Zaria Art Society (Zaria Rebels)",
+  "medium": "painting",
+  "region": "Nigeria",
+  "lat": 11.08,
+  "lon": 7.71,
+  "s": 1958,
+  "p": 1960,
+  "e": 1962,
+  "i": 3,
+  "d": "Students at Nigeria's Zaria college rejected their British curriculum's Western focus, forging a 'natural synthesis' that fused Uli line-work and Nok forms with modernist technique on the eve of independence.",
+  "w": [
+   "Ana Mmuo (Land of the Dead) — Uche Okeke, 1961",
+   "Christ Carrying the Cross — Demas Nwoko, 1960s",
+   "Untitled Uli drawings — Uche Okeke, 1958-62"
+  ],
+  "src": "https://momaa.org/the-zaria-rebels-nigerias-art-revolution-1958-1965/"
+ },
+ {
+  "id": "ethiopian-modernism",
+  "name": "Ethiopian Modernism",
+  "medium": "painting",
+  "region": "Ethiopia",
+  "lat": 9.03,
+  "lon": 38.75,
+  "s": 1957,
+  "p": 1966,
+  "e": 1974,
+  "i": 2,
+  "d": "Addis Ababa's new fine arts school produced a generation, led by Skunder Boghossian, blending Coptic manuscript imagery and Amharic magic scrolls with Parisian abstraction — cut short by the 1974 revolution.",
+  "w": [
+   "Night Flight of Dread and Delight — Skunder Boghossian, 1964",
+   "The Meskel Flower — Afewerk Tekle, c. 1960s",
+   "Totem paintings — Skunder Boghossian, 1960s"
+  ],
+  "src": "https://www.ethiopiaobserver.com/2025/03/17/ethiopian-modernism-under-a-microscope/"
+ },
+ {
+  "id": "bengal-school",
+  "name": "Bengal School of Art",
+  "medium": "painting",
+  "region": "India",
+  "lat": 22.57,
+  "lon": 88.36,
+  "s": 1905,
+  "p": 1915,
+  "e": 1947,
+  "i": 3,
+  "d": "Abanindranath Tagore led a nationalist revival drawing on Mughal miniatures and Ajanta murals in soft wash technique, deliberately rejecting British academic realism.",
+  "w": [
+   "Bharat Mata (Mother India) — Abanindranath Tagore, 1905",
+   "Journey's End — Abanindranath Tagore, 1913",
+   "Shiva Drinking the Poison — Nandalal Bose, 1930s"
+  ],
+  "src": "https://www.britannica.com/biography/Abanindranath-Tagore"
+ },
+ {
+  "id": "progressive-artists-group",
+  "name": "Progressive Artists' Group (Bombay)",
+  "medium": "painting",
+  "region": "India",
+  "lat": 19.08,
+  "lon": 72.88,
+  "s": 1947,
+  "p": 1949,
+  "e": 1956,
+  "i": 3,
+  "d": "Founded the year of independence by six artists including Souza, Husain, and Raza, the group broke from the Bengal School's revivalism to paint with 'absolute freedom,' fusing Indian subject matter with European modernism.",
+  "w": [
+   "Man and Woman Laughing — F.N. Souza, 1957",
+   "Between the Spider and the Lamp — S.H. Raza, 1956",
+   "Zameen — M.F. Husain, 1955"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Bombay_Progressive_Artists%27_Group"
+ },
+ {
+  "id": "cynical-realism",
+  "name": "Cynical Realism",
+  "medium": "painting",
+  "region": "China",
+  "lat": 39.9,
+  "lon": 116.41,
+  "s": 1989,
+  "p": 1993,
+  "e": 2000,
+  "i": 3,
+  "d": "After Tiananmen, painters rendered bald, laughing or blank-faced figures in flat, garish color to voice disillusionment with politics and history, a term coined by critic Li Xianting in 1992.",
+  "w": [
+   "Series 2, No. 6 — Fang Lijun, 1991-92",
+   "Execution — Yue Minjun, 1995",
+   "Swimmers — Fang Lijun, 1990s"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Cynical_realism"
+ },
+ {
+  "id": "political-pop-china",
+  "name": "Political Pop",
+  "medium": "painting",
+  "region": "China",
+  "lat": 39.9,
+  "lon": 116.41,
+  "s": 1989,
+  "p": 1992,
+  "e": 2000,
+  "i": 3,
+  "d": "Wang Guangyi and peers collided Cultural Revolution propaganda imagery with Western consumer logos, mocking both ideologies with the same deadpan poster style.",
+  "w": [
+   "Great Criticism: Coca-Cola — Wang Guangyi, 1990-93",
+   "Great Criticism series — Wang Guangyi, 1990-2007",
+   "Chairman Mao / Marilyn juxtapositions — various, early 1990s"
+  ],
+  "src": "https://www.tate.org.uk/art/art-terms/p/political-pop"
+ },
+ {
+  "id": "contemporary-ink-china",
+  "name": "Contemporary Chinese Ink Art",
+  "medium": "painting",
+  "region": "China",
+  "lat": 39.9,
+  "lon": 116.41,
+  "s": 1985,
+  "p": 2013,
+  "e": 2026,
+  "i": 3,
+  "d": "Artists reinvented traditional brush-and-ink painting with abstraction, installation, and conceptual strategies, asserting a distinctly Chinese contemporary idiom validated by the Met's 2013 'Ink Art' show.",
+  "w": [
+   "Book from the Sky — Xu Bing, 1987-91",
+   "Family Tree — Zhang Huan, 2001",
+   "Landscript series — Qiu Zhijie, 2000s"
+  ],
+  "src": "https://www.artbasel.com/news/hong-kong-new-ink-movement?lang=en"
+ },
+ {
+  "id": "brazilian-concrete-art",
+  "name": "Brazilian Concrete Art",
+  "medium": "painting",
+  "region": "Brazil",
+  "lat": -23.55,
+  "lon": -46.63,
+  "s": 1952,
+  "p": 1956,
+  "e": 1959,
+  "i": 2,
+  "d": "São Paulo's Grupo Ruptura and Rio's Grupo Frente pursued rigorous, mathematically ordered geometric abstraction inspired by European Concrete art and Brazil's modernizing optimism.",
+  "w": [
+   "Ruptura Manifesto — Waldemar Cordeiro et al., 1952",
+   "Movement paintings — Judith Lauand, 1950s",
+   "Untitled — Lygia Clark, early 1950s (Concrete phase)"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Neo-Concrete_Movement"
+ },
+ {
+  "id": "neo-concrete-movement",
+  "name": "Neo-Concrete Movement",
+  "medium": "painting",
+  "region": "Brazil",
+  "lat": -22.91,
+  "lon": -43.17,
+  "s": 1959,
+  "p": 1960,
+  "e": 1961,
+  "i": 3,
+  "d": "Rio dissidents broke from Concretism's rationalism, declaring art a 'quasi-corpus' meant to be touched and inhabited, birthing participatory objects that dissolved the line between painting and body.",
+  "w": [
+   "Bichos — Lygia Clark, 1960",
+   "Neo-Concrete Manifesto — Ferreira Gullar, 1959",
+   "Tropicália (installation) — Hélio Oiticica, 1966-67"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Neo-Concrete_Movement"
+ },
+ {
+  "id": "argentine-madi",
+  "name": "Madí Movement",
+  "medium": "painting",
+  "region": "Argentina",
+  "lat": -34.6,
+  "lon": -58.38,
+  "s": 1946,
+  "p": 1950,
+  "e": 1960,
+  "i": 2,
+  "d": "Buenos Aires avant-gardists broke the rectangular canvas itself, making irregularly shaped, brightly colored geometric paintings that treated the frame as part of the composition.",
+  "w": [
+   "Marco recortado (Cut Frame) works — Rhod Rothfuss, late 1940s",
+   "Röyi sculptures — Gyula Kosice, 1944 onward",
+   "Madí Manifesto — Kosice/Arden Quin/Rothfuss, 1946"
+  ],
+  "src": "https://www.geometricmadimuseum.org/madi-facts/"
+ },
+ {
+  "id": "papunya-tula",
+  "name": "Papunya Tula (Western Desert Art)",
+  "medium": "painting",
+  "region": "Australia",
+  "lat": -23.15,
+  "lon": 131.9,
+  "s": 1971,
+  "p": 1980,
+  "e": 2026,
+  "i": 3,
+  "d": "Aboriginal elders at a remote Northern Territory settlement, encouraged by teacher Geoffrey Bardon, translated sacred sand and body-painting designs into acrylic dot paintings on board, launching the modern Aboriginal art movement.",
+  "w": [
+   "Honey Ant Dreaming mural — Papunya school, 1971",
+   "Water Dreaming — Johnny Warangkula Tjupurrula, 1972",
+   "Straightening Spears at Ilyingaungau — Clifford Possum Tjapaltjarri, 1972"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Papunya_Tula"
+ },
+ {
+  "id": "hurufiyya",
+  "name": "Hurufiyya Movement",
+  "medium": "painting",
+  "region": "Middle East / North Africa",
+  "lat": 33.32,
+  "lon": 44.37,
+  "s": 1950,
+  "p": 1980,
+  "e": 2000,
+  "i": 3,
+  "d": "Post-colonial Arab and Iranian modernists deconstructed Arabic calligraphy's letterforms into abstract composition, asserting a culturally rooted alternative to imported Western abstraction.",
+  "w": [
+   "Arabic Improvisation — Madiha Omar, 1949",
+   "Al-Hurufiyya series — Shakir Hassan Al Said, 1960s-80s",
+   "Untitled calligraphic works — Jamil Hamoudi, 1960s"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Hurufiyya_movement"
+ },
+ {
+  "id": "saqqakhaneh",
+  "name": "Saqqakhaneh Movement",
+  "medium": "painting",
+  "region": "Iran",
+  "lat": 35.69,
+  "lon": 51.39,
+  "s": 1960,
+  "p": 1966,
+  "e": 1979,
+  "i": 2,
+  "d": "Tehran artists mined popular Shi'a folk imagery — votive locks, talismans, coffeehouse painting — fusing vernacular religious culture with modernist abstraction until the 1979 revolution.",
+  "w": [
+   "K + L32 + 176 — Charles-Hossein Zenderoudi, 1962",
+   "Heech sculptures — Parviz Tanavoli, 1960s-70s",
+   "Mirror-mosaic reliefs — Monir Shahroudy Farmanfarmaian, 1970s"
+  ],
+  "src": "https://www.metmuseum.org/essays/artists-of-the-saqqakhana-movement-1950s60s"
+ },
+ {
+  "id": "soviet-nonconformist-art",
+  "name": "Soviet Nonconformist Art",
+  "medium": "painting",
+  "region": "Soviet Union",
+  "lat": 55.76,
+  "lon": 37.62,
+  "s": 1953,
+  "p": 1974,
+  "e": 1991,
+  "i": 3,
+  "d": "Underground painters worked in apartments and forests outside state control, developing abstraction and conceptual irony banned from public view — bulldozed literally in 1974 when police crushed an open-air show.",
+  "w": [
+   "Bulldozer Exhibition works — various, 1974",
+   "Ilyich's Lantern — Erik Bulatov, 1976",
+   "Answers of an Experimental Group — Ilya Kabakov, 1970s"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Soviet_nonconformist_art"
+ },
+ {
+  "id": "digital-nft-ai-art",
+  "name": "Digital / NFT / AI Art",
+  "medium": "painting",
+  "region": "Global",
+  "lat": 37.77,
+  "lon": -122.42,
+  "s": 2014,
+  "p": 2021,
+  "e": 2026,
+  "i": 4,
+  "d": "Blockchain-verified digital images and, later, text-to-image AI generators turned code and algorithms into an art market of their own, epitomized by Beeple's $69 million NFT sale at Christie's.",
+  "w": [
+   "Everydays: The First 5000 Days — Beeple, 2021",
+   "CryptoPunks — Larva Labs, 2017",
+   "Théâtre D'opéra Spatial — Jason Allen (AI-assisted), 2022"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Non-fungible_token"
+ },
+ {
+  "id": "post-internet-art",
+  "name": "Post-Internet Art",
+  "medium": "painting",
+  "region": "Global",
+  "lat": 40.71,
+  "lon": -74.01,
+  "s": 2008,
+  "p": 2014,
+  "e": 2018,
+  "i": 2,
+  "d": "Artists treated the internet as a cultural condition rather than a tool, making sculpture, painting, and performance saturated with the aesthetics of stock photos, branding, and social media feeds.",
+  "w": [
+   "Excellences & Perfections — Amalia Ulman, 2014",
+   "The Persistence of Chaos — Guo O Dong, 2017 (later work)",
+   "DIS Magazine curatorial projects — collective, 2010s"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Post-Internet_art"
+ },
+ {
+  "id": "metaphysical-painting",
+  "name": "Metaphysical Painting (Pittura Metafisica)",
+  "medium": "painting",
+  "region": "Italy",
+  "lat": 44.84,
+  "lon": 11.62,
+  "s": 1913,
+  "p": 1917,
+  "e": 1920,
+  "i": 2,
+  "d": "De Chirico's eerily empty piazzas, long shadows, and mannequin figures conjured an uncanny stillness that directly seeded Surrealism a decade later.",
+  "w": [
+   "The Song of Love — de Chirico, 1914",
+   "Mysterious Baths — de Chirico, 1930s (late variant)",
+   "The Enigma of a Day — de Chirico, 1914"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Metaphysical_art"
+ },
+ {
+  "id": "purism",
+  "name": "Purism",
+  "medium": "painting",
+  "region": "France",
+  "lat": 48.86,
+  "lon": 2.35,
+  "s": 1918,
+  "p": 1921,
+  "e": 1925,
+  "i": 2,
+  "d": "Le Corbusier and Ozenfant's manifesto 'Après le cubisme' called for cool, machine-precise still lifes of bottles and glasses, purging Cubism of decorative excess.",
+  "w": [
+   "Still Life with Pile of Plates — Le Corbusier, 1920",
+   "Nature morte — Ozenfant, 1920",
+   "Verre, bouteille, paquet de tabac — Ozenfant, 1922"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Purism"
+ },
+ {
+  "id": "vienna-actionism",
+  "name": "Vienna Actionism",
+  "medium": "painting",
+  "region": "Austria",
+  "lat": 48.21,
+  "lon": 16.37,
+  "s": 1960,
+  "p": 1966,
+  "e": 1971,
+  "i": 2,
+  "d": "Nitsch, Muehl, Brus, and Schwarzkogler staged visceral, blood-and-flesh rituals attacking Catholic guilt and postwar Austrian repression, pushing body art to its most extreme edge.",
+  "w": [
+   "Orgies Mysteries Theatre actions — Hermann Nitsch, from 1962",
+   "Art and Revolution action — 1968",
+   "Self-mutilation performances — Rudolf Schwarzkogler, 1965-69"
+  ],
+  "src": "https://www.theartstory.org/movement/viennese-actionism/"
+ },
+ {
+  "id": "feminist-art-movement",
+  "name": "Feminist Art Movement",
+  "medium": "painting",
+  "region": "United States",
+  "lat": 34.05,
+  "lon": -118.24,
+  "s": 1969,
+  "p": 1972,
+  "e": 1985,
+  "i": 3,
+  "d": "Judy Chicago and Miriam Schapiro's CalArts Feminist Art Program and the collaborative Womanhouse installation reclaimed craft, the body, and domestic space as serious subject matter.",
+  "w": [
+   "The Dinner Party — Judy Chicago, 1974-79",
+   "Womanhouse — collective installation, 1972",
+   "Semiotics of the Kitchen — Martha Rosler (video), 1975"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Feminist_art_movement"
+ },
+ {
+  "id": "appropriation-art",
+  "name": "Appropriation Art",
+  "medium": "painting",
+  "region": "United States",
+  "lat": 40.71,
+  "lon": -74.01,
+  "s": 1977,
+  "p": 1982,
+  "e": 1990,
+  "i": 3,
+  "d": "Artists re-photographed or re-painted existing images wholesale — ads, film stills, master paintings — to interrogate authorship, originality, and image saturation under postmodernism.",
+  "w": [
+   "After Walker Evans — Sherrie Levine, 1981",
+   "Untitled (Cowboy) — Richard Prince, 1980-89",
+   "Equivalent VIII appropriations debate — surrounding readymade discourse, 1980s"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Appropriation_(art)"
+ },
+ {
+  "id": "chicano-art-movement",
+  "name": "Chicano Art Movement",
+  "medium": "painting",
+  "region": "United States",
+  "lat": 34.05,
+  "lon": -118.24,
+  "s": 1965,
+  "p": 1975,
+  "e": 1985,
+  "i": 3,
+  "d": "Rising alongside the Chicano civil rights movement, muralists and collectives like ASCO painted barrio walls with Aztec, Catholic, and pop-culture imagery asserting Mexican-American identity.",
+  "w": [
+   "Instant Mural — ASCO, 1974",
+   "Chicano Park murals — collective, from 1973",
+   "La Historia de California — East LA muralists, 1970s"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Chicano_art_movement"
+ },
+ {
+  "id": "superflat",
+  "name": "Superflat",
+  "medium": "painting",
+  "region": "Japan",
+  "lat": 35.68,
+  "lon": 139.65,
+  "s": 1996,
+  "p": 2001,
+  "e": 2010,
+  "i": 2,
+  "d": "Takashi Murakami's manifesto linked anime and manga's flat, hyper-decorative surfaces to historical Japanese art, blurring high art and otaku pop culture into a single 'superflat' plane.",
+  "w": [
+   "My Lonesome Cowboy — Murakami, 1998",
+   "727 — Murakami, 1996",
+   "Superflat exhibition catalogue works — 2000"
+  ],
+  "src": "https://www.theartstory.org/movement/superflat/"
+ },
+ {
+  "id": "outsider-art-brut",
+  "name": "Outsider Art / Art Brut",
+  "medium": "painting",
+  "region": "Europe/Global",
+  "lat": 46.52,
+  "lon": 6.63,
+  "s": 1945,
+  "p": 1972,
+  "e": 2026,
+  "i": 2,
+  "d": "Dubuffet championed self-taught, institutionalized, or visionary makers working entirely outside art-world training, prizing raw, unfiltered creative compulsion over technique.",
+  "w": [
+   "Collection de l'Art Brut holdings — various self-taught artists, opened 1976",
+   "Watch Tower — Adolf Wölfli, c. 1910s-20s",
+   "Untitled works — Henry Darger, mid-20th c."
+  ],
+  "src": "https://en.wikipedia.org/wiki/Outsider_art"
+ },
+ {
+  "id": "video-art",
+  "name": "Video Art",
+  "medium": "painting",
+  "region": "International",
+  "lat": 40.71,
+  "lon": -74.01,
+  "s": 1965,
+  "p": 1975,
+  "e": 2026,
+  "i": 3,
+  "d": "Nam June Paik's first Portapak recordings launched a medium that let artists manipulate, loop, and distort broadcast television's own language, now a staple of biennials and museum galleries.",
+  "w": [
+   "TV Buddha — Nam June Paik, 1974",
+   "Global Groove — Nam June Paik, 1973",
+   "The Reflecting Pool — Bill Viola, 1977-79"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Video_art"
+ },
+ {
+  "id": "zero-group",
+  "name": "Zero (Group)",
+  "medium": "painting",
+  "region": "Germany",
+  "lat": 51.23,
+  "lon": 6.77,
+  "s": 1957,
+  "p": 1961,
+  "e": 1966,
+  "i": 2,
+  "d": "Düsseldorf artists sought a 'zero point' after the war's devastation — pure light, vibration, and monochrome nail-fields — networking with kindred groups across Europe and Latin America.",
+  "w": [
+   "Lichtraum (Hommage à Fontana) — Piene/Mack/Uecker, 1964",
+   "Nail Fields — Günther Uecker, from 1961",
+   "Silberbild — Otto Piene, 1950s-60s"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Zero_(art)"
+ },
+ {
+  "id": "support-surfaces",
+  "name": "Support/Surfaces",
+  "medium": "painting",
+  "region": "France",
+  "lat": 43.71,
+  "lon": 7.26,
+  "s": 1966,
+  "p": 1970,
+  "e": 1972,
+  "i": 1,
+  "d": "French artists dismantled painting into its material components — unstretched canvas, dyed fabric, raw wooden stretcher bars — displayed as separate, deconstructed elements.",
+  "w": [
+   "Untitled (dyed canvas works) — Claude Viallat, from 1966",
+   "Pliages — Daniel Dezeuze, 1970s",
+   "Filets (nets) — Louis Cane, 1970s"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Supports/Surfaces"
+ },
+ {
+  "id": "kinetic-art-grav",
+  "name": "Kinetic Art (GRAV)",
+  "medium": "painting",
+  "region": "France",
+  "lat": 48.86,
+  "lon": 2.35,
+  "s": 1960,
+  "p": 1963,
+  "e": 1968,
+  "i": 2,
+  "d": "Paris's Groupe de Recherche d'Art Visuel built optical and mechanically moving works meant to be touched and activated by viewers, democratizing art through participation and motion.",
+  "w": [
+   "Instabilité — Julio Le Parc, 1962-63",
+   "Cinétisation — GRAV collective works, 1961-68",
+   "Labyrinth — GRAV, Biennale de Paris, 1963"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Kinetic_art"
+ },
+ {
+  "id": "rodin-legacy",
+  "name": "Rodin's Late Legacy",
+  "medium": "sculpture",
+  "region": "France",
+  "lat": 48.86,
+  "lon": 2.35,
+  "s": 1900,
+  "p": 1904,
+  "e": 1917,
+  "i": 4,
+  "d": "Rodin's rough, unfinished-looking bronze surfaces and fragmentary bodies, radical for their expressive emotion over academic polish, set the template every 20th-century sculptor reacted to.",
+  "w": [
+   "The Thinker (monumental cast) — Rodin, 1904",
+   "The Gates of Hell — Rodin, worked until his death, 1917",
+   "Balzac — Rodin, cast 1917 posthumously"
+  ],
+  "src": "https://www.theartstory.org/artist/rodin-auguste/"
+ },
+ {
+  "id": "brancusi-modernist-sculpture",
+  "name": "Brancusi & Modernist Sculpture",
+  "medium": "sculpture",
+  "region": "France (Romanian-born)",
+  "lat": 48.86,
+  "lon": 2.35,
+  "s": 1907,
+  "p": 1928,
+  "e": 1957,
+  "i": 4,
+  "d": "Brancusi pared the figure down to gleaming, near-abstract essential forms — an egg, a fish, a bird in flight — arguing that simplicity itself was reality.",
+  "w": [
+   "Bird in Space — Brancusi, 1923 (series to 1940)",
+   "The Kiss — Brancusi, 1907-08",
+   "Endless Column — Brancusi, 1938"
+  ],
+  "src": "https://www.tate.org.uk/whats-on/tate-modern/constantin-brancusi-essence-things"
+ },
+ {
+  "id": "futurist-sculpture",
+  "name": "Futurist Sculpture",
+  "medium": "sculpture",
+  "region": "Italy",
+  "lat": 45.46,
+  "lon": 9.19,
+  "s": 1912,
+  "p": 1913,
+  "e": 1916,
+  "i": 2,
+  "d": "Boccioni translated Futurist dynamism into bronze, dissolving the figure into the force-lines of its own motion through space.",
+  "w": [
+   "Unique Forms of Continuity in Space — Boccioni, 1913",
+   "Development of a Bottle in Space — Boccioni, 1912",
+   "Fusion of a Head and a Window — Boccioni, 1912"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Umberto_Boccioni"
+ },
+ {
+  "id": "constructivist-sculpture",
+  "name": "Constructivist Sculpture",
+  "medium": "sculpture",
+  "region": "Russia",
+  "lat": 55.76,
+  "lon": 37.62,
+  "s": 1913,
+  "p": 1920,
+  "e": 1932,
+  "i": 3,
+  "d": "Tatlin and Gabo built with industrial materials — wire, glass, sheet metal — proposing sculpture as engineering, most famously an unbuilt spiraling tower meant to outdo the Eiffel Tower.",
+  "w": [
+   "Monument to the Third International (model) — Tatlin, 1919-20",
+   "Realistic Manifesto — Gabo/Pevsner, 1920",
+   "Corner Counter-Relief — Tatlin, 1915"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Constructivism_(art)"
+ },
+ {
+  "id": "giacometti-existential-figuration",
+  "name": "Giacometti & Existential Figuration",
+  "medium": "sculpture",
+  "region": "Switzerland/France",
+  "lat": 48.86,
+  "lon": 2.35,
+  "s": 1945,
+  "p": 1947,
+  "e": 1966,
+  "i": 3,
+  "d": "Postwar Giacometti made impossibly thin, scarred bronze figures that seemed to be dissolving under the viewer's gaze, embodying existentialist isolation and fragility.",
+  "w": [
+   "Man Pointing — Giacometti, 1947",
+   "Walking Man I — Giacometti, 1960",
+   "Woman of Venice — Giacometti, 1956"
+  ],
+  "src": "https://www.britannica.com/biography/Alberto-Giacometti"
+ },
+ {
+  "id": "calder-mobiles",
+  "name": "Calder & the Mobile",
+  "medium": "sculpture",
+  "region": "United States/France",
+  "lat": 40.71,
+  "lon": -74.01,
+  "s": 1931,
+  "p": 1937,
+  "e": 1976,
+  "i": 3,
+  "d": "Calder invented the hanging mobile — abstract shapes in perfect wind-driven balance — turning sculpture from static mass into playful, ever-changing motion.",
+  "w": [
+   "Lobster Trap and Fish Tail — Calder, 1939",
+   "A Universe — Calder, 1934",
+   ".125 — Calder, 1957"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Alexander_Calder"
+ },
+ {
+  "id": "minimalist-sculpture",
+  "name": "Minimalist Sculpture",
+  "medium": "sculpture",
+  "region": "United States",
+  "lat": 40.71,
+  "lon": -74.01,
+  "s": 1960,
+  "p": 1968,
+  "e": 1975,
+  "i": 4,
+  "d": "Industrially fabricated boxes, stacks, and floor pieces in raw metal and plywood rejected pedestal, narrative, and the artist's hand, foregrounding the viewer's own bodily experience of space.",
+  "w": [
+   "Untitled (stack) — Donald Judd, 1967",
+   "Equivalent VIII — Carl Andre, 1966",
+   "Untitled (Corner Piece) — Dan Flavin (fluorescent light), 1963"
+  ],
+  "src": "https://www.guggenheim.org/teaching-materials/singular-forms-sometimes-repeated-art-from-1951-to-the-present/donald-judd-1928-1994"
+ },
+ {
+  "id": "land-art-earthworks",
+  "name": "Land Art / Earthworks",
+  "medium": "sculpture",
+  "region": "United States",
+  "lat": 41.44,
+  "lon": -112.67,
+  "s": 1967,
+  "p": 1970,
+  "e": 1980,
+  "i": 3,
+  "d": "Artists left the gallery entirely, cutting, mounding, and spiraling the American desert itself into monumental, slowly eroding sculptures visible only from the air or after a long drive.",
+  "w": [
+   "Spiral Jetty — Robert Smithson, 1970",
+   "Double Negative — Michael Heizer, 1969-70",
+   "Sun Tunnels — Nancy Holt, 1976"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Robert_Smithson"
+ },
+ {
+  "id": "installation-art",
+  "name": "Installation Art",
+  "medium": "sculpture",
+  "region": "International",
+  "lat": 40.71,
+  "lon": -74.01,
+  "s": 1958,
+  "p": 2000,
+  "e": 2026,
+  "i": 4,
+  "d": "Whole rooms became the artwork — immersive, often walk-through environments of light, sound, and object — evolving from Kaprow's 1950s 'Environments' into today's dominant contemporary mode.",
+  "w": [
+   "18 Happenings in 6 Parts — Allan Kaprow, 1959",
+   "The Weather Project — Olafur Eliasson, 2003",
+   "Infinity Mirror Rooms — Yayoi Kusama, ongoing since 1965"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Installation_art"
+ },
+ {
+  "id": "contemporary-monumental-sculpture",
+  "name": "Contemporary Monumental Sculpture",
+  "medium": "sculpture",
+  "region": "International",
+  "lat": 51.51,
+  "lon": -0.13,
+  "s": 1990,
+  "p": 2015,
+  "e": 2026,
+  "i": 4,
+  "d": "Kapoor's mirrored voids and Kusama's polka-dotted pumpkins scaled sculpture up to plaza-filling, Instagram-magnet public spectacle, blending sublime abstraction with mass popularity.",
+  "w": [
+   "Cloud Gate — Anish Kapoor, 2004-06",
+   "Pumpkin — Yayoi Kusama, 1994 (series ongoing)",
+   "Sky Mirror — Anish Kapoor, 2006"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Yayoi_Kusama"
+ },
+ {
+  "id": "assemblage-junk-sculpture",
+  "name": "Assemblage / Junk Sculpture",
+  "medium": "sculpture",
+  "region": "United States",
+  "lat": 40.71,
+  "lon": -74.01,
+  "s": 1950,
+  "p": 1961,
+  "e": 1970,
+  "i": 2,
+  "d": "Nevelson's monochrome wooden walls and Chamberlain's crushed automobile bodies turned discarded urban debris into monumental, painterly sculpture.",
+  "w": [
+   "Sky Cathedral — Louise Nevelson, 1958",
+   "Velvet White — John Chamberlain, 1962",
+   "Compression sculptures — César, from 1960"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Assemblage_(art)"
+ },
+ {
+  "id": "new-british-sculpture",
+  "name": "New British Sculpture",
+  "medium": "sculpture",
+  "region": "United Kingdom",
+  "lat": 51.51,
+  "lon": -0.13,
+  "s": 1980,
+  "p": 1988,
+  "e": 1995,
+  "i": 2,
+  "d": "A generation after Caro turned to industrial materials, ordinary objects, and the cast human body — Gormley's body-casts, Cragg's assembled plastics — to renew figurative and material sculpture.",
+  "w": [
+   "Another Place — Antony Gormley, 1997 (concept from 1980s)",
+   "Britain Seen from the North — Tony Cragg, 1981",
+   "Twin-Tub — Bill Woodrow, 1981"
+  ],
+  "src": "https://en.wikipedia.org/wiki/New_British_Sculpture"
+ },
+ {
+  "id": "mono-ha-sculpture",
+  "name": "Mono-ha",
+  "medium": "sculpture",
+  "region": "Japan",
+  "lat": 35.68,
+  "lon": 139.65,
+  "s": 1968,
+  "p": 1970,
+  "e": 1975,
+  "i": 2,
+  "d": "Tokyo artists arranged raw stone, steel, wood, and earth in near-untouched states, presenting materials 'as they are' in dialogue with each other rather than transformed by the artist's hand.",
+  "w": [
+   "Phase—Mother Earth — Nobuo Sekine, 1968",
+   "Relatum series — Lee Ufan, from 1969",
+   "Untitled (paraffin/lead) — Kishio Suga, 1970s"
+  ],
+  "src": "https://www.tate.org.uk/art/art-terms/m/mono-ha"
+ },
+ {
+  "id": "photo-secession",
+  "name": "Photo-Secession",
+  "medium": "photography",
+  "region": "United States",
+  "lat": 40.71,
+  "lon": -74.01,
+  "s": 1902,
+  "p": 1905,
+  "e": 1917,
+  "i": 3,
+  "d": "Stieglitz's invitation-only society and his journal Camera Work and Gallery 291 institutionalized art photography in America and later introduced European modern art to US audiences.",
+  "w": [
+   "Camera Work (journal) — ed. Stieglitz, 1903-17",
+   "The Steerage — Stieglitz, 1907",
+   "Winter, Fifth Avenue — Stieglitz, 1893"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Photo-Secession"
+ },
+ {
+  "id": "straight-photography-f64",
+  "name": "Straight Photography / Group f/64",
+  "medium": "photography",
+  "region": "United States",
+  "lat": 37.77,
+  "lon": -122.42,
+  "s": 1917,
+  "p": 1932,
+  "e": 1940,
+  "i": 4,
+  "d": "West Coast photographers rejected Pictorialist softness for sharp focus, full tonal range, and unmanipulated prints of nature and everyday objects, founding a manifesto group in 1932.",
+  "w": [
+   "Monolith, the Face of Half Dome — Ansel Adams, 1927",
+   "Pepper No. 30 — Edward Weston, 1930",
+   "Group f/64 Manifesto — 1932"
+  ],
+  "src": "https://www.metmuseum.org/essays/group-f64"
+ },
+ {
+  "id": "new-vision-bauhaus-photography",
+  "name": "New Vision / Bauhaus Photography",
+  "medium": "photography",
+  "region": "Germany",
+  "lat": 51.83,
+  "lon": 12.24,
+  "s": 1919,
+  "p": 1928,
+  "e": 1933,
+  "i": 3,
+  "d": "Moholy-Nagy's 'New Vision' pushed cameraless photograms, extreme angles, and double exposures, treating the camera as a tool for radically re-training human perception.",
+  "w": [
+   "Photogram — Moholy-Nagy, 1922",
+   "Painting, Photography, Film (book) — Moholy-Nagy, 1925",
+   "Berlin Radio Tower photographs — Moholy-Nagy, 1928"
+  ],
+  "src": "https://www.metmuseum.org/essays/the-new-vision-of-photography"
+ },
+ {
+  "id": "surrealist-photography",
+  "name": "Surrealist Photography",
+  "medium": "photography",
+  "region": "France",
+  "lat": 48.86,
+  "lon": 2.35,
+  "s": 1924,
+  "p": 1933,
+  "e": 1939,
+  "i": 3,
+  "d": "Man Ray's cameraless rayographs and solarized nudes, alongside Brassaï's nocturnal Paris, used the darkroom itself to produce uncanny, dreamlike distortions of reality.",
+  "w": [
+   "Le Violon d'Ingres — Man Ray, 1924",
+   "Rayographs — Man Ray, 1922 onward",
+   "Paris de Nuit — Brassaï, 1933"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Man_Ray"
+ },
+ {
+  "id": "fsa-documentary",
+  "name": "FSA Documentary Photography",
+  "medium": "photography",
+  "region": "United States",
+  "lat": 38.91,
+  "lon": -77.04,
+  "s": 1935,
+  "p": 1938,
+  "e": 1944,
+  "i": 4,
+  "d": "A federal photography unit under Roy Stryker sent Lange, Evans, and others to document Depression-era rural poverty, producing some of the century's most iconic and politically consequential images.",
+  "w": [
+   "Migrant Mother — Dorothea Lange, 1936",
+   "Bud Fields and His Family — Walker Evans, 1936",
+   "Dust Bowl images — Arthur Rothstein, 1936"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Farm_Security_Administration"
+ },
+ {
+  "id": "magnum-photojournalism",
+  "name": "Magnum Photojournalism",
+  "medium": "photography",
+  "region": "International",
+  "lat": 48.86,
+  "lon": 2.35,
+  "s": 1947,
+  "p": 1960,
+  "e": 2026,
+  "i": 4,
+  "d": "Founded by Capa, Cartier-Bresson, Seymour, and Rodger as a photographer-owned cooperative, Magnum defined mid-century photojournalism's ethical, on-the-ground eyewitness style and remains active today.",
+  "w": [
+   "Falling Soldier — Robert Capa, 1936 (pre-Magnum, foundational)",
+   "Behind the Gare Saint-Lazare — Cartier-Bresson, 1932",
+   "D-Day landing photographs — Robert Capa, 1944"
+  ],
+  "src": "https://www.magnumphotos.com/about-magnum/history/"
+ },
+ {
+  "id": "subjective-photography",
+  "name": "Subjective Photography (Subjektive Fotografie)",
+  "medium": "photography",
+  "region": "Germany",
+  "lat": 49.24,
+  "lon": 7.0,
+  "s": 1949,
+  "p": 1954,
+  "e": 1963,
+  "i": 2,
+  "d": "Otto Steinert's touring exhibitions championed a personal, experimental postwar German photography of abstraction and expressive form, reviving avant-garde technique after Nazi-era conservatism.",
+  "w": [
+   "Subjektive Fotografie exhibitions — Steinert (curator), 1951/1954/1958",
+   "Luminogramme — Otto Steinert, 1950s",
+   "Pedestrian's Foot — Otto Steinert, 1950"
+  ],
+  "src": "https://www.tate.org.uk/art/art-terms/s/subjective-photography"
+ },
+ {
+  "id": "family-of-man",
+  "name": "The Family of Man Era",
+  "medium": "photography",
+  "region": "United States",
+  "lat": 40.71,
+  "lon": -74.01,
+  "s": 1955,
+  "p": 1955,
+  "e": 1962,
+  "i": 3,
+  "d": "Edward Steichen's MoMA mega-exhibition of 503 photographs from 68 countries argued for a universal human family, becoming the most-seen photography show ever, while later critics attacked its Cold War humanism as naive.",
+  "w": [
+   "The Family of Man exhibition prints — curated by Steichen, 1955",
+   "Nursing mothers sequence — various photographers, 1955 exhibition",
+   "The Family of Man (catalogue book) — 1955"
+  ],
+  "src": "https://www.moma.org/calendar/exhibitions/2429"
+ },
+ {
+  "id": "street-photography-ny-school",
+  "name": "Street Photography (New York School)",
+  "medium": "photography",
+  "region": "United States",
+  "lat": 40.71,
+  "lon": -74.01,
+  "s": 1955,
+  "p": 1966,
+  "e": 1980,
+  "i": 4,
+  "d": "Winogrand, Friedlander, and Arbus roamed the city with handheld 35mm cameras, capturing candid, off-kilter, often unflattering slices of American public life.",
+  "w": [
+   "The Animals — Garry Winogrand, 1969",
+   "New York City — Lee Friedlander, 1963",
+   "Identical Twins, Roselle, New Jersey — Diane Arbus, 1967"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Garry_Winogrand"
+ },
+ {
+  "id": "new-topographics",
+  "name": "New Topographics",
+  "medium": "photography",
+  "region": "United States",
+  "lat": 43.16,
+  "lon": -77.61,
+  "s": 1974,
+  "p": 1975,
+  "e": 1981,
+  "i": 3,
+  "d": "A landmark 1975 Rochester exhibition presented deadpan, large-format photographs of parking lots, tract housing, and industrial sprawl, redefining landscape photography around the 'man-altered' environment.",
+  "w": [
+   "New Topographics exhibition prints — group show, 1975",
+   "The New West — Robert Adams, 1974",
+   "Uncommon Places — Stephen Shore, begun 1973"
+  ],
+  "src": "https://en.wikipedia.org/wiki/New_Topographics_(exhibition)"
+ },
+ {
+  "id": "dusseldorf-school",
+  "name": "Düsseldorf School of Photography",
+  "medium": "photography",
+  "region": "Germany",
+  "lat": 51.23,
+  "lon": 6.77,
+  "s": 1976,
+  "p": 1990,
+  "e": 2010,
+  "i": 3,
+  "d": "Bernd and Hilla Becher's typological, deadpan grids of industrial structures trained a generation at the Düsseldorf academy who scaled photography up to painting-sized, hyper-detailed grandeur.",
+  "w": [
+   "Water Towers — Bernd and Hilla Becher, 1972-2009",
+   "Rhein II — Andreas Gursky, 1999",
+   "Untitled (libraries) — Candida Höfer, 1990s"
+  ],
+  "src": "https://en.wikipedia.org/wiki/D%C3%BCsseldorf_school_of_photography"
+ },
+ {
+  "id": "color-photography-eggleston",
+  "name": "Color Photography's Fine-Art Acceptance",
+  "medium": "photography",
+  "region": "United States",
+  "lat": 35.15,
+  "lon": -90.05,
+  "s": 1965,
+  "p": 1976,
+  "e": 1985,
+  "i": 3,
+  "d": "William Eggleston's dye-transfer prints of Memphis gas stations and dinner tables, shown at MoMA in 1976, ended decades of art-world snobbery that had confined color to advertising and snapshots.",
+  "w": [
+   "William Eggleston's Guide — 1976",
+   "The Red Ceiling — Eggleston, 1973",
+   "Untitled (Tricycle) — Eggleston, 1970"
+  ],
+  "src": "https://www.moma.org/calendar/exhibitions/2079"
+ },
+ {
+  "id": "fashion-photography",
+  "name": "Fashion Photography",
+  "medium": "photography",
+  "region": "International",
+  "lat": 48.86,
+  "lon": 2.35,
+  "s": 1930,
+  "p": 1965,
+  "e": 2026,
+  "i": 3,
+  "d": "From Horst's glamorous studio lighting to Avedon's stark white backdrops and kinetic models, fashion photography became a major art form in its own right, shaping and reflecting each decade's ideal image.",
+  "w": [
+   "Mainbocher Corset — Horst P. Horst, 1939",
+   "Dovima with Elephants — Richard Avedon, 1955",
+   "Woman in Moroccan Palace — Irving Penn, 1951"
+  ],
+  "src": "https://www.theartstory.org/movement/fashion-photography/"
+ },
+ {
+  "id": "conceptual-photography-pictures-generation",
+  "name": "Conceptual Photography (Pictures Generation)",
+  "medium": "photography",
+  "region": "United States",
+  "lat": 40.71,
+  "lon": -74.01,
+  "s": 1977,
+  "p": 1980,
+  "e": 1985,
+  "i": 3,
+  "d": "A cohort raised on television and advertising staged, restaged, and appropriated media imagery to question identity and authorship, launched by Douglas Crimp's 1977 'Pictures' exhibition.",
+  "w": [
+   "Untitled Film Stills — Cindy Sherman, 1977-80",
+   "Untitled (We Won't Play Nature to Your Culture) — Barbara Kruger, 1983",
+   "Untitled (Cowboy) — Richard Prince, 1980-89"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Untitled_Film_Stills"
+ },
+ {
+  "id": "digital-photography-transition",
+  "name": "Digital Photography Transition",
+  "medium": "photography",
+  "region": "Global",
+  "lat": 43.16,
+  "lon": -77.61,
+  "s": 1991,
+  "p": 2003,
+  "e": 2010,
+  "i": 4,
+  "d": "Digital sensors replaced film across professional and consumer photography within a decade and a half, upending darkroom craft, newspaper workflows, and photographic archives worldwide.",
+  "w": [
+   "Kodak DCS 100 camera — 1991",
+   "Consumer digital camera boom — various manufacturers, 1995-2005",
+   "Digital photojournalism transition — major wire services, early 2000s"
+  ],
+  "src": "https://fstoppers.com/historical/birth-digital-camera-film-filmless-revolution-699530"
+ },
+ {
+  "id": "smartphone-social-image-era",
+  "name": "Smartphone / Social Image Era",
+  "medium": "photography",
+  "region": "Global",
+  "lat": 37.77,
+  "lon": -122.42,
+  "s": 2007,
+  "p": 2015,
+  "e": 2026,
+  "i": 5,
+  "d": "The iPhone camera and apps like Instagram made everyone a photographer and publisher simultaneously, collapsing the distance between taking a picture and broadcasting it to the world instantly.",
+  "w": [
+   "Instagram launch — 2010",
+   "iPhone camera — Apple, 2007 onward",
+   "Stephen Shore's Instagram feed (MoMA-recognized) — from 2014"
+  ],
+  "src": "https://techcrunch.com/2017/11/20/photographer-stephen-shore-brings-instagram-to-the-moma"
+ },
+ {
+  "id": "art-deco",
+  "name": "Art Deco",
+  "medium": "objects",
+  "region": "France (global spread)",
+  "lat": 48.86,
+  "lon": 2.35,
+  "s": 1910,
+  "p": 1925,
+  "e": 1939,
+  "i": 5,
+  "d": "Sleek geometric ornament, exotic materials, and streamlined luxury defined interwar design from Paris jewelry to New York skyscrapers, crystallized by the 1925 Exposition des Arts Décoratifs.",
+  "w": [
+   "Chrysler Building — William Van Alen, 1930",
+   "Exposition Internationale des Arts Décoratifs objects — Paris, 1925",
+   "Cassandre travel posters — A.M. Cassandre, 1920s-30s"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Art_Deco_in_Paris"
+ },
+ {
+  "id": "bauhaus-design",
+  "name": "Bauhaus Design",
+  "medium": "objects",
+  "region": "Germany",
+  "lat": 51.83,
+  "lon": 12.24,
+  "s": 1919,
+  "p": 1926,
+  "e": 1933,
+  "i": 5,
+  "d": "Gropius's school fused fine art, craft, and industry into functionalist tubular-steel furniture, geometric typography, and modular housing — closed by the Nazis but scattered its faculty worldwide.",
+  "w": [
+   "Wassily Chair — Marcel Breuer, 1925",
+   "Bauhaus Building, Dessau — Walter Gropius, 1926",
+   "Nesting tables — Josef Albers, 1926-27"
+  ],
+  "src": "https://www.metmuseum.org/essays/the-bauhaus-1919-1933"
+ },
+ {
+  "id": "streamline-moderne",
+  "name": "Streamline Moderne",
+  "medium": "objects",
+  "region": "United States",
+  "lat": 40.71,
+  "lon": -74.01,
+  "s": 1930,
+  "p": 1937,
+  "e": 1945,
+  "i": 3,
+  "d": "Industrial designers borrowed aerodynamic teardrop curves from airplanes and locomotives to reshape toasters, radios, and diners for a Depression-era public hungry for the future.",
+  "w": [
+   "Coldspot Super Six refrigerator — Raymond Loewy, 1935",
+   "Twentieth Century Limited locomotive — Henry Dreyfuss, 1938",
+   "Normandie ocean liner interiors — 1935"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Streamline_Moderne"
+ },
+ {
+  "id": "scandinavian-modern",
+  "name": "Scandinavian Modern",
+  "medium": "objects",
+  "region": "Scandinavia",
+  "lat": 55.68,
+  "lon": 12.57,
+  "s": 1930,
+  "p": 1955,
+  "e": 1970,
+  "i": 4,
+  "d": "Danish, Swedish, and Finnish designers married functionalist restraint with warm woods and human-centered ergonomics, exported worldwide by the touring 'Design in Scandinavia' show.",
+  "w": [
+   "Wishbone Chair — Hans Wegner, 1949",
+   "Egg Chair — Arne Jacobsen, 1958",
+   "Savoy Vase — Alvar Aalto, 1936"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Scandinavian_design"
+ },
+ {
+  "id": "mid-century-modern",
+  "name": "Mid-Century Modern",
+  "medium": "objects",
+  "region": "United States",
+  "lat": 34.05,
+  "lon": -118.24,
+  "s": 1945,
+  "p": 1958,
+  "e": 1965,
+  "i": 4,
+  "d": "Postwar optimism and new materials like molded plywood and fiberglass produced organic, mass-producible furniture for the booming suburban home, epitomized by California's Case Study Houses.",
+  "w": [
+   "Eames Lounge Chair — Charles and Ray Eames, 1956",
+   "Tulip Chair — Eero Saarinen, 1956",
+   "Case Study House No. 8 — Eames, 1949"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Mid-century_modern"
+ },
+ {
+  "id": "memphis-radical-design",
+  "name": "Memphis Group / Italian Radical Design",
+  "medium": "objects",
+  "region": "Italy",
+  "lat": 45.46,
+  "lon": 9.19,
+  "s": 1980,
+  "p": 1981,
+  "e": 1987,
+  "i": 3,
+  "d": "Ettore Sottsass's collective smashed modernist 'good taste' with clashing patterns, plastic laminate, and deliberately garish, cartoonish furniture — postmodernism's design manifesto.",
+  "w": [
+   "Carlton Room Divider — Ettore Sottsass, 1981",
+   "Bel Air Chair — Peter Shire, 1982",
+   "Tahiti Lamp — Ettore Sottsass, 1981"
+  ],
+  "src": "https://hartdesignselection.com/en/memphis-group-1981-1987-when-ettore-sottsass-dynamited-the-codes-of-modern-design/"
+ },
+ {
+  "id": "studio-glass-movement",
+  "name": "Studio Glass Movement",
+  "medium": "objects",
+  "region": "United States",
+  "lat": 41.65,
+  "lon": -83.54,
+  "s": 1962,
+  "p": 1975,
+  "e": 1990,
+  "i": 3,
+  "d": "Harvey Littleton's small-scale furnace workshops at the Toledo Museum let individual artists blow glass outside factory settings for the first time, birthing glass as a studio fine-art medium.",
+  "w": [
+   "Toledo Workshops glass — Littleton/Labino, 1962",
+   "Macchia series — Dale Chihuly, 1980s",
+   "Seaform series — Dale Chihuly, 1980"
+  ],
+  "src": "https://unframed.lacma.org/2012/09/04/breaking-the-glass-ceiling-the-studio-glass-movement-1962-2012"
+ },
+ {
+  "id": "british-studio-pottery",
+  "name": "British Studio Pottery",
+  "medium": "objects",
+  "region": "United Kingdom",
+  "lat": 50.21,
+  "lon": -5.48,
+  "s": 1920,
+  "p": 1940,
+  "e": 1979,
+  "i": 3,
+  "d": "Bernard Leach's St Ives pottery, built with Japanese potter Hamada Shoji, fused East Asian glazing and form with English folk tradition, codified in his influential 1940 'A Potter's Book.'",
+  "w": [
+   "Leaping Salmon vase — Bernard Leach, c. 1930s",
+   "Standard ware — Leach Pottery, ongoing production",
+   "A Potter's Book — Bernard Leach, 1940"
+  ],
+  "src": "https://www.invaluable.com/blog/bernard-leach-father-of-british-studio-pottery/"
+ },
+ {
+  "id": "american-studio-ceramics",
+  "name": "American Studio Ceramics",
+  "medium": "objects",
+  "region": "United States",
+  "lat": 34.05,
+  "lon": -118.24,
+  "s": 1954,
+  "p": 1960,
+  "e": 1975,
+  "i": 3,
+  "d": "Peter Voulkos at LA's Otis Art Institute smashed, gouged, and stacked clay with Abstract Expressionist bravado, arguing ceramics could be sculpture rather than craft.",
+  "w": [
+   "Rocking Pot — Peter Voulkos, 1956",
+   "Gallas Rock — Peter Voulkos, 1959-60",
+   "Untitled stacked forms — Voulkos, 1960s"
+  ],
+  "src": "https://americanart.si.edu/artist/peter-voulkos-5183"
+ },
+ {
+  "id": "japanese-mingei",
+  "name": "Japanese Mingei (Folk Craft) Movement",
+  "medium": "objects",
+  "region": "Japan",
+  "lat": 35.68,
+  "lon": 139.65,
+  "s": 1926,
+  "p": 1936,
+  "e": 1961,
+  "i": 3,
+  "d": "Philosopher Yanagi Sōetsu championed anonymous everyday folk crafts — pottery, textiles, baskets — as holding a truer beauty than elite fine art, founding the Japan Folk Crafts Museum in 1936.",
+  "w": [
+   "Japan Folk Crafts Museum collection — founded 1936",
+   "Slip-glazed bowls — Kawai Kanjirō, 1930s-50s",
+   "The Unknown Craftsman (book) — Yanagi Sōetsu, 1972 (posthumous compilation)"
+  ],
+  "src": "https://mingeikan.or.jp/about/history/?lang=en"
+ },
+ {
+  "id": "contemporary-craft-revival",
+  "name": "Contemporary Craft Revival",
+  "medium": "objects",
+  "region": "Global",
+  "lat": 51.51,
+  "lon": -0.13,
+  "s": 1995,
+  "p": 2015,
+  "e": 2026,
+  "i": 2,
+  "d": "A 21st-century resurgence of hand-making — studio furniture, artisanal ceramics, textile art — pushed back against mass production, fueled by maker culture, craft fairs, and social media visibility.",
+  "w": [
+   "Loewe Craft Prize submissions — various, from 2016",
+   "Studio furniture — various contemporary makers, 2000s-2020s",
+   "Contemporary ceramics market growth — global craft fairs, 2010s"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Craft"
+ },
+ {
+  "id": "industrial-product-design-icons",
+  "name": "Industrial/Product Design Icons",
+  "medium": "objects",
+  "region": "Germany/Global",
+  "lat": 50.11,
+  "lon": 8.68,
+  "s": 1950,
+  "p": 1970,
+  "e": 2010,
+  "i": 4,
+  "d": "Dieter Rams's 'ten principles of good design' at Braun distilled function into minimalist white and grey consumer electronics, a philosophy later echoed directly in Apple's global product design.",
+  "w": [
+   "SK 4 Phonosuper — Dieter Rams/Hans Gugelot, 1956",
+   "T3 Pocket Radio — Dieter Rams, 1958",
+   "iPhone — Apple/Jony Ive, 2007 (Rams-influenced lineage)"
+  ],
+  "src": "https://en.wikipedia.org/wiki/Dieter_Rams"
+ }
+]

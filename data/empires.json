@@ -1,0 +1,2567 @@
+[
+ {
+  "id": "old-kingdom-egypt",
+  "name": "Old Kingdom Egypt",
+  "start": -2686,
+  "end": -2181,
+  "color": "#bc9200",
+  "phases": [
+   {
+    "year": -2686,
+    "iso": [
+     "EGY"
+    ]
+   },
+   {
+    "year": -2400,
+    "iso": [
+     "EGY",
+     "SDN"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "new-kingdom-egypt",
+  "name": "New Kingdom Egypt",
+  "start": -1550,
+  "end": -1070,
+  "color": "#bb9200",
+  "phases": [
+   {
+    "year": -1550,
+    "iso": [
+     "EGY"
+    ]
+   },
+   {
+    "year": -1450,
+    "iso": [
+     "EGY",
+     "SDN",
+     "ISR",
+     "PSE",
+     "LBN",
+     "SYR",
+     "JOR"
+    ]
+   },
+   {
+    "year": -1200,
+    "iso": [
+     "EGY",
+     "SDN",
+     "ISR",
+     "PSE",
+     "LBN"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "akkadian-empire",
+  "name": "Akkadian Empire",
+  "start": -2334,
+  "end": -2154,
+  "color": "#83a81f",
+  "phases": [
+   {
+    "year": -2334,
+    "iso": [
+     "IRQ"
+    ]
+   },
+   {
+    "year": -2250,
+    "iso": [
+     "IRQ",
+     "SYR",
+     "IRN"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "old-babylonian-empire",
+  "name": "Old Babylonian Empire",
+  "start": -1894,
+  "end": -1595,
+  "color": "#ab7dea",
+  "phases": [
+   {
+    "year": -1894,
+    "iso": [
+     "IRQ"
+    ]
+   },
+   {
+    "year": -1750,
+    "iso": [
+     "IRQ",
+     "SYR"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "neo-babylonian-empire",
+  "name": "Neo-Babylonian Empire",
+  "start": -626,
+  "end": -539,
+  "color": "#ad7ce8",
+  "phases": [
+   {
+    "year": -626,
+    "iso": [
+     "IRQ"
+    ]
+   },
+   {
+    "year": -580,
+    "iso": [
+     "IRQ",
+     "SYR",
+     "LBN",
+     "ISR",
+     "PSE",
+     "JOR"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "neo-assyrian-empire",
+  "name": "Neo-Assyrian Empire",
+  "start": -911,
+  "end": -609,
+  "color": "#ca8a11",
+  "phases": [
+   {
+    "year": -911,
+    "iso": [
+     "IRQ"
+    ]
+   },
+   {
+    "year": -700,
+    "iso": [
+     "IRQ",
+     "SYR",
+     "LBN",
+     "ISR",
+     "PSE",
+     "JOR",
+     "TUR",
+     "IRN"
+    ]
+   },
+   {
+    "year": -650,
+    "iso": [
+     "IRQ",
+     "SYR",
+     "LBN",
+     "ISR",
+     "PSE",
+     "JOR",
+     "TUR",
+     "IRN",
+     "EGY"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "hittite-empire",
+  "name": "Hittite Empire",
+  "start": -1600,
+  "end": -1178,
+  "color": "#78ab2f",
+  "phases": [
+   {
+    "year": -1600,
+    "iso": [
+     "TUR"
+    ]
+   },
+   {
+    "year": -1300,
+    "iso": [
+     "TUR",
+     "SYR"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "achaemenid-persia",
+  "name": "Achaemenid Persian Empire",
+  "start": -550,
+  "end": -330,
+  "color": "#c08f00",
+  "phases": [
+   {
+    "year": -550,
+    "iso": [
+     "IRN"
+    ]
+   },
+   {
+    "year": -500,
+    "iso": [
+     "IRN",
+     "IRQ",
+     "TUR",
+     "SYR",
+     "LBN",
+     "ISR",
+     "PSE",
+     "JOR",
+     "EGY",
+     "ARM",
+     "GEO",
+     "AZE",
+     "AFG",
+     "PAK",
+     "UZB",
+     "TKM",
+     "TJK",
+     "BGR"
+    ]
+   },
+   {
+    "year": -400,
+    "iso": [
+     "IRN",
+     "IRQ",
+     "TUR",
+     "SYR",
+     "LBN",
+     "ISR",
+     "PSE",
+     "JOR",
+     "ARM",
+     "GEO",
+     "AZE",
+     "AFG",
+     "PAK",
+     "UZB",
+     "TKM",
+     "TJK"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "macedonian-empire",
+  "name": "Macedonian Empire (Alexander)",
+  "start": -336,
+  "end": -323,
+  "color": "#7fa925",
+  "phases": [
+   {
+    "year": -336,
+    "iso": [
+     "GRC",
+     "MKD",
+     "ALB"
+    ]
+   },
+   {
+    "year": -330,
+    "iso": [
+     "GRC",
+     "MKD",
+     "ALB",
+     "TUR",
+     "SYR",
+     "LBN",
+     "ISR",
+     "PSE",
+     "JOR",
+     "EGY",
+     "IRQ",
+     "IRN"
+    ]
+   },
+   {
+    "year": -323,
+    "iso": [
+     "GRC",
+     "MKD",
+     "ALB",
+     "TUR",
+     "SYR",
+     "LBN",
+     "ISR",
+     "PSE",
+     "JOR",
+     "EGY",
+     "IRQ",
+     "IRN",
+     "AFG",
+     "PAK",
+     "UZB",
+     "TKM",
+     "TJK"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "seleucid-empire",
+  "name": "Seleucid Empire",
+  "start": -312,
+  "end": -63,
+  "color": "#09b28a",
+  "phases": [
+   {
+    "year": -301,
+    "iso": [
+     "SYR",
+     "TUR",
+     "IRQ",
+     "IRN",
+     "AFG",
+     "LBN",
+     "ISR",
+     "PSE",
+     "JOR",
+     "UZB",
+     "TKM",
+     "TJK"
+    ]
+   },
+   {
+    "year": -200,
+    "iso": [
+     "SYR",
+     "TUR",
+     "IRQ",
+     "IRN",
+     "LBN",
+     "ISR",
+     "PSE",
+     "JOR"
+    ]
+   },
+   {
+    "year": -100,
+    "iso": [
+     "SYR",
+     "LBN"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ptolemaic-egypt",
+  "name": "Ptolemaic Egypt",
+  "start": -305,
+  "end": -30,
+  "color": "#87a716",
+  "phases": [
+   {
+    "year": -305,
+    "iso": [
+     "EGY",
+     "LBY",
+     "CYP"
+    ]
+   },
+   {
+    "year": -250,
+    "iso": [
+     "EGY",
+     "LBY",
+     "CYP",
+     "ISR",
+     "PSE",
+     "LBN"
+    ]
+   },
+   {
+    "year": -100,
+    "iso": [
+     "EGY",
+     "CYP"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "maurya-empire",
+  "name": "Maurya Empire",
+  "start": -322,
+  "end": -185,
+  "color": "#11abbe",
+  "phases": [
+   {
+    "year": -322,
+    "iso": [
+     "IND"
+    ]
+   },
+   {
+    "year": -268,
+    "iso": [
+     "IND",
+     "PAK",
+     "BGD",
+     "NPL",
+     "AFG"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "gupta-empire",
+  "name": "Gupta Empire",
+  "start": 320,
+  "end": 550,
+  "color": "#d56dba",
+  "phases": [
+   {
+    "year": 320,
+    "iso": [
+     "IND"
+    ]
+   },
+   {
+    "year": 400,
+    "iso": [
+     "IND",
+     "PAK",
+     "BGD",
+     "NPL"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "qin-dynasty",
+  "name": "Qin Dynasty",
+  "start": -221,
+  "end": -206,
+  "color": "#ca8a10",
+  "phases": [
+   {
+    "year": -221,
+    "iso": [
+     "CHN"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "han-dynasty",
+  "name": "Han Dynasty",
+  "start": -206,
+  "end": 220,
+  "color": "#cd8800",
+  "phases": [
+   {
+    "year": -206,
+    "iso": [
+     "CHN"
+    ]
+   },
+   {
+    "year": -100,
+    "iso": [
+     "CHN",
+     "PRK",
+     "MNG"
+    ]
+   },
+   {
+    "year": 100,
+    "iso": [
+     "CHN",
+     "PRK",
+     "VNM"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "tang-dynasty",
+  "name": "Tang Dynasty",
+  "start": 618,
+  "end": 907,
+  "color": "#18b28d",
+  "phases": [
+   {
+    "year": 618,
+    "iso": [
+     "CHN"
+    ]
+   },
+   {
+    "year": 700,
+    "iso": [
+     "CHN",
+     "MNG",
+     "VNM"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "song-dynasty",
+  "name": "Song Dynasty",
+  "start": 960,
+  "end": 1279,
+  "color": "#05b385",
+  "phases": [
+   {
+    "year": 960,
+    "iso": [
+     "CHN"
+    ]
+   },
+   {
+    "year": 1150,
+    "iso": [
+     "CHN"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "yuan-dynasty",
+  "name": "Yuan Dynasty",
+  "start": 1271,
+  "end": 1368,
+  "color": "#00b28b",
+  "phases": [
+   {
+    "year": 1271,
+    "iso": [
+     "CHN",
+     "MNG"
+    ]
+   },
+   {
+    "year": 1300,
+    "iso": [
+     "CHN",
+     "MNG",
+     "KOR",
+     "PRK"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ming-dynasty",
+  "name": "Ming Dynasty",
+  "start": 1368,
+  "end": 1644,
+  "color": "#16b28d",
+  "phases": [
+   {
+    "year": 1368,
+    "iso": [
+     "CHN"
+    ]
+   },
+   {
+    "year": 1420,
+    "iso": [
+     "CHN",
+     "MNG"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "qing-dynasty",
+  "name": "Qing Dynasty",
+  "start": 1644,
+  "end": 1912,
+  "color": "#0eb289",
+  "phases": [
+   {
+    "year": 1644,
+    "iso": [
+     "CHN"
+    ]
+   },
+   {
+    "year": 1760,
+    "iso": [
+     "CHN",
+     "MNG",
+     "TWN"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "roman-republic",
+  "name": "Roman Republic",
+  "start": -509,
+  "end": -27,
+  "color": "#7091fa",
+  "phases": [
+   {
+    "year": -509,
+    "iso": [
+     "ITA"
+    ]
+   },
+   {
+    "year": -200,
+    "iso": [
+     "ITA",
+     "ESP",
+     "TUN"
+    ]
+   },
+   {
+    "year": -50,
+    "iso": [
+     "ITA",
+     "ESP",
+     "PRT",
+     "FRA",
+     "GRC",
+     "TUR",
+     "TUN",
+     "DZA",
+     "LBY"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "roman-empire",
+  "name": "Roman Empire",
+  "start": -27,
+  "end": 476,
+  "color": "#9f9f0f",
+  "phases": [
+   {
+    "year": -27,
+    "iso": [
+     "ITA",
+     "ESP",
+     "PRT",
+     "FRA",
+     "GRC",
+     "TUR",
+     "TUN",
+     "DZA",
+     "LBY",
+     "CHE",
+     "AUT"
+    ]
+   },
+   {
+    "year": 117,
+    "iso": [
+     "ITA",
+     "ESP",
+     "PRT",
+     "FRA",
+     "GBR",
+     "BEL",
+     "NLD",
+     "CHE",
+     "AUT",
+     "GRC",
+     "TUR",
+     "SYR",
+     "LBN",
+     "ISR",
+     "PSE",
+     "JOR",
+     "EGY",
+     "LBY",
+     "TUN",
+     "DZA",
+     "ROU",
+     "BGR",
+     "SRB",
+     "HRV",
+     "BIH",
+     "ALB",
+     "MKD",
+     "HUN",
+     "IRQ"
+    ]
+   },
+   {
+    "year": 300,
+    "iso": [
+     "ITA",
+     "ESP",
+     "PRT",
+     "FRA",
+     "GBR",
+     "BEL",
+     "NLD",
+     "CHE",
+     "AUT",
+     "GRC",
+     "TUR",
+     "SYR",
+     "LBN",
+     "ISR",
+     "PSE",
+     "JOR",
+     "EGY",
+     "LBY",
+     "TUN",
+     "DZA",
+     "ROU",
+     "BGR",
+     "SRB",
+     "HRV",
+     "BIH",
+     "ALB",
+     "MKD",
+     "HUN"
+    ]
+   },
+   {
+    "year": 450,
+    "iso": [
+     "ITA",
+     "GRC",
+     "TUR",
+     "SYR",
+     "LBN",
+     "ISR",
+     "PSE",
+     "JOR",
+     "EGY"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "byzantine-empire",
+  "name": "Byzantine Empire",
+  "start": 330,
+  "end": 1453,
+  "color": "#ae7ce7",
+  "phases": [
+   {
+    "year": 330,
+    "iso": [
+     "TUR",
+     "GRC",
+     "BGR",
+     "SYR",
+     "LBN",
+     "ISR",
+     "PSE",
+     "JOR",
+     "EGY",
+     "LBY"
+    ]
+   },
+   {
+    "year": 555,
+    "iso": [
+     "TUR",
+     "GRC",
+     "BGR",
+     "SYR",
+     "LBN",
+     "ISR",
+     "PSE",
+     "JOR",
+     "EGY",
+     "LBY",
+     "ITA",
+     "TUN",
+     "ESP"
+    ]
+   },
+   {
+    "year": 1025,
+    "iso": [
+     "TUR",
+     "GRC",
+     "BGR",
+     "SRB",
+     "MKD",
+     "ALB",
+     "ARM"
+    ]
+   },
+   {
+    "year": 1350,
+    "iso": [
+     "TUR",
+     "GRC"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "sasanian-empire",
+  "name": "Sasanian Empire",
+  "start": 224,
+  "end": 651,
+  "color": "#1fb46b",
+  "phases": [
+   {
+    "year": 224,
+    "iso": [
+     "IRN",
+     "IRQ"
+    ]
+   },
+   {
+    "year": 550,
+    "iso": [
+     "IRN",
+     "IRQ",
+     "ARM",
+     "GEO",
+     "AZE",
+     "AFG",
+     "PAK"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "rashidun-caliphate",
+  "name": "Rashidun Caliphate",
+  "start": 632,
+  "end": 661,
+  "color": "#9ba003",
+  "phases": [
+   {
+    "year": 632,
+    "iso": [
+     "SAU"
+    ]
+   },
+   {
+    "year": 655,
+    "iso": [
+     "SAU",
+     "IRQ",
+     "SYR",
+     "LBN",
+     "ISR",
+     "PSE",
+     "JOR",
+     "EGY",
+     "LBY",
+     "IRN"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "umayyad-caliphate",
+  "name": "Umayyad Caliphate",
+  "start": 661,
+  "end": 750,
+  "color": "#cb71cb",
+  "phases": [
+   {
+    "year": 661,
+    "iso": [
+     "SAU",
+     "IRQ",
+     "SYR",
+     "LBN",
+     "ISR",
+     "PSE",
+     "JOR",
+     "EGY",
+     "IRN"
+    ]
+   },
+   {
+    "year": 720,
+    "iso": [
+     "SAU",
+     "IRQ",
+     "SYR",
+     "LBN",
+     "ISR",
+     "PSE",
+     "JOR",
+     "EGY",
+     "LBY",
+     "TUN",
+     "DZA",
+     "MAR",
+     "ESP",
+     "PRT",
+     "IRN",
+     "AFG",
+     "PAK",
+     "UZB",
+     "TKM",
+     "TJK"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "abbasid-caliphate",
+  "name": "Abbasid Caliphate",
+  "start": 750,
+  "end": 1258,
+  "color": "#cc71ca",
+  "phases": [
+   {
+    "year": 750,
+    "iso": [
+     "SAU",
+     "IRQ",
+     "SYR",
+     "LBN",
+     "ISR",
+     "PSE",
+     "JOR",
+     "EGY",
+     "IRN",
+     "AFG",
+     "TUN",
+     "DZA",
+     "UZB",
+     "TKM",
+     "TJK"
+    ]
+   },
+   {
+    "year": 900,
+    "iso": [
+     "SAU",
+     "IRQ",
+     "SYR",
+     "LBN",
+     "ISR",
+     "PSE",
+     "JOR",
+     "IRN"
+    ]
+   },
+   {
+    "year": 1200,
+    "iso": [
+     "IRQ"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "fatimid-caliphate",
+  "name": "Fatimid Caliphate",
+  "start": 909,
+  "end": 1171,
+  "color": "#d86cb5",
+  "phases": [
+   {
+    "year": 909,
+    "iso": [
+     "TUN",
+     "DZA"
+    ]
+   },
+   {
+    "year": 969,
+    "iso": [
+     "EGY",
+     "LBY",
+     "TUN",
+     "ISR",
+     "PSE",
+     "LBN",
+     "SYR",
+     "SAU"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "carolingian-empire",
+  "name": "Carolingian Empire",
+  "start": 800,
+  "end": 887,
+  "color": "#9585f4",
+  "phases": [
+   {
+    "year": 800,
+    "iso": [
+     "FRA",
+     "DEU",
+     "BEL",
+     "NLD",
+     "CHE",
+     "AUT",
+     "ITA"
+    ]
+   },
+   {
+    "year": 843,
+    "iso": [
+     "FRA",
+     "DEU",
+     "BEL",
+     "NLD",
+     "CHE"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "holy-roman-empire",
+  "name": "Holy Roman Empire",
+  "start": 962,
+  "end": 1806,
+  "color": "#419cf7",
+  "phases": [
+   {
+    "year": 962,
+    "iso": [
+     "DEU",
+     "AUT",
+     "CHE",
+     "ITA"
+    ]
+   },
+   {
+    "year": 1200,
+    "iso": [
+     "DEU",
+     "AUT",
+     "CHE",
+     "ITA",
+     "CZE",
+     "POL",
+     "NLD",
+     "BEL"
+    ]
+   },
+   {
+    "year": 1600,
+    "iso": [
+     "DEU",
+     "AUT",
+     "CHE",
+     "CZE"
+    ]
+   },
+   {
+    "year": 1750,
+    "iso": [
+     "DEU",
+     "AUT",
+     "CZE"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "kievan-rus",
+  "name": "Kievan Rus",
+  "start": 882,
+  "end": 1240,
+  "color": "#ea6a6a",
+  "phases": [
+   {
+    "year": 882,
+    "iso": [
+     "UKR"
+    ]
+   },
+   {
+    "year": 1000,
+    "iso": [
+     "UKR",
+     "BLR",
+     "RUS"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "mongol-empire",
+  "name": "Mongol Empire",
+  "start": 1206,
+  "end": 1294,
+  "color": "#bd9100",
+  "phases": [
+   {
+    "year": 1206,
+    "iso": [
+     "MNG"
+    ]
+   },
+   {
+    "year": 1250,
+    "iso": [
+     "MNG",
+     "CHN",
+     "RUS",
+     "KAZ",
+     "UZB",
+     "TKM",
+     "TJK",
+     "KGZ",
+     "IRN",
+     "IRQ",
+     "AFG",
+     "GEO",
+     "ARM",
+     "AZE",
+     "UKR"
+    ]
+   },
+   {
+    "year": 1279,
+    "iso": [
+     "MNG",
+     "CHN",
+     "RUS",
+     "KAZ",
+     "UZB",
+     "TKM",
+     "TJK",
+     "KGZ",
+     "IRN",
+     "IRQ",
+     "AFG",
+     "GEO",
+     "ARM",
+     "AZE",
+     "UKR",
+     "PAK",
+     "KOR",
+     "PRK",
+     "MMR"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "golden-horde",
+  "name": "Golden Horde",
+  "start": 1242,
+  "end": 1502,
+  "color": "#3cb35f",
+  "phases": [
+   {
+    "year": 1242,
+    "iso": [
+     "RUS",
+     "UKR",
+     "KAZ"
+    ]
+   },
+   {
+    "year": 1350,
+    "iso": [
+     "RUS",
+     "UKR",
+     "KAZ",
+     "BLR"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "timurid-empire",
+  "name": "Timurid Empire",
+  "start": 1370,
+  "end": 1507,
+  "color": "#b39700",
+  "phases": [
+   {
+    "year": 1370,
+    "iso": [
+     "UZB"
+    ]
+   },
+   {
+    "year": 1405,
+    "iso": [
+     "UZB",
+     "TKM",
+     "TJK",
+     "AFG",
+     "IRN",
+     "IRQ",
+     "PAK"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "delhi-sultanate",
+  "name": "Delhi Sultanate",
+  "start": 1206,
+  "end": 1526,
+  "color": "#19b09a",
+  "phases": [
+   {
+    "year": 1206,
+    "iso": [
+     "IND"
+    ]
+   },
+   {
+    "year": 1320,
+    "iso": [
+     "IND",
+     "PAK",
+     "BGD"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "mughal-empire",
+  "name": "Mughal Empire",
+  "start": 1526,
+  "end": 1857,
+  "color": "#06adb6",
+  "phases": [
+   {
+    "year": 1526,
+    "iso": [
+     "IND",
+     "PAK"
+    ]
+   },
+   {
+    "year": 1700,
+    "iso": [
+     "IND",
+     "PAK",
+     "BGD",
+     "AFG"
+    ]
+   },
+   {
+    "year": 1800,
+    "iso": [
+     "IND",
+     "BGD"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ottoman-empire",
+  "name": "Ottoman Empire",
+  "start": 1299,
+  "end": 1922,
+  "color": "#14b28e",
+  "phases": [
+   {
+    "year": 1300,
+    "iso": [
+     "TUR"
+    ]
+   },
+   {
+    "year": 1520,
+    "iso": [
+     "TUR",
+     "GRC",
+     "BGR",
+     "SRB",
+     "HRV",
+     "BIH",
+     "ALB",
+     "MKD",
+     "SYR",
+     "LBN",
+     "ISR",
+     "PSE",
+     "JOR",
+     "EGY",
+     "SAU"
+    ]
+   },
+   {
+    "year": 1683,
+    "iso": [
+     "TUR",
+     "GRC",
+     "BGR",
+     "ROU",
+     "SRB",
+     "HRV",
+     "BIH",
+     "ALB",
+     "MKD",
+     "HUN",
+     "SYR",
+     "LBN",
+     "ISR",
+     "PSE",
+     "JOR",
+     "IRQ",
+     "SAU",
+     "EGY",
+     "LBY",
+     "TUN",
+     "DZA",
+     "YEM"
+    ]
+   },
+   {
+    "year": 1850,
+    "iso": [
+     "TUR",
+     "GRC",
+     "BGR",
+     "SYR",
+     "LBN",
+     "ISR",
+     "PSE",
+     "JOR",
+     "IRQ",
+     "SAU",
+     "YEM"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "safavid-empire",
+  "name": "Safavid Empire",
+  "start": 1501,
+  "end": 1736,
+  "color": "#0cb28f",
+  "phases": [
+   {
+    "year": 1501,
+    "iso": [
+     "IRN"
+    ]
+   },
+   {
+    "year": 1600,
+    "iso": [
+     "IRN",
+     "AZE",
+     "ARM",
+     "GEO",
+     "AFG",
+     "IRQ"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "songhai-empire",
+  "name": "Songhai Empire",
+  "start": 1464,
+  "end": 1591,
+  "color": "#17aac1",
+  "phases": [
+   {
+    "year": 1464,
+    "iso": [
+     "MLI"
+    ]
+   },
+   {
+    "year": 1500,
+    "iso": [
+     "MLI",
+     "NER",
+     "GIN",
+     "SEN"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "mali-empire",
+  "name": "Mali Empire",
+  "start": 1235,
+  "end": 1600,
+  "color": "#05adb6",
+  "phases": [
+   {
+    "year": 1235,
+    "iso": [
+     "MLI"
+    ]
+   },
+   {
+    "year": 1350,
+    "iso": [
+     "MLI",
+     "SEN",
+     "GIN",
+     "GMB",
+     "MRT",
+     "BFA",
+     "NER"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ghana-empire",
+  "name": "Ghana Empire",
+  "start": 300,
+  "end": 1200,
+  "color": "#14abc0",
+  "phases": [
+   {
+    "year": 300,
+    "iso": [
+     "MRT",
+     "MLI"
+    ]
+   },
+   {
+    "year": 900,
+    "iso": [
+     "MRT",
+     "MLI",
+     "SEN"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "aksumite-empire",
+  "name": "Aksumite Empire",
+  "start": 100,
+  "end": 940,
+  "color": "#4f99f8",
+  "phases": [
+   {
+    "year": 100,
+    "iso": [
+     "ETH",
+     "ERI"
+    ]
+   },
+   {
+    "year": 350,
+    "iso": [
+     "ETH",
+     "ERI",
+     "YEM",
+     "SDN"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "kanem-bornu",
+  "name": "Kanem-Bornu Empire",
+  "start": 700,
+  "end": 1893,
+  "color": "#78ab2f",
+  "phases": [
+   {
+    "year": 700,
+    "iso": [
+     "TCD"
+    ]
+   },
+   {
+    "year": 1200,
+    "iso": [
+     "TCD",
+     "NGA",
+     "NER",
+     "LBY"
+    ]
+   },
+   {
+    "year": 1600,
+    "iso": [
+     "TCD",
+     "NGA",
+     "NER",
+     "CMR"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ethiopian-empire",
+  "name": "Ethiopian Empire (Solomonic)",
+  "start": 1270,
+  "end": 1974,
+  "color": "#0baac8",
+  "phases": [
+   {
+    "year": 1270,
+    "iso": [
+     "ETH"
+    ]
+   },
+   {
+    "year": 1550,
+    "iso": [
+     "ETH",
+     "ERI"
+    ]
+   },
+   {
+    "year": 1900,
+    "iso": [
+     "ETH",
+     "ERI"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "benin-empire",
+  "name": "Benin Empire",
+  "start": 1180,
+  "end": 1897,
+  "color": "#00b28c",
+  "phases": [
+   {
+    "year": 1180,
+    "iso": [
+     "NGA"
+    ]
+   },
+   {
+    "year": 1500,
+    "iso": [
+     "NGA"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "kongo-kingdom",
+  "name": "Kongo Kingdom",
+  "start": 1390,
+  "end": 1857,
+  "color": "#06aeb1",
+  "phases": [
+   {
+    "year": 1390,
+    "iso": [
+     "COD",
+     "AGO"
+    ]
+   },
+   {
+    "year": 1500,
+    "iso": [
+     "COD",
+     "AGO",
+     "COG"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "zulu-kingdom",
+  "name": "Zulu Kingdom",
+  "start": 1816,
+  "end": 1879,
+  "color": "#4c9af8",
+  "phases": [
+   {
+    "year": 1816,
+    "iso": [
+     "ZAF"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "aztec-empire",
+  "name": "Aztec Empire (Mexica)",
+  "start": 1428,
+  "end": 1521,
+  "color": "#19b193",
+  "phases": [
+   {
+    "year": 1428,
+    "iso": [
+     "MEX"
+    ]
+   },
+   {
+    "year": 1500,
+    "iso": [
+     "MEX"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "inca-empire",
+  "name": "Inca Empire",
+  "start": 1438,
+  "end": 1533,
+  "color": "#05adb2",
+  "phases": [
+   {
+    "year": 1438,
+    "iso": [
+     "PER"
+    ]
+   },
+   {
+    "year": 1493,
+    "iso": [
+     "PER",
+     "ECU",
+     "BOL",
+     "CHL",
+     "ARG",
+     "COL"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "maya-civilization",
+  "name": "Maya City-States",
+  "start": -750,
+  "end": 1697,
+  "color": "#ea6a65",
+  "phases": [
+   {
+    "year": -750,
+    "iso": [
+     "GTM",
+     "BLZ",
+     "MEX"
+    ]
+   },
+   {
+    "year": 250,
+    "iso": [
+     "MEX",
+     "GTM",
+     "BLZ",
+     "HND",
+     "SLV"
+    ]
+   },
+   {
+    "year": 900,
+    "iso": [
+     "MEX",
+     "GTM",
+     "BLZ"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "khmer-empire",
+  "name": "Khmer Empire",
+  "start": 802,
+  "end": 1431,
+  "color": "#e6688f",
+  "phases": [
+   {
+    "year": 802,
+    "iso": [
+     "KHM"
+    ]
+   },
+   {
+    "year": 1150,
+    "iso": [
+     "KHM",
+     "THA",
+     "LAO",
+     "VNM"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "majapahit-empire",
+  "name": "Majapahit Empire",
+  "start": 1293,
+  "end": 1527,
+  "color": "#d86cb5",
+  "phases": [
+   {
+    "year": 1293,
+    "iso": [
+     "IDN"
+    ]
+   },
+   {
+    "year": 1350,
+    "iso": [
+     "IDN",
+     "MYS",
+     "TLS",
+     "BRN"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "srivijaya-empire",
+  "name": "Srivijaya Empire",
+  "start": 650,
+  "end": 1377,
+  "color": "#d86cb5",
+  "phases": [
+   {
+    "year": 650,
+    "iso": [
+     "IDN"
+    ]
+   },
+   {
+    "year": 800,
+    "iso": [
+     "IDN",
+     "MYS"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "japan-imperial-state",
+  "name": "Japan (Yamato–Edo)",
+  "start": 300,
+  "end": 1868,
+  "color": "#cf8705",
+  "phases": [
+   {
+    "year": 300,
+    "iso": [
+     "JPN"
+    ]
+   },
+   {
+    "year": 1600,
+    "iso": [
+     "JPN"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "korean-states",
+  "name": "Korean States (Goryeo–Joseon)",
+  "start": 918,
+  "end": 1897,
+  "color": "#00b291",
+  "phases": [
+   {
+    "year": 918,
+    "iso": [
+     "PRK",
+     "KOR"
+    ]
+   },
+   {
+    "year": 1392,
+    "iso": [
+     "PRK",
+     "KOR"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "spanish-empire",
+  "name": "Spanish Empire",
+  "start": 1492,
+  "end": 1898,
+  "color": "#dc6bad",
+  "phases": [
+   {
+    "year": 1492,
+    "iso": [
+     "ESP"
+    ]
+   },
+   {
+    "year": 1550,
+    "iso": [
+     "ESP",
+     "MEX",
+     "GTM",
+     "CUB",
+     "DOM",
+     "PER",
+     "COL",
+     "PAN"
+    ]
+   },
+   {
+    "year": 1600,
+    "iso": [
+     "ESP",
+     "PRT",
+     "MEX",
+     "GTM",
+     "BLZ",
+     "HND",
+     "SLV",
+     "NIC",
+     "CRI",
+     "PAN",
+     "COL",
+     "VEN",
+     "ECU",
+     "PER",
+     "BOL",
+     "CHL",
+     "ARG",
+     "PRY",
+     "URY",
+     "CUB",
+     "DOM",
+     "PHL"
+    ]
+   },
+   {
+    "year": 1700,
+    "iso": [
+     "ESP",
+     "MEX",
+     "GTM",
+     "HND",
+     "SLV",
+     "NIC",
+     "CRI",
+     "PAN",
+     "COL",
+     "VEN",
+     "ECU",
+     "PER",
+     "BOL",
+     "CHL",
+     "ARG",
+     "PRY",
+     "URY",
+     "CUB",
+     "DOM",
+     "PHL"
+    ]
+   },
+   {
+    "year": 1830,
+    "iso": [
+     "ESP",
+     "CUB",
+     "PHL",
+     "DOM",
+     "PRI"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "portuguese-empire",
+  "name": "Portuguese Empire",
+  "start": 1415,
+  "end": 1999,
+  "color": "#ea6a6c",
+  "phases": [
+   {
+    "year": 1415,
+    "iso": [
+     "PRT"
+    ]
+   },
+   {
+    "year": 1550,
+    "iso": [
+     "PRT",
+     "BRA",
+     "AGO",
+     "MOZ",
+     "GNB"
+    ]
+   },
+   {
+    "year": 1700,
+    "iso": [
+     "PRT",
+     "BRA",
+     "AGO",
+     "MOZ",
+     "GNB",
+     "TLS"
+    ]
+   },
+   {
+    "year": 1830,
+    "iso": [
+     "PRT",
+     "AGO",
+     "MOZ",
+     "GNB",
+     "TLS"
+    ]
+   },
+   {
+    "year": 1950,
+    "iso": [
+     "PRT",
+     "AGO",
+     "MOZ",
+     "GNB",
+     "TLS"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "dutch-empire",
+  "name": "Dutch Empire",
+  "start": 1602,
+  "end": 1975,
+  "color": "#05adb4",
+  "phases": [
+   {
+    "year": 1602,
+    "iso": [
+     "NLD"
+    ]
+   },
+   {
+    "year": 1650,
+    "iso": [
+     "NLD",
+     "IDN",
+     "SUR",
+     "ZAF"
+    ]
+   },
+   {
+    "year": 1750,
+    "iso": [
+     "NLD",
+     "IDN",
+     "SUR"
+    ]
+   },
+   {
+    "year": 1850,
+    "iso": [
+     "NLD",
+     "IDN",
+     "SUR"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "british-empire",
+  "name": "British Empire",
+  "start": 1600,
+  "end": 1997,
+  "color": "#ea6a69",
+  "phases": [
+   {
+    "year": 1600,
+    "iso": [
+     "GBR",
+     "IRL"
+    ]
+   },
+   {
+    "year": 1700,
+    "iso": [
+     "GBR",
+     "IRL",
+     "USA",
+     "CAN",
+     "JAM",
+     "BHS",
+     "TTO"
+    ]
+   },
+   {
+    "year": 1790,
+    "iso": [
+     "GBR",
+     "IRL",
+     "CAN",
+     "IND",
+     "JAM",
+     "BHS",
+     "TTO",
+     "AUS"
+    ]
+   },
+   {
+    "year": 1860,
+    "iso": [
+     "GBR",
+     "IRL",
+     "CAN",
+     "AUS",
+     "NZL",
+     "IND",
+     "PAK",
+     "BGD",
+     "MMR",
+     "LKA",
+     "MYS",
+     "ZAF",
+     "GHA",
+     "NGA",
+     "SLE",
+     "GMB",
+     "JAM",
+     "TTO",
+     "BHS",
+     "GUY"
+    ]
+   },
+   {
+    "year": 1900,
+    "iso": [
+     "GBR",
+     "IRL",
+     "CAN",
+     "AUS",
+     "NZL",
+     "IND",
+     "PAK",
+     "BGD",
+     "MMR",
+     "LKA",
+     "MYS",
+     "EGY",
+     "SDN",
+     "KEN",
+     "UGA",
+     "TZA",
+     "ZAF",
+     "ZWE",
+     "ZMB",
+     "MWI",
+     "GHA",
+     "NGA",
+     "SLE",
+     "GMB",
+     "JAM",
+     "TTO",
+     "BHS",
+     "GUY"
+    ]
+   },
+   {
+    "year": 1920,
+    "iso": [
+     "GBR",
+     "CAN",
+     "AUS",
+     "NZL",
+     "IND",
+     "PAK",
+     "BGD",
+     "MMR",
+     "LKA",
+     "MYS",
+     "EGY",
+     "SDN",
+     "KEN",
+     "UGA",
+     "TZA",
+     "ZAF",
+     "ZWE",
+     "ZMB",
+     "MWI",
+     "GHA",
+     "NGA",
+     "SLE",
+     "GMB",
+     "JAM",
+     "TTO",
+     "BHS",
+     "IRQ",
+     "JOR",
+     "PSE",
+     "GUY"
+    ]
+   },
+   {
+    "year": 1950,
+    "iso": [
+     "GBR",
+     "KEN",
+     "UGA",
+     "TZA",
+     "ZWE",
+     "ZMB",
+     "MWI",
+     "GHA",
+     "NGA",
+     "SLE",
+     "GMB",
+     "MYS",
+     "JAM",
+     "TTO",
+     "GUY"
+    ]
+   },
+   {
+    "year": 1970,
+    "iso": [
+     "GBR"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "french-colonial-empire",
+  "name": "French Colonial Empire",
+  "start": 1534,
+  "end": 1962,
+  "color": "#ae7ce7",
+  "phases": [
+   {
+    "year": 1534,
+    "iso": [
+     "FRA"
+    ]
+   },
+   {
+    "year": 1700,
+    "iso": [
+     "FRA",
+     "CAN",
+     "HTI"
+    ]
+   },
+   {
+    "year": 1800,
+    "iso": [
+     "FRA"
+    ]
+   },
+   {
+    "year": 1840,
+    "iso": [
+     "FRA",
+     "DZA"
+    ]
+   },
+   {
+    "year": 1890,
+    "iso": [
+     "FRA",
+     "DZA",
+     "TUN",
+     "SEN",
+     "MLI",
+     "NER",
+     "TCD",
+     "GIN",
+     "CIV",
+     "BFA",
+     "BEN",
+     "MRT",
+     "GAB",
+     "COG",
+     "CAF",
+     "MDG",
+     "VNM",
+     "LAO",
+     "KHM"
+    ]
+   },
+   {
+    "year": 1920,
+    "iso": [
+     "FRA",
+     "DZA",
+     "TUN",
+     "MAR",
+     "SEN",
+     "MLI",
+     "NER",
+     "TCD",
+     "GIN",
+     "CIV",
+     "BFA",
+     "BEN",
+     "MRT",
+     "GAB",
+     "COG",
+     "CAF",
+     "CMR",
+     "MDG",
+     "VNM",
+     "LAO",
+     "KHM",
+     "SYR",
+     "LBN"
+    ]
+   },
+   {
+    "year": 1950,
+    "iso": [
+     "FRA",
+     "DZA",
+     "TUN",
+     "MAR",
+     "SEN",
+     "MLI",
+     "NER",
+     "TCD",
+     "GIN",
+     "CIV",
+     "BFA",
+     "BEN",
+     "MRT",
+     "GAB",
+     "COG",
+     "CAF",
+     "CMR",
+     "MDG",
+     "VNM",
+     "LAO",
+     "KHM"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "napoleonic-empire",
+  "name": "Napoleonic Empire",
+  "start": 1804,
+  "end": 1815,
+  "color": "#bf9000",
+  "phases": [
+   {
+    "year": 1804,
+    "iso": [
+     "FRA",
+     "BEL",
+     "NLD",
+     "CHE",
+     "ITA"
+    ]
+   },
+   {
+    "year": 1810,
+    "iso": [
+     "FRA",
+     "BEL",
+     "NLD",
+     "CHE",
+     "ITA",
+     "DEU",
+     "ESP",
+     "HRV"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "russian-empire",
+  "name": "Russian Empire",
+  "start": 1721,
+  "end": 1917,
+  "color": "#02b291",
+  "phases": [
+   {
+    "year": 1721,
+    "iso": [
+     "RUS",
+     "EST",
+     "LVA"
+    ]
+   },
+   {
+    "year": 1780,
+    "iso": [
+     "RUS",
+     "UKR",
+     "BLR",
+     "EST",
+     "LVA",
+     "LTU",
+     "FIN"
+    ]
+   },
+   {
+    "year": 1830,
+    "iso": [
+     "RUS",
+     "UKR",
+     "BLR",
+     "EST",
+     "LVA",
+     "LTU",
+     "POL",
+     "FIN",
+     "GEO",
+     "ARM",
+     "AZE",
+     "MDA"
+    ]
+   },
+   {
+    "year": 1890,
+    "iso": [
+     "RUS",
+     "UKR",
+     "BLR",
+     "EST",
+     "LVA",
+     "LTU",
+     "POL",
+     "FIN",
+     "GEO",
+     "ARM",
+     "AZE",
+     "KAZ",
+     "UZB",
+     "TKM",
+     "TJK",
+     "KGZ",
+     "MDA"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "austro-hungarian-empire",
+  "name": "Austro-Hungarian Empire",
+  "start": 1867,
+  "end": 1918,
+  "color": "#05adb2",
+  "phases": [
+   {
+    "year": 1867,
+    "iso": [
+     "AUT",
+     "HUN",
+     "CZE",
+     "SVK",
+     "SVN",
+     "HRV",
+     "BIH"
+    ]
+   },
+   {
+    "year": 1900,
+    "iso": [
+     "AUT",
+     "HUN",
+     "CZE",
+     "SVK",
+     "SVN",
+     "HRV",
+     "BIH"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "german-empire",
+  "name": "German Empire",
+  "start": 1871,
+  "end": 1918,
+  "color": "#ea6d56",
+  "phases": [
+   {
+    "year": 1871,
+    "iso": [
+     "DEU"
+    ]
+   },
+   {
+    "year": 1900,
+    "iso": [
+     "DEU",
+     "NAM",
+     "TZA",
+     "CMR",
+     "TGO"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "nazi-germany",
+  "name": "Nazi Germany (Third Reich)",
+  "start": 1933,
+  "end": 1945,
+  "color": "#6893fa",
+  "phases": [
+   {
+    "year": 1938,
+    "iso": [
+     "DEU",
+     "AUT"
+    ]
+   },
+   {
+    "year": 1942,
+    "iso": [
+     "DEU",
+     "AUT",
+     "POL",
+     "CZE",
+     "FRA",
+     "BEL",
+     "NLD",
+     "LUX",
+     "DNK",
+     "NOR",
+     "GRC",
+     "SVK",
+     "UKR",
+     "BLR"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "empire-of-japan",
+  "name": "Empire of Japan",
+  "start": 1868,
+  "end": 1945,
+  "color": "#bc9200",
+  "phases": [
+   {
+    "year": 1868,
+    "iso": [
+     "JPN"
+    ]
+   },
+   {
+    "year": 1910,
+    "iso": [
+     "JPN",
+     "PRK",
+     "KOR",
+     "TWN"
+    ]
+   },
+   {
+    "year": 1942,
+    "iso": [
+     "JPN",
+     "PRK",
+     "KOR",
+     "TWN",
+     "CHN",
+     "VNM",
+     "LAO",
+     "KHM",
+     "MMR",
+     "PHL",
+     "IDN",
+     "MYS",
+     "PNG"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "soviet-union",
+  "name": "Soviet Union",
+  "start": 1922,
+  "end": 1991,
+  "color": "#70ac38",
+  "phases": [
+   {
+    "year": 1922,
+    "iso": [
+     "RUS",
+     "UKR",
+     "BLR",
+     "KAZ",
+     "UZB",
+     "GEO",
+     "ARM",
+     "AZE"
+    ]
+   },
+   {
+    "year": 1945,
+    "iso": [
+     "RUS",
+     "UKR",
+     "BLR",
+     "KAZ",
+     "UZB",
+     "TKM",
+     "TJK",
+     "KGZ",
+     "GEO",
+     "ARM",
+     "AZE",
+     "MDA",
+     "EST",
+     "LVA",
+     "LTU"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "united-states",
+  "name": "United States",
+  "start": 1776,
+  "end": 2026,
+  "color": "#e87142",
+  "phases": [
+   {
+    "year": 1776,
+    "iso": [
+     "USA"
+    ]
+   },
+   {
+    "year": 1900,
+    "iso": [
+     "USA",
+     "PHL",
+     "CUB",
+     "PRI"
+    ]
+   },
+   {
+    "year": 1946,
+    "iso": [
+     "USA"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "modern-china",
+  "name": "People's Republic of China",
+  "start": 1949,
+  "end": 2026,
+  "color": "#c38e01",
+  "phases": [
+   {
+    "year": 1949,
+    "iso": [
+     "CHN"
+    ]
+   },
+   {
+    "year": 2000,
+    "iso": [
+     "CHN"
+    ]
+   }
+  ]
+ }
+]
